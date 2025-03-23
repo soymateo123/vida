@@ -88,6 +88,7 @@
       "marsh": "2025-03-21 01:03:19 +0000",
       "jade_cliffs": "2025-03-21 22:01:13 +0000",
       "clover_patch": "2025-03-21 22:00:19 +0000",
+      "cold_desert": "2025-03-23 20:47:47 +0000",
       "old_growth_woodland": "2025-03-21 00:46:01 +0000",
       "maple_woods": "2025-03-21 22:13:05 +0000",
       "crystalline_chasm": "2025-03-23 01:33:43 +0000",
@@ -108,6 +109,8 @@
       "pumpkin_patch": "2025-03-21 22:13:29 +0000",
       "prairie": "2025-03-21 00:51:43 +0000",
       "grassland": "2025-03-21 22:00:18 +0000",
+      "snowy_coniferous_forest": "2025-03-23 20:46:29 +0000",
+      "snowy_fir_clearing": "2025-03-23 20:44:57 +0000",
       "undergrowth": "2025-03-22 00:31:57 +0000",
       "origin_valley": "2025-03-23 19:47:46 +0000",
       "rainforest": "2025-03-17 01:40:09 +0000"
@@ -259,6 +262,7 @@
     "criteria": {
       "minecraft:taiga": "2025-03-21 00:56:35 +0000",
       "minecraft:deep_ocean": "2025-03-22 03:24:22 +0000",
+      "minecraft:frozen_river": "2025-03-23 20:46:23 +0000",
       "minecraft:birch_forest": "2025-03-21 00:55:24 +0000",
       "minecraft:bamboo_jungle": "2025-03-21 21:44:52 +0000",
       "minecraft:beach": "2025-03-21 00:57:02 +0000",
@@ -268,13 +272,18 @@
       "minecraft:lukewarm_ocean": "2025-03-16 23:37:49 +0000",
       "minecraft:river": "2025-03-16 22:51:29 +0000",
       "minecraft:stony_shore": "2025-03-16 23:24:07 +0000",
+      "minecraft:snowy_plains": "2025-03-23 20:46:28 +0000",
       "minecraft:dripstone_caves": "2025-03-22 03:49:57 +0000",
+      "minecraft:snowy_taiga": "2025-03-23 20:45:03 +0000",
       "minecraft:swamp": "2025-03-21 01:03:11 +0000",
       "minecraft:cold_ocean": "2025-03-21 00:57:23 +0000",
       "minecraft:forest": "2025-03-21 00:48:39 +0000",
       "minecraft:deep_cold_ocean": "2025-03-21 00:58:38 +0000",
+      "minecraft:frozen_ocean": "2025-03-23 20:42:02 +0000",
+      "minecraft:deep_frozen_ocean": "2025-03-23 20:41:37 +0000",
       "minecraft:jungle": "2025-03-20 23:59:33 +0000",
       "minecraft:ocean": "2025-03-21 22:03:21 +0000",
+      "minecraft:snowy_beach": "2025-03-23 20:42:42 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-03-22 00:50:08 +0000",
       "minecraft:old_growth_birch_forest": "2025-03-21 00:55:52 +0000",
       "minecraft:deep_dark": "2025-03-21 23:02:53 +0000",
@@ -1244,6 +1253,12 @@
     },
     "done": true
   },
+  "aquamirae:adventure/find_ice_maze": {
+    "criteria": {
+      "deep_frozen_ocean": "2025-03-23 20:41:37 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/pearl_on_abyssal_altar": {
     "criteria": {
       "use_charcoal": "2025-03-23 19:53:55 +0000"
@@ -1265,6 +1280,12 @@
   "alexscaves:alexscaves/discover_abyssal_chasm": {
     "criteria": {
       "discover": "2025-03-23 19:49:54 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/tremorzilla_egg": {
+    "criteria": {
+      "quarry": "2025-03-23 20:34:51 +0000"
     },
     "done": true
   },

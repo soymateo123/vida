@@ -83,6 +83,7 @@
       "shrubland": "2025-03-17 00:58:48 +0000",
       "rocky_shrubland": "2025-03-17 00:57:04 +0000",
       "scrubland": "2025-03-17 01:06:09 +0000",
+      "cold_desert": "2025-03-23 20:47:51 +0000",
       "moor": "2025-03-22 03:29:39 +0000",
       "spider_nest": "2025-03-17 01:40:55 +0000",
       "redwood_forest": "2025-03-22 03:26:27 +0000",
@@ -92,6 +93,8 @@
       "rocky_rainforest": "2025-03-17 01:40:35 +0000",
       "volcanic_plains": "2025-03-17 01:40:32 +0000",
       "grassland": "2025-03-22 03:29:48 +0000",
+      "snowy_coniferous_forest": "2025-03-23 20:46:31 +0000",
+      "snowy_fir_clearing": "2025-03-23 20:45:02 +0000",
       "glowing_grotto": "2025-03-17 01:40:34 +0000",
       "rainforest": "2025-03-17 01:33:49 +0000"
     },
@@ -154,6 +157,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "beef": "2025-03-23 20:35:35 +0000",
       "apple": "2025-03-17 01:02:44 +0000",
       "potato": "2025-03-22 03:14:36 +0000",
       "bread": "2025-03-17 01:03:32 +0000",
@@ -172,16 +176,23 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:deep_ocean": "2025-03-22 03:24:21 +0000",
+      "minecraft:frozen_river": "2025-03-23 20:46:27 +0000",
       "minecraft:bamboo_jungle": "2025-03-22 03:20:16 +0000",
       "minecraft:beach": "2025-03-22 03:26:07 +0000",
       "minecraft:stony_peaks": "2025-03-22 03:20:42 +0000",
       "minecraft:river": "2025-03-17 01:03:41 +0000",
       "minecraft:lukewarm_ocean": "2025-03-17 01:33:08 +0000",
       "minecraft:stony_shore": "2025-03-17 01:06:57 +0000",
+      "minecraft:snowy_plains": "2025-03-23 20:46:29 +0000",
       "minecraft:dripstone_caves": "2025-03-22 03:49:58 +0000",
+      "minecraft:snowy_taiga": "2025-03-23 20:45:01 +0000",
       "minecraft:forest": "2025-03-22 03:26:10 +0000",
+      "minecraft:deep_cold_ocean": "2025-03-23 20:36:46 +0000",
+      "minecraft:frozen_ocean": "2025-03-23 20:39:11 +0000",
+      "minecraft:deep_frozen_ocean": "2025-03-23 20:39:01 +0000",
       "minecraft:jungle": "2025-03-22 03:20:11 +0000",
       "minecraft:ocean": "2025-03-22 03:24:41 +0000",
+      "minecraft:snowy_beach": "2025-03-23 20:42:46 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-03-22 03:23:59 +0000",
       "minecraft:deep_dark": "2025-03-17 01:32:40 +0000",
       "minecraft:plains": "2025-03-22 03:26:09 +0000"
@@ -551,15 +562,33 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/discover_abyssal_ruins": {
+    "criteria": {
+      "abyssal_ruins": "2025-03-23 20:33:13 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/banana": {
     "criteria": {
       "banana": "2025-03-23 20:23:18 +0000"
     },
     "done": true
   },
+  "aquamirae:adventure/find_ice_maze": {
+    "criteria": {
+      "deep_frozen_ocean": "2025-03-23 20:39:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:end/root": {
     "criteria": {
       "entered_end": "2025-03-23 20:26:51 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_abyssal_chasm": {
+    "criteria": {
+      "discover": "2025-03-23 20:33:13 +0000"
     },
     "done": true
   },

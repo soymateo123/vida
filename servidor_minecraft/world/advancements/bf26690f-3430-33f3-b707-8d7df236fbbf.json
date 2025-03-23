@@ -11,9 +11,33 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2025-03-23 20:49:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-03-23 20:48:51 +0000"
+    },
+    "done": true
+  },
   "undead_revamp2:theundeadchallenges": {
     "criteria": {
       "theundeadchallenges_0": "2025-03-23 20:13:18 +0000"
+    },
+    "done": true
+  },
+  "quark:throw_pickarang": {
+    "criteria": {
+      "throw_pickarang": "2025-03-23 20:41:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-03-23 20:49:55 +0000"
     },
     "done": true
   },
@@ -47,6 +71,12 @@
     },
     "done": true
   },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-03-23 20:45:21 +0000"
+    },
+    "done": true
+  },
   "naturescompass:natures_compass": {
     "criteria": {
       "has_recipe": "2025-03-23 20:13:18 +0000"
@@ -71,6 +101,12 @@
       "rocky_shrubland": "2025-03-23 20:13:20 +0000"
     },
     "done": false
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-03-23 20:36:08 +0000"
+    },
+    "done": true
   },
   "mowziesmobs:root": {
     "criteria": {
@@ -99,7 +135,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "apple": "2025-03-23 20:19:31 +0000",
-      "potato": "2025-03-23 20:20:16 +0000"
+      "potato": "2025-03-23 20:20:16 +0000",
+      "bread": "2025-03-23 20:44:48 +0000"
     },
     "done": false
   },
@@ -120,6 +157,12 @@
       "always": "2025-03-23 20:13:18 +0000"
     },
     "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "potato": "2025-03-23 20:33:29 +0000"
+    },
+    "done": false
   },
   "tombstone:adventure/root": {
     "criteria": {
