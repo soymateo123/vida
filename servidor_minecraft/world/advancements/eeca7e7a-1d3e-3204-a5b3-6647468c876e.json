@@ -1271,6 +1271,18 @@
     },
     "done": true
   },
+  "graveyard:graveyard/lich_prison": {
+    "criteria": {
+      "lich_prison": "2025-03-23 21:29:37 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/lost_tentacle": {
+    "criteria": {
+      "capsid": "2025-03-23 21:14:07 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/deep_ones_become_neutral": {
     "criteria": {
       "stalked_by_deep_one": "2025-03-23 20:06:51 +0000"
@@ -1280,6 +1292,12 @@
   "alexscaves:alexscaves/discover_abyssal_chasm": {
     "criteria": {
       "discover": "2025-03-23 19:49:54 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:wrong_santa": {
+    "criteria": {
+      "wrong_santa_0": "2025-03-23 21:12:09 +0000"
     },
     "done": true
   },
@@ -1314,6 +1332,12 @@
       "ortholance": "2025-03-23 20:08:41 +0000"
     },
     "done": false
+  },
+  "tombstone:adventure/discreet_search": {
+    "criteria": {
+      "coded_trigger": "2025-03-23 21:16:26 +0000"
+    },
+    "done": true
   },
   "alexscaves:alexscaves/stalked_by_deep_one": {
     "criteria": {

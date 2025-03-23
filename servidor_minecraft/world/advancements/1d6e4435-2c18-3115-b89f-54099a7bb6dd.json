@@ -772,15 +772,9 @@
     },
     "done": true
   },
-  "artifacts:chest_slayer": {
+  "minecraft:adventure/hero_of_the_village": {
     "criteria": {
-      "kill_mimic": "2025-03-23 19:50:37 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/cave_book": {
-    "criteria": {
-      "cave_book": "2025-03-23 19:47:55 +0000"
+      "hero_of_the_village": "2025-03-23 19:17:01 +0000"
     },
     "done": true
   },
@@ -790,15 +784,21 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/discover_abyssal_chasm": {
+  "alexscaves:alexscaves/cave_book": {
     "criteria": {
-      "discover": "2025-03-23 20:26:04 +0000"
+      "cave_book": "2025-03-23 19:47:55 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/hero_of_the_village": {
+  "artifacts:chest_slayer": {
     "criteria": {
-      "hero_of_the_village": "2025-03-23 19:17:01 +0000"
+      "kill_mimic": "2025-03-23 19:50:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2025-03-23 20:09:44 +0000"
     },
     "done": true
   },
@@ -808,9 +808,9 @@
     },
     "done": true
   },
-  "minecraft:nether/netherite_armor": {
+  "alexscaves:alexscaves/discover_abyssal_chasm": {
     "criteria": {
-      "netherite_armor": "2025-03-23 20:09:44 +0000"
+      "discover": "2025-03-23 20:26:04 +0000"
     },
     "done": true
   },
