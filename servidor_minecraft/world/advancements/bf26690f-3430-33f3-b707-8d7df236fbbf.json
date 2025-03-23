@@ -1,4 +1,10 @@
 {
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2025-03-23 20:52:07 +0000"
+    },
+    "done": true
+  },
   "create:brass": {
     "criteria": {
       "0": "2025-03-23 20:23:21 +0000"
@@ -17,9 +23,33 @@
     },
     "done": true
   },
+  "lootr:social": {
+    "criteria": {
+      "opened_chest": "2025-03-23 20:52:07 +0000"
+    },
+    "done": false
+  },
+  "paraglider:root": {
+    "criteria": {
+      "crafting_table": "2025-03-23 20:52:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2025-03-23 20:48:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2025-03-23 21:01:51 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-03-23 21:01:50 +0000"
     },
     "done": true
   },
@@ -44,6 +74,12 @@
   "farmersdelight:main/root": {
     "criteria": {
       "seeds": "2025-03-23 20:13:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-03-23 21:01:50 +0000"
     },
     "done": true
   },
@@ -128,9 +164,16 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:lukewarm_ocean": "2025-03-23 20:52:39 +0000",
       "minecraft:stony_shore": "2025-03-23 20:24:21 +0000"
     },
     "done": false
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-03-23 20:58:12 +0000"
+    },
+    "done": true
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
@@ -160,9 +203,16 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
-      "potato": "2025-03-23 20:33:29 +0000"
+      "potato": "2025-03-23 20:33:29 +0000",
+      "wheat": "2025-03-23 20:58:12 +0000"
     },
     "done": false
+  },
+  "aquamirae:adventure/root": {
+    "criteria": {
+      "crafting_table": "2025-03-23 20:52:55 +0000"
+    },
+    "done": true
   },
   "tombstone:adventure/root": {
     "criteria": {
@@ -173,6 +223,12 @@
   "cataclysm:root": {
     "criteria": {
       "custom_test_name": "2025-03-23 20:13:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-03-23 20:52:55 +0000"
     },
     "done": true
   },

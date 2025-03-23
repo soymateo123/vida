@@ -482,9 +482,10 @@
   },
   "create:wrench_goggles": {
     "criteria": {
-      "0": "2025-03-21 21:59:26 +0000"
+      "0": "2025-03-21 21:59:26 +0000",
+      "1": "2025-03-23 21:00:27 +0000"
     },
-    "done": false
+    "done": true
   },
   "create:shifting_gears": {
     "criteria": {
@@ -1090,6 +1091,12 @@
   "tombstone:adventure/create_magic_scroll": {
     "criteria": {
       "has_magic_scroll": "2025-03-23 20:01:41 +0000"
+    },
+    "done": true
+  },
+  "create:backtank": {
+    "criteria": {
+      "0": "2025-03-23 21:00:11 +0000"
     },
     "done": true
   },

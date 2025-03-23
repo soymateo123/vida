@@ -562,6 +562,12 @@
     },
     "done": true
   },
+  "portablemobs:mastercelladvancement": {
+    "criteria": {
+      "mastercell": "2025-03-23 20:57:47 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/discover_abyssal_ruins": {
     "criteria": {
       "abyssal_ruins": "2025-03-23 20:33:13 +0000"
@@ -571,6 +577,12 @@
   "alexsmobs:alexsmobs/banana": {
     "criteria": {
       "banana": "2025-03-23 20:23:18 +0000"
+    },
+    "done": true
+  },
+  "knightquest:knightquest": {
+    "criteria": {
+      "requirement": "2025-03-23 21:02:19 +0000"
     },
     "done": true
   },
@@ -589,6 +601,12 @@
   "alexscaves:alexscaves/discover_abyssal_chasm": {
     "criteria": {
       "discover": "2025-03-23 20:33:13 +0000"
+    },
+    "done": true
+  },
+  "paraglider:paraglider": {
+    "criteria": {
+      "paraglider": "2025-03-23 21:00:35 +0000"
     },
     "done": true
   },

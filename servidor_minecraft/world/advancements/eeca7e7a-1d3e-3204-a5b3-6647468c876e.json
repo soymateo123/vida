@@ -1283,6 +1283,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2025-03-23 21:02:54 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/tremorzilla_egg": {
     "criteria": {
       "quarry": "2025-03-23 20:34:51 +0000"

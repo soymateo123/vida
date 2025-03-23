@@ -5631,3 +5631,202 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [23Mar2025 20:54:16.259] [Server thread/INFO] [tombstone/]: The player Kiritogamericrac has successfully been saved
 [23Mar2025 20:54:29.432] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4333ms or 86 ticks behind
 [23Mar2025 20:54:47.070] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2671ms or 53 ticks behind
+[23Mar2025 20:55:05.235] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=432, y=64, z=385} BlockPos{x=432, y=63, z=384}
+[23Mar2025 20:55:05.382] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=432, y=64, z=385} BlockPos{x=432, y=63, z=384}
+[23Mar2025 20:55:08.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Andremat2010> gunter tp
+[23Mar2025 20:55:10.463] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8414ms or 168 ticks behind
+[23Mar2025 20:55:24.968] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/167676, l='ServerLevel[world]', x=472.29, y=-256.00, z=428.10] died, message: 'Unemployed was killed'
+[23Mar2025 20:55:28.172] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=425, y=64, z=383} BlockPos{x=425, y=62, z=381}
+[23Mar2025 20:55:28.702] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=424, y=64, z=381} BlockPos{x=424, y=62, z=379}
+[23Mar2025 20:55:30.299] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4849ms or 96 ticks behind
+[23Mar2025 20:55:33.235] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=423, y=64, z=380} BlockPos{x=422, y=62, z=381}
+[23Mar2025 20:55:42.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Andremat2010> fablex
+[23Mar2025 20:55:50.734] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5484ms or 109 ticks behind
+[23Mar2025 20:56:09.412] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3712ms or 74 ticks behind
+[23Mar2025 20:56:21.969] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2230, y=-39, z=2044} BlockPos{x=-2232, y=-41, z=2043}
+[23Mar2025 20:56:28.852] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4453ms or 89 ticks behind
+[23Mar2025 20:56:37.809] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=427, y=65, z=372} BlockPos{x=428, y=65, z=371}
+[23Mar2025 20:56:39.208] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=420, y=63, z=374} BlockPos{x=419, y=63, z=373}
+[23Mar2025 20:56:39.469] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=419, y=65, z=374} BlockPos{x=419, y=63, z=375}
+[23Mar2025 20:56:39.601] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=419, y=64, z=372} BlockPos{x=418, y=65, z=373}
+[23Mar2025 20:56:39.666] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=419, y=64, z=372} BlockPos{x=418, y=65, z=373}
+[23Mar2025 20:56:45.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Andremat2010> fablex tp
+[23Mar2025 20:56:48.217] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4368ms or 87 ticks behind
+[23Mar2025 20:56:53.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fablex39> hustedes mrdd
+[23Mar2025 20:56:59.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LTCBAS2022> tp
+[23Mar2025 20:57:07.130] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3930ms or 78 ticks behind
+[23Mar2025 20:57:23.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Andremat2010> a pero si fuera .....
+[23Mar2025 20:57:25.150] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3051ms or 61 ticks behind
+[23Mar2025 20:57:46.022] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5873ms or 117 ticks behind
+[23Mar2025 20:57:47.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiritogamericrac has made the advancement [Gotta Capture Them All!]
+[23Mar2025 20:58:04.401] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3402ms or 68 ticks behind
+[23Mar2025 20:58:12.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tayra has made the advancement [A Seedy Place]
+[23Mar2025 20:58:22.375] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2976ms or 59 ticks behind
+[23Mar2025 20:58:33.901] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=494, y=72, z=394} BlockPos{x=494, y=70, z=392}
+[23Mar2025 20:58:34.807] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Andremat2010 lost connection: Timed out
+[23Mar2025 20:58:34.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Andremat2010 left the game
+[23Mar2025 20:58:39.697] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2348ms or 46 ticks behind
+[23Mar2025 20:59:11.600] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[23Mar2025 20:59:46.453] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[23Mar2025 21:00:05.905] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[23Mar2025 21:00:21.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Creative Mode]
+[23Mar2025 21:00:23.572] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2673ms or 53 ticks behind
+[23Mar2025 21:00:34.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Survival Mode]
+[23Mar2025 21:00:35.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiritogamericrac has reached the goal [Half a flight]
+[23Mar2025 21:01:04.259] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[23Mar2025 21:01:24.626] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
+[23Mar2025 21:01:36.884] [Server thread/WARN] [tombstone/]: The death event of the player Kiritogamericrac was canceled by another mod
+[23Mar2025 21:01:36.906] [Server thread/INFO] [tombstone/]: The player Kiritogamericrac has successfully been saved
+[23Mar2025 21:01:50.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tayra has made the advancement [We Need to Go Deeper]
+[23Mar2025 21:01:55.273] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[23Mar2025 21:02:15.070] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4820ms or 96 ticks behind
+[23Mar2025 21:02:19.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiritogamericrac has made the advancement [Knight Quest]
+[23Mar2025 21:02:27.360] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elchipaxd12[/127.223.203.153:58751] logged in with entity id 172992 at (3975.094885324796, 66.0, 1699.0547870909227)
+[23Mar2025 21:02:27.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elchipaxd12 joined the game
+[23Mar2025 21:02:27.378] [Server thread/INFO] [Jade/]: Syncing config to elchipaxd12 (c93c4669-f71e-3f02-9321-c5af2f0fcd55)
+[23Mar2025 21:02:35.463] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5413ms or 108 ticks behind
+[23Mar2025 21:02:39.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elchipaxd12> fablexxxxxxxx
+[23Mar2025 21:02:41.358] [Server thread/WARN] [tombstone/]: The death event of the player fablex39 was canceled by another mod
+[23Mar2025 21:02:41.386] [Server thread/INFO] [tombstone/]: The player fablex39 has successfully been saved
+[23Mar2025 21:02:41.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elchipaxd12> tp a matiiiiii
+[23Mar2025 21:02:45.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elchipaxd12> rapidooooooooooo
+[23Mar2025 21:02:51.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elchipaxd12> hay un monton de mobs
+[23Mar2025 21:02:52.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiritogamericrac was slain by Krampus
+[23Mar2025 21:02:53.737] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3288ms or 65 ticks behind
+[23Mar2025 21:02:54.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabriel has reached the goal [Postmortal]
+[23Mar2025 21:02:54.790] [Server thread/INFO] [tombstone/]: The player Gabriel has successfully been saved
+[23Mar2025 21:03:04.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elchipaxd12> fablexxxxxxx
+[23Mar2025 21:03:12.568] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3869ms or 77 ticks behind
+[23Mar2025 21:03:32.898] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5349ms or 106 ticks behind
+[23Mar2025 21:03:37.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Creative Mode]
+[23Mar2025 21:03:39.634] [Server thread/WARN] [tombstone/]: The death event of the player tayra was canceled by another mod
+[23Mar2025 21:03:39.671] [Server thread/INFO] [tombstone/]: The player tayra has successfully been saved
+[23Mar2025 21:03:42.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Survival Mode]
+[23Mar2025 21:03:49.434] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/174077, l='ServerLevel[world]', x=471.97, y=-256.00, z=428.19] died, message: 'Unemployed was killed'
+[23Mar2025 21:03:51.828] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3978ms or 79 ticks behind
+[23Mar2025 21:04:03.153] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Andremat2010[/127.41.17.168:60853] logged in with entity id 174390 at (-2242.300000011921, 30.0, 1909.5758830442512)
+[23Mar2025 21:04:03.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Andremat2010 joined the game
+[23Mar2025 21:04:03.187] [Server thread/INFO] [Jade/]: Syncing config to Andremat2010 (b6190ebc-ec78-3fbc-8ee5-431ad60fde8c)
+[23Mar2025 21:04:07.336] [Server thread/WARN] [tombstone/]: The death event of the player Gabriel was canceled by another mod
+[23Mar2025 21:04:07.387] [Server thread/INFO] [tombstone/]: The player Gabriel has successfully been saved
+[23Mar2025 21:04:11.808] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5009ms or 100 ticks behind
+[23Mar2025 21:04:14.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel> o fablex
+[23Mar2025 21:04:17.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elchipaxd12> tp
+[23Mar2025 21:04:18.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel> ya pe mrd
+[23Mar2025 21:04:23.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elchipaxd12> fablexxxx
+[23Mar2025 21:04:28.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elchipaxd12> tp a santi
+[23Mar2025 21:04:33.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel> deja el roll
+[23Mar2025 21:04:33.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fablex39> hagan portal
+[23Mar2025 21:04:33.831] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7031ms or 140 ticks behind
+[23Mar2025 21:04:34.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel> mrd
+[23Mar2025 21:04:37.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel> mis huevos
+[23Mar2025 21:04:39.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elchipaxd12> no hay posion
+[23Mar2025 21:04:39.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel> ya pe
+[23Mar2025 21:04:42.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LTCBAS2022> oe fablex
+[23Mar2025 21:04:48.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabriel was slain by Krampus
+[23Mar2025 21:04:49.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LTCBAS2022> hazme tp a mi
+[23Mar2025 21:04:51.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elchipaxd12> oeeeeeeeee
+[23Mar2025 21:04:56.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LTCBAS2022> yo no puedo ir a cas
+[23Mar2025 21:04:57.143] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8344ms or 166 ticks behind
+[23Mar2025 21:04:58.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LTCBAS2022> a
+[23Mar2025 21:05:15.133] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/175548, l='ServerLevel[world]', x=471.97, y=-256.00, z=428.19] died, message: 'Unemployed was killed'
+[23Mar2025 21:05:16.127] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4028ms or 80 ticks behind
+[23Mar2025 21:05:23.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel> revive mrd
+[23Mar2025 21:05:26.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel> rapido
+[23Mar2025 21:05:31.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elchipaxd12> fableexxxxxxxxxxxxxxx
+[23Mar2025 21:05:34.366] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3267ms or 65 ticks behind
+[23Mar2025 21:05:35.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elchipaxd12> oeeeeeeee
+[23Mar2025 21:05:48.514] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Andremat2010 lost connection: Timed out
+[23Mar2025 21:05:48.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Andremat2010 left the game
+[23Mar2025 21:05:55.281] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5931ms or 118 ticks behind
+[23Mar2025 21:06:12.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel> oe revive
+[23Mar2025 21:06:16.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel> mrd
+[23Mar2025 21:06:17.433] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7183ms or 143 ticks behind
+[23Mar2025 21:06:18.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fablex39> revive tu
+[23Mar2025 21:06:23.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel> estoy muerto
+[23Mar2025 21:06:24.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel> weon
+[23Mar2025 21:06:25.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fablex39> no hay toten
+[23Mar2025 21:06:31.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tayra> si no me vas a responder mejor me salgo
+[23Mar2025 21:06:32.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiritogamericrac> LELELEL
+[23Mar2025 21:06:37.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel> xddddddddd
+[23Mar2025 21:06:39.108] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6708ms or 134 ticks behind
+[23Mar2025 21:06:40.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elchipaxd12> uyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy
+[23Mar2025 21:06:43.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elchipaxd12> uyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy
+[23Mar2025 21:06:43.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiritogamericrac> UY
+[23Mar2025 21:06:53.555] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2e1801e9[id=<null>,name=Andremat2010,properties={},legacy=false] (/127.156.93.252:41093) lost connection: Disconnected
+[23Mar2025 21:06:59.313] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5213ms or 104 ticks behind
+[23Mar2025 21:07:01.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elchipaxd12> suicidate fablexxxxxxxxx
+[23Mar2025 21:07:19.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Creative Mode]
+[23Mar2025 21:07:19.633] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5334ms or 106 ticks behind
+[23Mar2025 21:07:20.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiritogamericrac> pero con meili si no favlex
+[23Mar2025 21:07:26.736] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Andremat2010[/127.156.93.252:42253] logged in with entity id 176783 at (-2209.300000011921, 60.0, 1909.42828813323)
+[23Mar2025 21:07:26.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Andremat2010 joined the game
+[23Mar2025 21:07:26.775] [Server thread/INFO] [Jade/]: Syncing config to Andremat2010 (b6190ebc-ec78-3fbc-8ee5-431ad60fde8c)
+[23Mar2025 21:07:29.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elchipaxd12> con meily no fablex
+[23Mar2025 21:07:31.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elchipaxd12> cagon
+[23Mar2025 21:07:41.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Survival Mode]
+[23Mar2025 21:07:41.112] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6513ms or 130 ticks behind
+[23Mar2025 21:07:41.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel> xdddd
+[23Mar2025 21:07:56.845] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Andremat2010 lost connection: Timed out
+[23Mar2025 21:07:56.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Andremat2010 left the game
+[23Mar2025 21:08:03.298] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7199ms or 143 ticks behind
+[23Mar2025 21:08:24.380] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6131ms or 122 ticks behind
+[23Mar2025 21:08:26.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel> tienes una wastone
+[23Mar2025 21:08:34.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fablex39> HAY HAY
+[23Mar2025 21:08:36.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elchipaxd12> oe fablexxxxxxxxxxxx
+[23Mar2025 21:08:38.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elchipaxd12> tppppp
+[23Mar2025 21:08:44.796] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5447ms or 108 ticks behind
+[23Mar2025 21:08:50.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel> tienes waystone ???
+[23Mar2025 21:08:56.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel> fablex
+[23Mar2025 21:09:00.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fablex39> daw de mrd
+[23Mar2025 21:09:03.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel> otra
+[23Mar2025 21:09:05.721] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5971ms or 119 ticks behind
+[23Mar2025 21:09:12.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel> para volver
+[23Mar2025 21:09:14.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel> xd
+[23Mar2025 21:09:20.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fablex39> no
+[23Mar2025 21:09:21.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fablex39> xd
+[23Mar2025 21:09:22.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel> xddd
+[23Mar2025 21:09:26.404] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5705ms or 114 ticks behind
+[23Mar2025 21:09:33.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiritogamericrac> revive
+[23Mar2025 21:09:39.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fablex39> chupame el nepe
+[23Mar2025 21:09:41.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tayra> tienes 1 minuto
+[23Mar2025 21:09:47.303] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5904ms or 118 ticks behind
+[23Mar2025 21:09:51.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiritogamericrac> uyy
+[23Mar2025 21:10:08.537] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6238ms or 124 ticks behind
+[23Mar2025 21:10:16.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiritogamericrac> revive favlexx
+[23Mar2025 21:10:32.397] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8898ms or 177 ticks behind
+[23Mar2025 21:10:55.772] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8422ms or 168 ticks behind
+[23Mar2025 21:11:14.047] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Andremat2010[/127.156.93.252:41341] logged in with entity id 178753 at (-2209.300000011921, 60.0, 1909.42828813323)
+[23Mar2025 21:11:14.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Andremat2010 joined the game
+[23Mar2025 21:11:14.066] [Server thread/INFO] [Jade/]: Syncing config to Andremat2010 (b6190ebc-ec78-3fbc-8ee5-431ad60fde8c)
+[23Mar2025 21:11:20.623] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9874ms or 197 ticks behind
+[23Mar2025 21:11:44.251] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Andremat2010 lost connection: Timed out
+[23Mar2025 21:11:44.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Andremat2010 left the game
+[23Mar2025 21:11:47.342] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11742ms or 234 ticks behind
+[23Mar2025 21:11:58.227] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elchipaxd12 lost connection: Disconnected
+[23Mar2025 21:11:58.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elchipaxd12 left the game
+[23Mar2025 21:12:09.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabriel has reached the goal [Wrong Santa]
+[23Mar2025 21:12:11.656] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9357ms or 187 ticks behind
+[23Mar2025 21:12:33.063] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6414ms or 128 ticks behind
+[23Mar2025 21:12:39.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LTCBAS2022 has made the advancement [Bonfire Lit]
+[23Mar2025 21:12:49.098] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kiritogamericrac lost connection: Disconnected
+[23Mar2025 21:12:49.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiritogamericrac left the game
+[23Mar2025 21:12:54.959] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6909ms or 138 ticks behind
+[23Mar2025 21:13:16.426] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6477ms or 129 ticks behind
+[23Mar2025 21:13:19.002] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elchipaxd12[/127.223.203.153:33505] logged in with entity id 180546 at (4386.07046013845, 64.0, 1860.1151288290282)
+[23Mar2025 21:13:19.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elchipaxd12 joined the game
+[23Mar2025 21:13:19.022] [Server thread/INFO] [Jade/]: Syncing config to elchipaxd12 (c93c4669-f71e-3f02-9321-c5af2f0fcd55)
+[23Mar2025 21:13:38.949] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7549ms or 150 ticks behind
+[23Mar2025 21:13:51.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fablex39> CHISCOS ME VOY REGRESO EL PROXIMO VIERNES SI SE CIERRA EL SERVERD YA SABEN SOLO FINES DE SEMANA
+[23Mar2025 21:14:00.228] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6328ms or 126 ticks behind
+[23Mar2025 21:14:02.118] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tayra lost connection: Disconnected
+[23Mar2025 21:14:02.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tayra left the game
+[23Mar2025 21:14:07.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabriel has made the advancement [A Small Price to Pay...]
+[23Mar2025 21:14:15.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LTCBAS2022> q?
+[23Mar2025 21:14:20.183] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4984ms or 99 ticks behind
+[23Mar2025 21:14:21.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LTCBAS2022> recien llego oe
+[23Mar2025 21:14:41.568] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6419ms or 128 ticks behind
+[23Mar2025 21:14:48.010] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fablex39 lost connection: Disconnected
+[23Mar2025 21:14:48.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fablex39 left the game
+[23Mar2025 21:15:02.196] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5647ms or 112 ticks behind
+[23Mar2025 21:15:21.946] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4797ms or 95 ticks behind
