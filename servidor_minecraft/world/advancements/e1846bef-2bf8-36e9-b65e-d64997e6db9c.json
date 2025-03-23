@@ -1019,6 +1019,12 @@
     },
     "done": false
   },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2025-03-23 19:55:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2025-03-23 19:06:12 +0000"

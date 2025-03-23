@@ -109,6 +109,7 @@
       "prairie": "2025-03-21 00:51:43 +0000",
       "grassland": "2025-03-21 22:00:18 +0000",
       "undergrowth": "2025-03-22 00:31:57 +0000",
+      "origin_valley": "2025-03-23 19:47:46 +0000",
       "rainforest": "2025-03-17 01:40:09 +0000"
     },
     "done": false
@@ -1207,6 +1208,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/ride_submarine": {
+    "criteria": {
+      "ride_a_boat_with_a_goat": "2025-03-23 19:59:54 +0000"
+    },
+    "done": true
+  },
   "illageandspillage:kill_all_iands": {
     "criteria": {
       "illageandspillage:preserver": "2025-03-23 18:55:05 +0000",
@@ -1231,9 +1238,39 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/discover_abyssal_ruins": {
+    "criteria": {
+      "abyssal_ruins": "2025-03-23 19:53:01 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/pearl_on_abyssal_altar": {
+    "criteria": {
+      "use_charcoal": "2025-03-23 19:53:55 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/mussel": {
+    "criteria": {
+      "mussel": "2025-03-23 19:50:47 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_abyssal_chasm": {
+    "criteria": {
+      "discover": "2025-03-23 19:49:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/hero_of_the_village": {
     "criteria": {
       "hero_of_the_village": "2025-03-23 19:17:01 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/pearl": {
+    "criteria": {
+      "pearl": "2025-03-23 19:50:48 +0000"
     },
     "done": true
   },
