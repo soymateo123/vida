@@ -265,7 +265,9 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:blaze": "2025-03-22 00:24:58 +0000",
+      "minecraft:pillager": "2025-03-23 19:03:51 +0000",
       "minecraft:skeleton": "2025-03-20 22:04:30 +0000",
+      "minecraft:ravager": "2025-03-23 19:03:50 +0000",
       "minecraft:hoglin": "2025-03-22 00:52:15 +0000",
       "minecraft:vindicator": "2025-03-23 18:56:57 +0000",
       "minecraft:magma_cube": "2025-03-22 00:41:43 +0000",
@@ -844,6 +846,7 @@
   },
   "illageandspillage:kill_all_iands": {
     "criteria": {
+      "illageandspillage:preserver": "2025-03-23 19:06:24 +0000",
       "illageandspillage:igniter": "2025-03-23 18:53:36 +0000"
     },
     "done": false
