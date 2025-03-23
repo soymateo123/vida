@@ -5395,3 +5395,90 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [23Mar2025 20:23:33.243] [Server thread/INFO] [Jade/]: Syncing config to Andremat2010 (b6190ebc-ec78-3fbc-8ee5-431ad60fde8c)
 [23Mar2025 20:23:35.771] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3722ms or 74 ticks behind
 [23Mar2025 20:23:55.502] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4752ms or 95 ticks behind
+[23Mar2025 20:24:19.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: minitipa has made the advancement [Your First Receptacle]
+[23Mar2025 20:24:20.261] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9762ms or 195 ticks behind
+[23Mar2025 20:24:23.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fablex39 has made the advancement [Complex Curiosities]
+[23Mar2025 20:24:44.067] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8817ms or 176 ticks behind
+[23Mar2025 20:24:49.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Creative Mode]
+[23Mar2025 20:25:05.841] [Server thread/WARN] [tombstone/]: The death event of the player tayra was canceled by another mod
+[23Mar2025 20:25:05.927] [Server thread/INFO] [tombstone/]: The player tayra has successfully been saved
+[23Mar2025 20:25:10.426] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11377ms or 227 ticks behind
+[23Mar2025 20:25:25.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Survival Mode]
+[23Mar2025 20:25:36.905] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11505ms or 230 ticks behind
+[23Mar2025 20:26:00.254] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8355ms or 167 ticks behind
+[23Mar2025 20:26:04.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: minitipa has reached the goal [Beyond the Sea]
+[23Mar2025 20:26:19.701] [Server thread/WARN] [tombstone/]: The death event of the player tayra was canceled by another mod
+[23Mar2025 20:26:19.712] [Server thread/INFO] [tombstone/]: The player tayra has successfully been saved
+[23Mar2025 20:26:24.605] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9355ms or 187 ticks behind
+[23Mar2025 20:26:31.744] [Server thread/WARN] [tombstone/]: The death event of the player Kiritogamericrac was canceled by another mod
+[23Mar2025 20:26:31.817] [Server thread/INFO] [tombstone/]: The player Kiritogamericrac has successfully been saved
+[23Mar2025 20:26:49.761] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10162ms or 203 ticks behind
+[23Mar2025 20:26:51.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiritogamericrac has made the advancement [The End?]
+[23Mar2025 20:27:17.194] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12444ms or 248 ticks behind
+[23Mar2025 20:27:31.420] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Andremat2010 lost connection: Disconnected
+[23Mar2025 20:27:31.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Andremat2010 left the game
+[23Mar2025 20:27:35.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiritogamericrac> con que asi estamos perra traes a otra zorra y te olvidas no?
+[23Mar2025 20:27:39.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fablex39> rescaten a mati
+[23Mar2025 20:27:40.928] [Server thread/WARN] [tombstone/]: The death event of the player minitipa was canceled by another mod
+[23Mar2025 20:27:40.966] [Server thread/INFO] [tombstone/]: The player minitipa has successfully been saved
+[23Mar2025 20:27:42.030] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9880ms or 197 ticks behind
+[23Mar2025 20:28:02.303] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5304ms or 106 ticks behind
+[23Mar2025 20:28:23.459] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6160ms or 123 ticks behind
+[23Mar2025 20:28:45.252] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6802ms or 136 ticks behind
+[23Mar2025 20:28:47.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Creative Mode]
+[23Mar2025 20:28:57.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Survival Mode]
+[23Mar2025 20:28:58.308] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/123079, l='ServerLevel[world]', x=471.40, y=-256.00, z=440.27] died, message: 'Unemployed was killed'
+[23Mar2025 20:29:02.566] [Server thread/WARN] [tombstone/]: The death event of the player Kiritogamericrac was canceled by another mod
+[23Mar2025 20:29:02.576] [Server thread/INFO] [tombstone/]: The player Kiritogamericrac has successfully been saved
+[23Mar2025 20:29:05.854] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5605ms or 112 ticks behind
+[23Mar2025 20:29:24.477] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3627ms or 72 ticks behind
+[23Mar2025 20:29:32.775] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Andremat2010[/127.156.93.252:42183] logged in with entity id 124062 at (-1995.7707452901996, -24.0, 1757.1107881027135)
+[23Mar2025 20:29:32.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Andremat2010 joined the game
+[23Mar2025 20:29:32.794] [Server thread/INFO] [Jade/]: Syncing config to Andremat2010 (b6190ebc-ec78-3fbc-8ee5-431ad60fde8c)
+[23Mar2025 20:29:43.617] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4168ms or 83 ticks behind
+[23Mar2025 20:29:58.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tayra> te
+[23Mar2025 20:30:03.152] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4553ms or 91 ticks behind
+[23Mar2025 20:30:19.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiritogamericrac was slain by Enderman
+[23Mar2025 20:30:22.928] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4779ms or 95 ticks behind
+[23Mar2025 20:30:42.234] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4335ms or 86 ticks behind
+[23Mar2025 20:30:47.336] [Server thread/WARN] [tombstone/]: The death event of the player tayra was canceled by another mod
+[23Mar2025 20:30:47.355] [Server thread/INFO] [tombstone/]: The player tayra has successfully been saved
+[23Mar2025 20:31:02.982] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5783ms or 115 ticks behind
+[23Mar2025 20:31:24.041] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6092ms or 121 ticks behind
+[23Mar2025 20:31:29.542] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: minitipa lost connection: Disconnected
+[23Mar2025 20:31:29.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: minitipa left the game
+[23Mar2025 20:31:41.885] [Server thread/WARN] [tombstone/]: The death event of the player tayra was canceled by another mod
+[23Mar2025 20:31:41.951] [Server thread/INFO] [tombstone/]: The player tayra has successfully been saved
+[23Mar2025 20:31:44.927] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5927ms or 118 ticks behind
+[23Mar2025 20:31:48.085] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Andremat2010 lost connection: Timed out
+[23Mar2025 20:31:48.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Andremat2010 left the game
+[23Mar2025 20:31:59.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fablex39> q fue
+[23Mar2025 20:32:05.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fablex39> asi tratas a los nuevos
+[23Mar2025 20:32:17.954] [Server thread/WARN] [tombstone/]: The death event of the player elchipaxd12 was canceled by another mod
+[23Mar2025 20:32:17.972] [Server thread/INFO] [tombstone/]: The player elchipaxd12 has successfully been saved
+[23Mar2025 20:32:20.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fablex39 has completed the challenge [Free Willy]
+[23Mar2025 20:32:29.685] [Server thread/WARN] [tombstone/]: The death event of the player tayra was canceled by another mod
+[23Mar2025 20:32:29.700] [Server thread/INFO] [tombstone/]: The player tayra has successfully been saved
+[23Mar2025 20:32:30.589] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@4b9d0136[id=<null>,name=Andremat2010,properties={},legacy=false] (/127.156.93.252:45117): Took too long to log in
+[23Mar2025 20:32:30.591] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4b9d0136[id=<null>,name=Andremat2010,properties={},legacy=false] (/127.156.93.252:45117) lost connection: Took too long to log in
+[23Mar2025 20:32:30.635] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[23Mar2025 20:32:35.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elchipaxd12> fablexxxxx
+[23Mar2025 20:32:42.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fablex39> que
+[23Mar2025 20:32:45.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elchipaxd12> ayuda
+[23Mar2025 20:32:55.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set Kiritogamericrac's game mode to Survival Mode]
+[23Mar2025 20:33:09.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elchipaxd12> mandame con mati
+[23Mar2025 20:33:12.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Teleported Kiritogamericrac to Gabriel]
+[23Mar2025 20:33:13.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiritogamericrac has made the advancement [Shell City]
+[23Mar2025 20:33:13.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiritogamericrac has reached the goal [Beyond the Sea]
+[23Mar2025 20:33:28.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elchipaxd12> mandame con matiiii
+[23Mar2025 20:33:30.951] [Server thread/WARN] [tombstone/]: The death event of the player tayra was canceled by another mod
+[23Mar2025 20:33:31.020] [Server thread/INFO] [tombstone/]: The player tayra has successfully been saved
+[23Mar2025 20:33:42.176] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4adebfe[id=<null>,name=Andremat2010,properties={},legacy=false] (/127.41.17.168:56083) lost connection: Disconnected
+[23Mar2025 20:33:50.162] [Server thread/WARN] [tombstone/]: The death event of the player Kiritogamericrac was canceled by another mod
+[23Mar2025 20:33:50.185] [Server thread/INFO] [tombstone/]: The player Kiritogamericrac has successfully been saved
+[23Mar2025 20:33:56.009] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/129249, l='ServerLevel[world]', x=472.23, y=-256.00, z=440.24] died, message: 'Unemployed was killed'
+[23Mar2025 20:34:05.797] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elchipaxd12 lost connection: Disconnected
+[23Mar2025 20:34:05.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elchipaxd12 left the game
+[23Mar2025 20:34:20.346] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@3c47635c[id=<null>,name=Andremat2010,properties={},legacy=false] (/127.41.17.168:41897): Took too long to log in
+[23Mar2025 20:34:20.347] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3c47635c[id=<null>,name=Andremat2010,properties={},legacy=false] (/127.41.17.168:41897) lost connection: Took too long to log in
+[23Mar2025 20:34:20.404] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice

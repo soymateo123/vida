@@ -197,6 +197,7 @@
       "minecraft:jagged_peaks": "2025-03-22 20:09:24 +0000",
       "minecraft:forest": "2025-03-16 23:49:17 +0000",
       "minecraft:lush_caves": "2025-03-22 20:10:30 +0000",
+      "minecraft:deep_cold_ocean": "2025-03-23 20:26:12 +0000",
       "minecraft:ocean": "2025-03-16 23:13:03 +0000",
       "minecraft:jungle": "2025-03-22 20:09:30 +0000",
       "minecraft:old_growth_birch_forest": "2025-03-22 20:40:54 +0000",
@@ -789,9 +790,21 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/discover_abyssal_chasm": {
+    "criteria": {
+      "discover": "2025-03-23 20:26:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/hero_of_the_village": {
     "criteria": {
       "hero_of_the_village": "2025-03-23 19:17:01 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_familiar_receptacle": {
+    "criteria": {
+      "has_receptacle_of_familiar": "2025-03-23 20:24:19 +0000"
     },
     "done": true
   },

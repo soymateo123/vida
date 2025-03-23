@@ -1026,6 +1026,12 @@
     },
     "done": true
   },
+  "create:deployer": {
+    "criteria": {
+      "0": "2025-03-23 20:23:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:end/find_end_city": {
     "criteria": {
       "in_city": "2025-03-23 19:55:22 +0000"
@@ -1053,6 +1059,12 @@
   "tombstone:adventure/fortuitous_militia": {
     "criteria": {
       "coded_trigger": "2025-03-23 19:06:09 +0000"
+    },
+    "done": true
+  },
+  "create:precision_mechanism": {
+    "criteria": {
+      "0": "2025-03-23 20:24:23 +0000"
     },
     "done": true
   },

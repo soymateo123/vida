@@ -1283,6 +1283,7 @@
   },
   "alexscaves:alexscaves/deep_one_items": {
     "criteria": {
+      "gazing_pearl": "2025-03-23 20:20:46 +0000",
       "ortholance": "2025-03-23 20:08:41 +0000"
     },
     "done": false
