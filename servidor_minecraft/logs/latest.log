@@ -5229,3 +5229,58 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [23Mar2025 20:02:25.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabriel has made the advancement [The Shadow Over Mine's Craft]
 [23Mar2025 20:02:32.197] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7248ms or 144 ticks behind
 [23Mar2025 20:02:56.041] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8891ms or 177 ticks behind
+[23Mar2025 20:03:21.235] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10236ms or 204 ticks behind
+[23Mar2025 20:03:47.812] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11613ms or 232 ticks behind
+[23Mar2025 20:04:11.331] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8532ms or 170 ticks behind
+[23Mar2025 20:04:36.860] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10561ms or 211 ticks behind
+[23Mar2025 20:05:02.835] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10986ms or 219 ticks behind
+[23Mar2025 20:05:19.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fablex39 has completed the challenge [Great View From Up Here]
+[23Mar2025 20:05:28.659] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10859ms or 217 ticks behind
+[23Mar2025 20:05:38.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabriel has reached the goal [An Understanding]
+[23Mar2025 20:05:54.316] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10667ms or 213 ticks behind
+[23Mar2025 20:06:01.267] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/92753, l='ServerLevel[world]', x=472.29, y=-256.00, z=428.10] died, message: 'Unemployed was killed'
+[23Mar2025 20:06:19.893] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10594ms or 211 ticks behind
+[23Mar2025 20:06:32.926] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/bounty/plains
+[23Mar2025 20:06:32.926] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/waystone/normal
+[23Mar2025 20:06:32.926] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/vampirism/totem
+[23Mar2025 20:06:47.037] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12187ms or 243 ticks behind
+[23Mar2025 20:06:51.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabriel has made the advancement [Nautical Neighbors]
+[23Mar2025 20:07:10.521] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8521ms or 170 ticks behind
+[23Mar2025 20:07:28.940] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3441ms or 68 ticks behind
+[23Mar2025 20:07:33.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabriel has completed the challenge [All Buddies Now]
+[23Mar2025 20:07:47.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fablex39> xdd
+[23Mar2025 20:07:48.091] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4191ms or 83 ticks behind
+[23Mar2025 20:07:57.051] [Server thread/WARN] [tombstone/]: The death event of the player elchipaxd12 was canceled by another mod
+[23Mar2025 20:07:57.061] [Server thread/INFO] [tombstone/]: The player elchipaxd12 has successfully been saved
+[23Mar2025 20:08:03.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fablex39> as tu
+[23Mar2025 20:08:06.328] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3279ms or 65 ticks behind
+[23Mar2025 20:08:12.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elchipaxd12> tienes la netherite
+[23Mar2025 20:08:24.393] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3094ms or 61 ticks behind
+[23Mar2025 20:08:42.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elchipaxd12> no tienes molfde¿
+[23Mar2025 20:08:42.768] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3418ms or 68 ticks behind
+[23Mar2025 20:08:49.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fablex39> nop
+[23Mar2025 20:09:03.189] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5439ms or 108 ticks behind
+[23Mar2025 20:09:22.852] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4703ms or 94 ticks behind
+[23Mar2025 20:09:42.933] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5083ms or 101 ticks behind
+[23Mar2025 20:09:44.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: minitipa has completed the challenge [Cover Me in Debris]
+[23Mar2025 20:10:04.473] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6573ms or 131 ticks behind
+[23Mar2025 20:10:04.642] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/97419, l='ServerLevel[world]', x=472.23, y=-256.00, z=440.24] died, message: 'Unemployed was killed'
+[23Mar2025 20:10:27.059] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7609ms or 152 ticks behind
+[23Mar2025 20:10:48.468] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6419ms or 128 ticks behind
+[23Mar2025 20:11:10.705] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7256ms or 145 ticks behind
+[23Mar2025 20:11:26.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Creative Mode]
+[23Mar2025 20:11:34.051] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8352ms or 167 ticks behind
+[23Mar2025 20:11:57.853] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8803ms or 176 ticks behind
+[23Mar2025 20:12:22.603] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9754ms or 195 ticks behind
+[23Mar2025 20:12:24.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Survival Mode]
+[23Mar2025 20:12:27.385] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7a8d4a11[id=<null>,name=tayra,properties={},legacy=false] (/127.24.65.181:51303) lost connection: Timed out
+[23Mar2025 20:12:45.834] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8234ms or 164 ticks behind
+[23Mar2025 20:13:09.971] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9171ms or 183 ticks behind
+[23Mar2025 20:13:18.370] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tayra[/127.24.65.181:37967] logged in with entity id 100738 at (9.5, 103.0, -2.5)
+[23Mar2025 20:13:18.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tayra joined the game
+[23Mar2025 20:13:18.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tayra has reached the goal [Easter]
+[23Mar2025 20:13:18.427] [Server thread/INFO] [Jade/]: Syncing config to tayra (bf26690f-3430-33f3-b707-8d7df236fbbf)
+[23Mar2025 20:13:18.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tayra has completed the challenge [The Undead]
+[23Mar2025 20:13:22.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Creative Mode]
+[23Mar2025 20:13:34.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Andremat2010> crajo
+[23Mar2025 20:13:35.051] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10102ms or 202 ticks behind

@@ -87,6 +87,7 @@
       "redwood_forest": "2025-03-22 03:26:24 +0000",
       "dune_beach": "2025-03-22 03:26:13 +0000",
       "volcano": "2025-03-22 03:20:00 +0000",
+      "pasture": "2025-03-23 20:04:44 +0000",
       "volcanic_plains": "2025-03-22 03:19:33 +0000",
       "grassland": "2025-03-22 03:29:45 +0000",
       "rainforest": "2025-03-17 01:16:47 +0000"
@@ -855,6 +856,12 @@
       "illageandspillage:igniter": "2025-03-23 18:53:36 +0000"
     },
     "done": false
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2025-03-23 20:01:09 +0000"
+    },
+    "done": true
   },
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
