@@ -318,6 +318,7 @@
       "minecraft:blaze": "2025-03-21 23:54:44 +0000",
       "minecraft:pillager": "2025-03-22 02:45:31 +0000",
       "minecraft:skeleton": "2025-03-16 23:11:24 +0000",
+      "minecraft:ravager": "2025-03-23 18:55:02 +0000",
       "minecraft:vindicator": "2025-03-16 23:35:44 +0000",
       "minecraft:magma_cube": "2025-03-22 00:15:00 +0000",
       "minecraft:spider": "2025-03-17 00:09:22 +0000",
@@ -1189,6 +1190,26 @@
   "alexsmobs:alexsmobs/fish_bones": {
     "criteria": {
       "sopa_de_macaco": "2025-03-23 04:26:39 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/banana": {
+    "criteria": {
+      "banana": "2025-03-23 18:46:10 +0000"
+    },
+    "done": true
+  },
+  "illageandspillage:kill_all_iands": {
+    "criteria": {
+      "illageandspillage:preserver": "2025-03-23 18:55:05 +0000",
+      "illageandspillage:absorber": "2025-03-23 18:57:17 +0000",
+      "illageandspillage:igniter": "2025-03-23 18:54:29 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
+    "criteria": {
+      "lightning_rod_with_villager_no_fire": "2025-03-23 18:57:54 +0000"
     },
     "done": true
   },

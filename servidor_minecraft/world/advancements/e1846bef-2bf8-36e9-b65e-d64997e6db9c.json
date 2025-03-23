@@ -243,6 +243,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:blaze": "2025-03-22 04:34:17 +0000",
+      "minecraft:pillager": "2025-03-23 18:55:02 +0000",
       "minecraft:skeleton": "2025-03-17 00:56:04 +0000",
       "minecraft:vindicator": "2025-03-16 23:21:52 +0000",
       "minecraft:spider": "2025-03-20 22:46:04 +0000",
@@ -1003,6 +1004,14 @@
       "killed_by": "2025-03-23 04:32:03 +0000"
     },
     "done": true
+  },
+  "illageandspillage:kill_all_iands": {
+    "criteria": {
+      "illageandspillage:engineer": "2025-03-23 18:55:27 +0000",
+      "illageandspillage:crocofang": "2025-03-23 18:56:49 +0000",
+      "illageandspillage:freakager": "2025-03-23 18:59:43 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }

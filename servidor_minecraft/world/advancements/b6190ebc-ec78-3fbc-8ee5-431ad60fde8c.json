@@ -267,6 +267,7 @@
       "minecraft:blaze": "2025-03-22 00:24:58 +0000",
       "minecraft:skeleton": "2025-03-20 22:04:30 +0000",
       "minecraft:hoglin": "2025-03-22 00:52:15 +0000",
+      "minecraft:vindicator": "2025-03-23 18:56:57 +0000",
       "minecraft:magma_cube": "2025-03-22 00:41:43 +0000",
       "minecraft:spider": "2025-03-20 22:11:51 +0000",
       "minecraft:creeper": "2025-03-20 22:48:47 +0000",
@@ -838,6 +839,18 @@
   "deeperdarker:main/root": {
     "criteria": {
       "deep_dark": "2025-03-23 04:16:00 +0000"
+    },
+    "done": true
+  },
+  "illageandspillage:kill_all_iands": {
+    "criteria": {
+      "illageandspillage:igniter": "2025-03-23 18:53:36 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-03-23 18:56:57 +0000"
     },
     "done": true
   },

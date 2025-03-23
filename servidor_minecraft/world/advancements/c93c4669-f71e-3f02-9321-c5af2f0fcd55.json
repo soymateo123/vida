@@ -264,6 +264,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:blaze": "2025-03-21 23:28:15 +0000",
+      "minecraft:pillager": "2025-03-23 18:57:01 +0000",
       "minecraft:skeleton": "2025-03-21 23:27:23 +0000",
       "minecraft:vindicator": "2025-03-22 20:43:12 +0000",
       "minecraft:magma_cube": "2025-03-21 23:30:16 +0000",
@@ -721,6 +722,18 @@
   "alexscaves:alexscaves/defeat_big_dinosaur": {
     "criteria": {
       "killed_relicheirus": "2025-03-23 00:29:01 +0000"
+    },
+    "done": true
+  },
+  "illageandspillage:kill_all_iands": {
+    "criteria": {
+      "illageandspillage:crocofang": "2025-03-23 18:53:28 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
+    "criteria": {
+      "lightning_rod_with_villager_no_fire": "2025-03-23 18:57:54 +0000"
     },
     "done": true
   },
