@@ -83,6 +83,7 @@
       "shrubland": "2025-03-16 22:49:29 +0000",
       "rocky_shrubland": "2025-03-16 22:46:30 +0000",
       "scrubland": "2025-03-16 23:13:10 +0000",
+      "old_growth_woodland": "2025-03-28 23:38:15 +0000",
       "orchard": "2025-03-23 20:24:29 +0000",
       "moor": "2025-03-22 03:29:36 +0000",
       "mediterranean_forest": "2025-03-28 23:37:27 +0000",
@@ -91,6 +92,7 @@
       "dune_beach": "2025-03-22 03:26:13 +0000",
       "volcano": "2025-03-22 03:20:00 +0000",
       "pasture": "2025-03-23 20:04:44 +0000",
+      "rocky_rainforest": "2025-03-28 23:42:01 +0000",
       "volcanic_plains": "2025-03-22 03:19:33 +0000",
       "grassland": "2025-03-22 03:29:45 +0000",
       "prairie": "2025-03-23 20:15:56 +0000",
@@ -215,6 +217,7 @@
       "minecraft:beach": "2025-03-22 03:26:12 +0000",
       "minecraft:stony_peaks": "2025-03-16 23:27:57 +0000",
       "minecraft:dark_forest": "2025-03-22 17:15:07 +0000",
+      "minecraft:sparse_jungle": "2025-03-28 23:44:23 +0000",
       "minecraft:lukewarm_ocean": "2025-03-17 00:02:43 +0000",
       "minecraft:river": "2025-03-16 23:00:34 +0000",
       "minecraft:stony_shore": "2025-03-16 23:09:01 +0000",
@@ -889,6 +892,12 @@
   "undead_revamp2:sugarcoat": {
     "criteria": {
       "sugarcoat_0": "2025-03-23 20:16:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-03-28 23:46:52 +0000"
     },
     "done": true
   },
