@@ -1211,18 +1211,6 @@
     },
     "done": true
   },
-  "illageandspillage:kill_freaky": {
-    "criteria": {
-      "requirement": "2025-03-23 19:02:10 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/ride_submarine": {
-    "criteria": {
-      "ride_a_boat_with_a_goat": "2025-03-23 19:59:54 +0000"
-    },
-    "done": true
-  },
   "illageandspillage:kill_all_iands": {
     "criteria": {
       "illageandspillage:preserver": "2025-03-23 18:55:05 +0000",
@@ -1241,51 +1229,21 @@
     },
     "done": true
   },
+  "illageandspillage:kill_freaky": {
+    "criteria": {
+      "requirement": "2025-03-23 19:02:10 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/neighborhood_brawl": {
     "criteria": {
       "coded_trigger": "2025-03-23 19:12:40 +0000"
     },
     "done": true
   },
-  "alexscaves:alexscaves/discover_abyssal_ruins": {
+  "minecraft:adventure/hero_of_the_village": {
     "criteria": {
-      "abyssal_ruins": "2025-03-23 19:53:01 +0000"
-    },
-    "done": true
-  },
-  "aquamirae:adventure/find_ice_maze": {
-    "criteria": {
-      "deep_frozen_ocean": "2025-03-23 20:41:37 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/pearl_on_abyssal_altar": {
-    "criteria": {
-      "use_charcoal": "2025-03-23 19:53:55 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/mussel": {
-    "criteria": {
-      "mussel": "2025-03-23 19:50:47 +0000"
-    },
-    "done": true
-  },
-  "graveyard:graveyard/lich_prison": {
-    "criteria": {
-      "lich_prison": "2025-03-23 21:29:37 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/lost_tentacle": {
-    "criteria": {
-      "capsid": "2025-03-23 21:14:07 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/deep_ones_become_neutral": {
-    "criteria": {
-      "stalked_by_deep_one": "2025-03-23 20:06:51 +0000"
+      "hero_of_the_village": "2025-03-23 19:17:01 +0000"
     },
     "done": true
   },
@@ -1295,21 +1253,39 @@
     },
     "done": true
   },
-  "born_in_chaos_v1:wrong_santa": {
+  "alexscaves:alexscaves/mussel": {
     "criteria": {
-      "wrong_santa_0": "2025-03-23 21:12:09 +0000"
+      "mussel": "2025-03-23 19:50:47 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/totem_of_undying": {
+  "alexscaves:alexscaves/pearl": {
     "criteria": {
-      "used_totem": "2025-03-23 21:02:54 +0000"
+      "pearl": "2025-03-23 19:50:48 +0000"
     },
     "done": true
   },
-  "alexscaves:alexscaves/tremorzilla_egg": {
+  "alexscaves:alexscaves/discover_abyssal_ruins": {
     "criteria": {
-      "quarry": "2025-03-23 20:34:51 +0000"
+      "abyssal_ruins": "2025-03-23 19:53:01 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/pearl_on_abyssal_altar": {
+    "criteria": {
+      "use_charcoal": "2025-03-23 19:53:55 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/ride_submarine": {
+    "criteria": {
+      "ride_a_boat_with_a_goat": "2025-03-23 19:59:54 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/stalked_by_deep_one": {
+    "criteria": {
+      "stalked_by_deep_one": "2025-03-23 20:02:25 +0000"
     },
     "done": true
   },
@@ -1320,9 +1296,21 @@
     },
     "done": false
   },
-  "minecraft:adventure/hero_of_the_village": {
+  "alexscaves:alexscaves/trade_with_deep_one": {
     "criteria": {
-      "hero_of_the_village": "2025-03-23 19:17:01 +0000"
+      "stalked_by_deep_one": "2025-03-23 20:05:38 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/deep_ones_become_neutral": {
+    "criteria": {
+      "stalked_by_deep_one": "2025-03-23 20:06:51 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/deep_ones_become_helpful": {
+    "criteria": {
+      "stalked_by_deep_one": "2025-03-23 20:07:33 +0000"
     },
     "done": true
   },
@@ -1333,33 +1321,45 @@
     },
     "done": false
   },
+  "alexscaves:alexscaves/tremorzilla_egg": {
+    "criteria": {
+      "quarry": "2025-03-23 20:34:51 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/find_ice_maze": {
+    "criteria": {
+      "deep_frozen_ocean": "2025-03-23 20:41:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2025-03-23 21:02:54 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:wrong_santa": {
+    "criteria": {
+      "wrong_santa_0": "2025-03-23 21:12:09 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/lost_tentacle": {
+    "criteria": {
+      "capsid": "2025-03-23 21:14:07 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/discreet_search": {
     "criteria": {
       "coded_trigger": "2025-03-23 21:16:26 +0000"
     },
     "done": true
   },
-  "alexscaves:alexscaves/stalked_by_deep_one": {
+  "graveyard:graveyard/lich_prison": {
     "criteria": {
-      "stalked_by_deep_one": "2025-03-23 20:02:25 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/trade_with_deep_one": {
-    "criteria": {
-      "stalked_by_deep_one": "2025-03-23 20:05:38 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/pearl": {
-    "criteria": {
-      "pearl": "2025-03-23 19:50:48 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/deep_ones_become_helpful": {
-    "criteria": {
-      "stalked_by_deep_one": "2025-03-23 20:07:33 +0000"
+      "lich_prison": "2025-03-23 21:29:37 +0000"
     },
     "done": true
   },
