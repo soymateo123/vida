@@ -867,3 +867,10 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [29Mar2025 11:02:43.343] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/2498, l='ServerLevel[world]', x=472.29, y=-256.00, z=428.10] died, message: 'Unemployed was killed'
 [29Mar2025 11:27:58.343] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/6705, l='ServerLevel[world]', x=472.23, y=-256.00, z=440.24] died, message: 'Unemployed was killed'
 [29Mar2025 11:34:17.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fablex39 has made the advancement [Fwoomp!]
+[29Mar2025 11:35:17.526] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fablex39 lost connection: Disconnected
+[29Mar2025 11:35:17.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fablex39 left the game
+[29Mar2025 11:40:48.652] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: fablex39[/127.104.85.61:48155] logged in with entity id 8344 at (417.3677590492967, 61.0, 407.30000001192093)
+[29Mar2025 11:40:48.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fablex39 joined the game
+[29Mar2025 11:40:48.696] [Server thread/INFO] [Jade/]: Syncing config to fablex39 (e1846bef-2bf8-36e9-b65e-d64997e6db9c)
+[29Mar2025 11:46:48.341] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/9577, l='ServerLevel[world]', x=471.40, y=-256.00, z=440.27] died, message: 'Unemployed was killed'
+[29Mar2025 11:51:26.342] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/10034, l='ServerLevel[world]', x=471.40, y=-256.00, z=440.27] died, message: 'Unemployed was killed'
