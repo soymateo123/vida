@@ -89,7 +89,11 @@
       "shrubland": "2025-03-22 03:09:19 +0000",
       "rocky_shrubland": "2025-03-22 03:08:25 +0000",
       "scrubland": "2025-03-23 03:26:02 +0000",
+      "highland": "2025-03-29 00:05:08 +0000",
+      "jade_cliffs": "2025-03-29 00:05:13 +0000",
+      "redwood_forest": "2025-03-29 00:06:46 +0000",
       "dune_beach": "2025-03-22 18:36:09 +0000",
+      "lavender_field": "2025-03-29 00:04:59 +0000",
       "rainforest": "2025-03-22 03:19:46 +0000"
     },
     "done": false
@@ -114,8 +118,11 @@
       "minecraft:lukewarm_ocean": "2025-03-22 03:23:44 +0000",
       "minecraft:river": "2025-03-22 03:25:45 +0000",
       "minecraft:stony_shore": "2025-03-22 03:12:01 +0000",
+      "minecraft:snowy_plains": "2025-03-29 00:08:27 +0000",
+      "minecraft:dripstone_caves": "2025-03-29 00:08:45 +0000",
       "minecraft:jungle": "2025-03-22 03:26:24 +0000",
       "minecraft:ocean": "2025-03-22 03:27:14 +0000",
+      "minecraft:deep_dark": "2025-03-29 00:03:19 +0000",
       "minecraft:savanna": "2025-03-22 18:41:06 +0000",
       "minecraft:plains": "2025-03-23 03:25:11 +0000"
     },
@@ -495,6 +502,12 @@
   "witherstormmod:main/amulet": {
     "criteria": {
       "inventory_changed": "2025-03-23 00:46:49 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/root": {
+    "criteria": {
+      "deep_dark": "2025-03-29 00:03:19 +0000"
     },
     "done": true
   },

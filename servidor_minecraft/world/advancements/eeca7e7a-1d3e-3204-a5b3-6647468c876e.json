@@ -1141,7 +1141,8 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
-      "potato": "2025-03-23 01:19:43 +0000"
+      "potato": "2025-03-23 01:19:43 +0000",
+      "wheat": "2025-03-29 00:01:25 +0000"
     },
     "done": false
   },
@@ -1360,6 +1361,12 @@
   "graveyard:graveyard/lich_prison": {
     "criteria": {
       "lich_prison": "2025-03-23 21:29:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-03-29 00:01:25 +0000"
     },
     "done": true
   },
