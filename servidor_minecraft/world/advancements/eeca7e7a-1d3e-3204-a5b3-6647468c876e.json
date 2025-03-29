@@ -111,6 +111,7 @@
       "grassland": "2025-03-21 22:00:18 +0000",
       "snowy_coniferous_forest": "2025-03-23 20:46:29 +0000",
       "snowy_fir_clearing": "2025-03-23 20:44:57 +0000",
+      "tundra": "2025-03-29 03:13:49 +0000",
       "undergrowth": "2025-03-22 00:31:57 +0000",
       "origin_valley": "2025-03-23 19:47:46 +0000",
       "rainforest": "2025-03-17 01:40:09 +0000"
@@ -1317,10 +1318,12 @@
   },
   "alexscaves:alexscaves/deep_one_items": {
     "criteria": {
+      "magic_conch": "2025-03-29 02:55:54 +0000",
       "gazing_pearl": "2025-03-23 20:20:46 +0000",
-      "ortholance": "2025-03-23 20:08:41 +0000"
+      "ortholance": "2025-03-23 20:08:41 +0000",
+      "sea_staff": "2025-03-29 03:07:40 +0000"
     },
-    "done": false
+    "done": true
   },
   "alexscaves:alexscaves/tremorzilla_egg": {
     "criteria": {
@@ -1403,6 +1406,18 @@
   "twilightforest:root": {
     "criteria": {
       "in_tf": "2025-03-29 01:17:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2025-03-29 03:11:17 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:horrorofthe_depths": {
+    "criteria": {
+      "horrorofthe_depths_0": "2025-03-29 03:05:33 +0000"
     },
     "done": true
   },
