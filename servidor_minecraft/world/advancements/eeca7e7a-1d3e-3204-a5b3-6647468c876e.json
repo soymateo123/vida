@@ -1370,6 +1370,12 @@
     },
     "done": true
   },
+  "portablemobs:playercaptureadvancement": {
+    "criteria": {
+      "playertrigger": "2025-03-29 01:17:20 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/tame_tremorzilla": {
     "criteria": {
       "killed": "2025-03-29 01:00:14 +0000"
@@ -1391,6 +1397,12 @@
   "alexscaves:alexscaves/hatch_tremorzilla_egg": {
     "criteria": {
       "hatch_tremorzilla_egg": "2025-03-29 00:49:56 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:root": {
+    "criteria": {
+      "in_tf": "2025-03-29 01:17:33 +0000"
     },
     "done": true
   },

@@ -914,6 +914,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/walk_on_powder_snow_with_leather_boots": {
+    "criteria": {
+      "walk_on_powder_snow_with_leather_boots": "2025-03-29 01:14:19 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/discover_abyssal_chasm": {
     "criteria": {
       "discover": "2025-03-29 00:40:42 +0000"
@@ -932,9 +938,21 @@
     },
     "done": true
   },
+  "twilightforest:root": {
+    "criteria": {
+      "in_tf": "2025-03-29 01:17:26 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/create_magic_tablet": {
     "criteria": {
       "has_magic_tablet": "2025-03-29 00:04:26 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_frostmaw": {
+    "criteria": {
+      "frostmaw": "2025-03-29 01:16:11 +0000"
     },
     "done": true
   },

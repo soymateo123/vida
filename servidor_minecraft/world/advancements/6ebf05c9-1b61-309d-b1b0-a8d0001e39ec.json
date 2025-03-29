@@ -464,6 +464,7 @@
   },
   "lootr:social": {
     "criteria": {
+      "opened_barrel": "2025-03-29 01:11:27 +0000",
       "opened_chest": "2025-03-22 18:26:16 +0000"
     },
     "done": false
@@ -528,6 +529,12 @@
     },
     "done": true
   },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2025-03-29 01:11:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/lightning_rod_with_villager_no_fire": {
     "criteria": {
       "lightning_rod_with_villager_no_fire": "2025-03-29 01:01:10 +0000"
@@ -537,6 +544,12 @@
   "aquamirae:adventure/find_ice_maze": {
     "criteria": {
       "deep_frozen_ocean": "2025-03-29 00:21:18 +0000"
+    },
+    "done": true
+  },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2025-03-29 01:11:27 +0000"
     },
     "done": true
   },
