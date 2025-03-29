@@ -925,3 +925,27 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [29Mar2025 17:16:30.056] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fablex39 lost connection: Disconnected
 [29Mar2025 17:16:30.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fablex39 left the game
 [29Mar2025 17:17:33.197] [Worker-Main-26/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[29Mar2025 17:21:01.754] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
+[29Mar2025 17:21:19.583] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2862ms or 57 ticks behind
+[29Mar2025 17:21:24.499] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gabriel lost connection: Timed out
+[29Mar2025 17:21:24.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabriel left the game
+[29Mar2025 17:23:07.959] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: minitipa[/127.227.119.219:48315] logged in with entity id 53390 at (462.0354113950338, 66.0, 428.8061696800302)
+[29Mar2025 17:23:08.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: minitipa joined the game
+[29Mar2025 17:23:08.144] [Server thread/INFO] [Jade/]: Syncing config to minitipa (1d6e4435-2c18-3115-b89f-54099a7bb6dd)
+[29Mar2025 17:24:22.199] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Gabriel[/127.191.226.236:56633] logged in with entity id 54122 at (465.3572495590347, 66.0, 433.0807654813588)
+[29Mar2025 17:24:22.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabriel joined the game
+[29Mar2025 17:24:22.309] [Server thread/INFO] [Jade/]: Syncing config to Gabriel (eeca7e7a-1d3e-3204-a5b3-6647468c876e)
+[29Mar2025 17:25:27.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <minitipa> q paso con los aldeanos
+[29Mar2025 17:25:41.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel> ven
+[29Mar2025 17:25:52.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel> mira
+[29Mar2025 17:26:20.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <minitipa> ayuda fuera
+[29Mar2025 17:28:01.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: minitipa has made the advancement [The Wind Darkening]
+[29Mar2025 17:29:37.261] [Server thread/WARN] [tombstone/]: The death event of the player minitipa was canceled by another mod
+[29Mar2025 17:29:37.278] [Server thread/INFO] [tombstone/]: The player minitipa has successfully been saved
+[29Mar2025 17:30:09.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel> xddd
+[29Mar2025 17:30:21.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel> dejalo
+[29Mar2025 17:30:26.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <minitipa> como se llama santi
+[29Mar2025 17:30:38.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel> ns no le e puesto nombre
+[29Mar2025 17:30:45.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <minitipa> ponle
+[29Mar2025 17:30:53.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <minitipa> te di
+[29Mar2025 17:30:59.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <minitipa> bueno q querias q viera

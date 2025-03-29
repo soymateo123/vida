@@ -1496,15 +1496,15 @@
     },
     "done": true
   },
-  "undead_revamp2:cloggeradvance": {
-    "criteria": {
-      "cloggeradvance_0": "2025-03-29 17:12:29 +0000"
-    },
-    "done": true
-  },
   "graveyard:graveyard/haunted_house": {
     "criteria": {
       "haunted_house": "2025-03-29 17:03:34 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:cloggeradvance": {
+    "criteria": {
+      "cloggeradvance_0": "2025-03-29 17:12:29 +0000"
     },
     "done": true
   },
