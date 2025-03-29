@@ -83,6 +83,7 @@
       "shrubland": "2025-03-16 22:49:29 +0000",
       "rocky_shrubland": "2025-03-16 22:46:30 +0000",
       "scrubland": "2025-03-16 23:13:10 +0000",
+      "cold_desert": "2025-03-29 01:05:42 +0000",
       "old_growth_woodland": "2025-03-28 23:38:15 +0000",
       "orchard": "2025-03-23 20:24:29 +0000",
       "moor": "2025-03-22 03:29:36 +0000",
@@ -96,6 +97,7 @@
       "volcanic_plains": "2025-03-22 03:19:33 +0000",
       "grassland": "2025-03-22 03:29:45 +0000",
       "prairie": "2025-03-23 20:15:56 +0000",
+      "snowy_coniferous_forest": "2025-03-29 01:06:12 +0000",
       "rainforest": "2025-03-17 01:16:47 +0000"
     },
     "done": false
@@ -212,6 +214,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:deep_ocean": "2025-03-22 03:24:22 +0000",
+      "minecraft:frozen_river": "2025-03-29 01:05:29 +0000",
       "minecraft:sunflower_plains": "2025-03-23 20:11:43 +0000",
       "minecraft:birch_forest": "2025-03-22 17:14:41 +0000",
       "minecraft:bamboo_jungle": "2025-03-22 03:20:13 +0000",
@@ -227,6 +230,7 @@
       "minecraft:jagged_peaks": "2025-03-21 22:52:42 +0000",
       "minecraft:forest": "2025-03-21 22:25:05 +0000",
       "minecraft:deep_cold_ocean": "2025-03-29 00:38:02 +0000",
+      "minecraft:frozen_ocean": "2025-03-29 01:05:00 +0000",
       "minecraft:deep_frozen_ocean": "2025-03-29 00:41:09 +0000",
       "minecraft:jungle": "2025-03-17 01:19:46 +0000",
       "minecraft:ocean": "2025-03-22 03:24:42 +0000",
@@ -919,6 +923,12 @@
   "mowziesmobs:kill_umvuthi": {
     "criteria": {
       "barako": "2025-03-29 00:12:08 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/hatch_tremorzilla_egg": {
+    "criteria": {
+      "hatch_tremorzilla_egg": "2025-03-29 00:49:56 +0000"
     },
     "done": true
   },

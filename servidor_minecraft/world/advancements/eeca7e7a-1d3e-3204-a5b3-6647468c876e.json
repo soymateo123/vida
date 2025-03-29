@@ -1370,9 +1370,27 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/tame_tremorzilla": {
+    "criteria": {
+      "killed": "2025-03-29 01:00:14 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:tier_1_rocket": {
+    "criteria": {
+      "has_tier_1_rocket": "2025-03-29 01:09:16 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/tame_raycat": {
     "criteria": {
       "killed": "2025-03-29 00:42:35 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/hatch_tremorzilla_egg": {
+    "criteria": {
+      "hatch_tremorzilla_egg": "2025-03-29 00:49:56 +0000"
     },
     "done": true
   },
