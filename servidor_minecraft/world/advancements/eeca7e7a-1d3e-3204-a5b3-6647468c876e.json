@@ -1370,5 +1370,11 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/tame_raycat": {
+    "criteria": {
+      "killed": "2025-03-29 00:42:35 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

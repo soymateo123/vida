@@ -1117,6 +1117,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/village_defender": {
+    "criteria": {
+      "coded_trigger": "2025-03-29 00:45:38 +0000"
+    },
+    "done": true
+  },
   "undead_revamp2:thineded": {
     "criteria": {
       "thineded_0": "2025-03-29 00:22:49 +0000"

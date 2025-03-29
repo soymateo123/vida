@@ -227,6 +227,7 @@
       "minecraft:jagged_peaks": "2025-03-21 22:52:42 +0000",
       "minecraft:forest": "2025-03-21 22:25:05 +0000",
       "minecraft:deep_cold_ocean": "2025-03-29 00:38:02 +0000",
+      "minecraft:deep_frozen_ocean": "2025-03-29 00:41:09 +0000",
       "minecraft:jungle": "2025-03-17 01:19:46 +0000",
       "minecraft:ocean": "2025-03-22 03:24:42 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-03-22 03:24:00 +0000",
@@ -897,9 +898,21 @@
     },
     "done": true
   },
+  "aquamirae:adventure/find_ice_maze": {
+    "criteria": {
+      "deep_frozen_ocean": "2025-03-29 00:41:09 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:big_boy": {
     "criteria": {
       "big_boy_0": "2025-03-28 23:54:44 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_abyssal_chasm": {
+    "criteria": {
+      "discover": "2025-03-29 00:40:42 +0000"
     },
     "done": true
   },

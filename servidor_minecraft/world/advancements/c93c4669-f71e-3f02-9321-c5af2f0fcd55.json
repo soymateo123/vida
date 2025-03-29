@@ -286,6 +286,7 @@
       "minecraft:slime": "2025-03-22 01:00:02 +0000",
       "minecraft:phantom": "2025-03-22 23:36:05 +0000",
       "minecraft:zombified_piglin": "2025-03-21 23:48:06 +0000",
+      "minecraft:witch": "2025-03-29 00:45:22 +0000",
       "minecraft:wither_skeleton": "2025-03-21 23:33:21 +0000",
       "minecraft:cave_spider": "2025-03-22 20:38:45 +0000",
       "minecraft:enderman": "2025-03-22 22:03:29 +0000",
@@ -742,6 +743,7 @@
   },
   "illageandspillage:kill_all_iands": {
     "criteria": {
+      "illageandspillage:preserver": "2025-03-29 00:45:26 +0000",
       "illageandspillage:crocofang": "2025-03-23 18:53:28 +0000"
     },
     "done": false
@@ -785,6 +787,12 @@
   "aquamirae:recipes/pirate_pouch": {
     "criteria": {
       "has_item": "2025-03-29 00:23:25 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/hatch_tremorzilla_egg": {
+    "criteria": {
+      "hatch_tremorzilla_egg": "2025-03-29 00:49:56 +0000"
     },
     "done": true
   },
