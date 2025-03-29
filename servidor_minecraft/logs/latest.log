@@ -865,3 +865,28 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [29Mar2025 02:10:15.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elchipaxd12 joined the game
 [29Mar2025 02:10:15.232] [Server thread/INFO] [Jade/]: Syncing config to elchipaxd12 (c93c4669-f71e-3f02-9321-c5af2f0fcd55)
 [29Mar2025 02:12:15.748] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/3053, l='ServerLevel[world]', x=471.97, y=-256.00, z=428.19] died, message: 'Unemployed was killed'
+[29Mar2025 02:14:49.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: culosucio has made the advancement [Disme A Dozen]
+[29Mar2025 02:17:06.595] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Gabriel[/127.9.142.137:40425] logged in with entity id 5224 at (2578.136028639135, -10.125, -8314.327949344288)
+[29Mar2025 02:17:06.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabriel joined the game
+[29Mar2025 02:17:06.627] [Server thread/INFO] [Jade/]: Syncing config to Gabriel (eeca7e7a-1d3e-3204-a5b3-6647468c876e)
+[29Mar2025 02:17:11.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fablex39> OE SANTI
+[29Mar2025 02:17:22.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fablex39> TUS BONBAS MATARON A LOS ALDEANOS
+[29Mar2025 02:17:33.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel> no xd
+[29Mar2025 02:17:45.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel> si no ya se hubieran muerto antes
+[29Mar2025 02:17:51.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elchipaxd12> oe mis coasa
+[29Mar2025 02:17:54.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fablex39> mueron
+[29Mar2025 02:17:55.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elchipaxd12> cosass santiiiiii
+[29Mar2025 02:18:03.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel> en un volcan mrd
+[29Mar2025 02:18:14.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel> pera
+[29Mar2025 02:18:22.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel> ya voy
+[29Mar2025 02:20:06.865] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[29Mar2025 02:20:25.842] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3996ms or 79 ticks behind
+[29Mar2025 02:20:26.995] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elchipaxd12 lost connection: Disconnected
+[29Mar2025 02:20:26.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elchipaxd12 left the game
+[29Mar2025 02:20:55.213] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[29Mar2025 02:21:12.553] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6ada5dfa[id=<null>,name=elchipaxd12,properties={},legacy=false] (/127.223.203.153:45945) lost connection: Disconnected
+[29Mar2025 02:21:14.449] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4253ms or 85 ticks behind
+[29Mar2025 02:21:24.758] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elchipaxd12[/127.223.203.153:60623] logged in with entity id 8752 at (-2150.4243513002903, 142.0, 2490.6577579108357)
+[29Mar2025 02:21:24.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elchipaxd12 joined the game
+[29Mar2025 02:21:24.777] [Server thread/INFO] [Jade/]: Syncing config to elchipaxd12 (c93c4669-f71e-3f02-9321-c5af2f0fcd55)
+[29Mar2025 02:21:45.201] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind

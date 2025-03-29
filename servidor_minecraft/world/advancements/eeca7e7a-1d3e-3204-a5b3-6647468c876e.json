@@ -1370,9 +1370,15 @@
     },
     "done": true
   },
-  "portablemobs:playercaptureadvancement": {
+  "alexscaves:alexscaves/tame_raycat": {
     "criteria": {
-      "playertrigger": "2025-03-29 01:17:20 +0000"
+      "killed": "2025-03-29 00:42:35 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/hatch_tremorzilla_egg": {
+    "criteria": {
+      "hatch_tremorzilla_egg": "2025-03-29 00:49:56 +0000"
     },
     "done": true
   },
@@ -1388,15 +1394,9 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/tame_raycat": {
+  "portablemobs:playercaptureadvancement": {
     "criteria": {
-      "killed": "2025-03-29 00:42:35 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/hatch_tremorzilla_egg": {
-    "criteria": {
-      "hatch_tremorzilla_egg": "2025-03-29 00:49:56 +0000"
+      "playertrigger": "2025-03-29 01:17:20 +0000"
     },
     "done": true
   },
