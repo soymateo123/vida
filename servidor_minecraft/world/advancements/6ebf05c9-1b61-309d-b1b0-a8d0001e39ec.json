@@ -122,6 +122,7 @@
     "criteria": {
       "minecraft:frozen_river": "2025-03-29 00:09:33 +0000",
       "quark:glimmering_weald": "2025-03-29 00:16:51 +0000",
+      "minecraft:cherry_grove": "2025-03-29 00:29:50 +0000",
       "minecraft:bamboo_jungle": "2025-03-22 03:26:35 +0000",
       "minecraft:beach": "2025-03-23 03:25:33 +0000",
       "minecraft:sparse_jungle": "2025-03-22 03:25:49 +0000",
@@ -132,7 +133,9 @@
       "minecraft:dripstone_caves": "2025-03-29 00:08:45 +0000",
       "minecraft:snowy_taiga": "2025-03-29 00:16:24 +0000",
       "minecraft:cold_ocean": "2025-03-29 00:20:48 +0000",
+      "minecraft:forest": "2025-03-29 00:35:14 +0000",
       "minecraft:frozen_ocean": "2025-03-29 00:17:43 +0000",
+      "minecraft:deep_frozen_ocean": "2025-03-29 00:21:18 +0000",
       "minecraft:jungle": "2025-03-22 03:26:24 +0000",
       "minecraft:ocean": "2025-03-22 03:27:14 +0000",
       "minecraft:snowy_beach": "2025-03-29 00:14:10 +0000",
@@ -522,6 +525,12 @@
   "deeperdarker:main/root": {
     "criteria": {
       "deep_dark": "2025-03-29 00:03:19 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/find_ice_maze": {
+    "criteria": {
+      "deep_frozen_ocean": "2025-03-29 00:21:18 +0000"
     },
     "done": true
   },

@@ -87,6 +87,7 @@
       "highland": "2025-03-16 22:40:02 +0000",
       "jade_cliffs": "2025-03-16 22:40:11 +0000",
       "cold_desert": "2025-03-29 00:09:20 +0000",
+      "old_growth_woodland": "2025-03-29 00:30:15 +0000",
       "crystalline_chasm": "2025-03-22 17:20:25 +0000",
       "field": "2025-03-23 04:08:03 +0000",
       "mediterranean_forest": "2025-03-16 23:13:46 +0000",
@@ -173,8 +174,10 @@
       "minecraft:stony_shore": "2025-03-16 23:10:29 +0000",
       "minecraft:snowy_plains": "2025-03-23 04:02:17 +0000",
       "minecraft:dripstone_caves": "2025-03-22 21:07:21 +0000",
+      "minecraft:snowy_taiga": "2025-03-29 00:22:03 +0000",
       "minecraft:forest": "2025-03-16 22:42:01 +0000",
       "minecraft:frozen_ocean": "2025-03-28 23:50:16 +0000",
+      "minecraft:deep_frozen_ocean": "2025-03-29 00:24:03 +0000",
       "minecraft:ocean": "2025-03-16 23:45:19 +0000",
       "minecraft:jungle": "2025-03-22 03:26:24 +0000",
       "minecraft:snowy_beach": "2025-03-29 00:14:09 +0000",
@@ -1105,6 +1108,36 @@
   "create:backtank": {
     "criteria": {
       "0": "2025-03-23 21:00:11 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/find_ice_maze": {
+    "criteria": {
+      "deep_frozen_ocean": "2025-03-29 00:24:03 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:thineded": {
+    "criteria": {
+      "thineded_0": "2025-03-29 00:22:49 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/obtain_shell_horn": {
+    "criteria": {
+      "shell_horn": "2025-03-29 00:25:55 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/obtain_dagger_of_greed": {
+    "criteria": {
+      "dagger_of_greed": "2025-03-29 00:24:39 +0000"
+    },
+    "done": true
+  },
+  "faded_conquest_2:ttslain": {
+    "criteria": {
+      "ttslain_0": "2025-03-29 00:33:46 +0000"
     },
     "done": true
   },
