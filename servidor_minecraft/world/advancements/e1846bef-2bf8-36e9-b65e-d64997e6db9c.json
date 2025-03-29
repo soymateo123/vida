@@ -86,15 +86,18 @@
       "erupting_inferno": "2025-03-22 00:17:36 +0000",
       "highland": "2025-03-16 22:40:02 +0000",
       "jade_cliffs": "2025-03-16 22:40:11 +0000",
+      "cold_desert": "2025-03-29 00:09:20 +0000",
       "crystalline_chasm": "2025-03-22 17:20:25 +0000",
       "field": "2025-03-23 04:08:03 +0000",
       "mediterranean_forest": "2025-03-16 23:13:46 +0000",
       "spider_nest": "2025-03-23 04:11:18 +0000",
       "redwood_forest": "2025-03-16 22:40:13 +0000",
       "dune_beach": "2025-03-22 18:36:07 +0000",
+      "auroral_garden": "2025-03-29 00:13:31 +0000",
       "pasture": "2025-03-23 04:11:11 +0000",
       "lavender_field": "2025-03-16 22:39:58 +0000",
       "snowy_coniferous_forest": "2025-03-23 04:09:07 +0000",
+      "snowy_fir_clearing": "2025-03-29 00:09:24 +0000",
       "rainforest": "2025-03-16 23:15:23 +0000"
     },
     "done": false
@@ -159,6 +162,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:frozen_river": "2025-03-29 00:10:00 +0000",
       "minecraft:sunflower_plains": "2025-03-23 04:11:05 +0000",
       "minecraft:birch_forest": "2025-03-22 17:14:53 +0000",
       "minecraft:bamboo_jungle": "2025-03-22 03:26:35 +0000",
@@ -173,6 +177,7 @@
       "minecraft:frozen_ocean": "2025-03-28 23:50:16 +0000",
       "minecraft:ocean": "2025-03-16 23:45:19 +0000",
       "minecraft:jungle": "2025-03-22 03:26:24 +0000",
+      "minecraft:snowy_beach": "2025-03-29 00:14:09 +0000",
       "minecraft:flower_forest": "2025-03-23 04:11:47 +0000",
       "minecraft:deep_dark": "2025-03-23 04:15:53 +0000",
       "minecraft:meadow": "2025-03-21 22:57:50 +0000",
@@ -259,6 +264,8 @@
       "minecraft:cave_spider": "2025-03-23 04:29:52 +0000",
       "minecraft:enderman": "2025-03-21 22:41:57 +0000",
       "minecraft:silverfish": "2025-03-22 17:54:10 +0000",
+      "minecraft:stray": "2025-03-29 00:18:43 +0000",
+      "minecraft:vex": "2025-03-29 00:19:30 +0000",
       "minecraft:zombie": "2025-03-16 23:32:56 +0000",
       "minecraft:zombie_villager": "2025-03-21 23:39:19 +0000"
     },

@@ -91,9 +91,17 @@
       "scrubland": "2025-03-23 03:26:02 +0000",
       "highland": "2025-03-29 00:05:08 +0000",
       "jade_cliffs": "2025-03-29 00:05:13 +0000",
+      "cold_desert": "2025-03-29 00:09:35 +0000",
+      "old_growth_woodland": "2025-03-29 00:20:34 +0000",
+      "mediterranean_forest": "2025-03-29 00:20:36 +0000",
+      "spider_nest": "2025-03-29 00:09:38 +0000",
       "redwood_forest": "2025-03-29 00:06:46 +0000",
       "dune_beach": "2025-03-22 18:36:09 +0000",
+      "auroral_garden": "2025-03-29 00:10:08 +0000",
       "lavender_field": "2025-03-29 00:04:59 +0000",
+      "snowy_coniferous_forest": "2025-03-29 00:09:37 +0000",
+      "snowy_fir_clearing": "2025-03-29 00:10:13 +0000",
+      "glowing_grotto": "2025-03-29 00:14:12 +0000",
       "rainforest": "2025-03-22 03:19:46 +0000"
     },
     "done": false
@@ -112,6 +120,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:frozen_river": "2025-03-29 00:09:33 +0000",
+      "quark:glimmering_weald": "2025-03-29 00:16:51 +0000",
       "minecraft:bamboo_jungle": "2025-03-22 03:26:35 +0000",
       "minecraft:beach": "2025-03-23 03:25:33 +0000",
       "minecraft:sparse_jungle": "2025-03-22 03:25:49 +0000",
@@ -120,8 +130,12 @@
       "minecraft:stony_shore": "2025-03-22 03:12:01 +0000",
       "minecraft:snowy_plains": "2025-03-29 00:08:27 +0000",
       "minecraft:dripstone_caves": "2025-03-29 00:08:45 +0000",
+      "minecraft:snowy_taiga": "2025-03-29 00:16:24 +0000",
+      "minecraft:cold_ocean": "2025-03-29 00:20:48 +0000",
+      "minecraft:frozen_ocean": "2025-03-29 00:17:43 +0000",
       "minecraft:jungle": "2025-03-22 03:26:24 +0000",
       "minecraft:ocean": "2025-03-22 03:27:14 +0000",
+      "minecraft:snowy_beach": "2025-03-29 00:14:10 +0000",
       "minecraft:deep_dark": "2025-03-29 00:03:19 +0000",
       "minecraft:savanna": "2025-03-22 18:41:06 +0000",
       "minecraft:plains": "2025-03-23 03:25:11 +0000"
@@ -508,6 +522,12 @@
   "deeperdarker:main/root": {
     "criteria": {
       "deep_dark": "2025-03-29 00:03:19 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_abyssal_chasm": {
+    "criteria": {
+      "discover": "2025-03-29 00:17:50 +0000"
     },
     "done": true
   },
