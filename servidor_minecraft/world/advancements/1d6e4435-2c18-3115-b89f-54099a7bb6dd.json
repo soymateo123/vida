@@ -815,15 +815,15 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/stalked_by_deep_one": {
-    "criteria": {
-      "stalked_by_deep_one": "2025-03-29 17:34:56 +0000"
-    },
-    "done": true
-  },
   "born_in_chaos_v1:the_wind_darkening": {
     "criteria": {
       "the_wind_darkening_0": "2025-03-29 17:28:01 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/stalked_by_deep_one": {
+    "criteria": {
+      "stalked_by_deep_one": "2025-03-29 17:34:56 +0000"
     },
     "done": true
   },
