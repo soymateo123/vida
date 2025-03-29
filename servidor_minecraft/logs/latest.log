@@ -890,3 +890,47 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [29Mar2025 02:21:24.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elchipaxd12 joined the game
 [29Mar2025 02:21:24.777] [Server thread/INFO] [Jade/]: Syncing config to elchipaxd12 (c93c4669-f71e-3f02-9321-c5af2f0fcd55)
 [29Mar2025 02:21:45.201] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[29Mar2025 02:24:45.147] [Server thread/INFO] [customvillagertrades/]: CVT MESSAGE: Loading CVT global config
+[29Mar2025 02:24:45.148] [Server thread/INFO] [customvillagertrades/]: CVT MESSAGE: Loading custom villager trades from file: armorer.json
+[29Mar2025 02:24:45.150] [Server thread/INFO] [customvillagertrades/]: CVT MESSAGE: Loading custom villager trades from file: cleric.json
+[29Mar2025 02:24:45.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [fablex39] Added new trade with UTID: minecraft:cleric_revive_crystal_for_golden_apple
+[29Mar2025 02:24:53.836] [Server thread/INFO] [customvillagertrades/]: CVT MESSAGE: Loading CVT global config
+[29Mar2025 02:24:53.837] [Server thread/INFO] [customvillagertrades/]: CVT MESSAGE: Loading custom villager trades from file: armorer.json
+[29Mar2025 02:24:53.838] [Server thread/INFO] [customvillagertrades/]: CVT MESSAGE: Loading custom villager trades from file: cleric.json
+[29Mar2025 02:24:53.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [fablex39] Reloaded villager trades
+[29Mar2025 02:26:53.039] [Server thread/INFO] [customvillagertrades/]: CVT MESSAGE: Loading CVT global config
+[29Mar2025 02:26:53.039] [Server thread/INFO] [customvillagertrades/]: CVT MESSAGE: Loading custom villager trades from file: armorer.json
+[29Mar2025 02:26:53.040] [Server thread/INFO] [customvillagertrades/]: CVT MESSAGE: Loading custom villager trades from file: cleric.json
+[29Mar2025 02:26:53.040] [Server thread/INFO] [customvillagertrades/]: CVT MESSAGE: Loading custom villager trades from file: farmer.json
+[29Mar2025 02:26:53.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [fablex39] Added new trade with UTID: minecraft:farmer_golden_apple_for_emerald
+[29Mar2025 02:27:30.439] [Server thread/INFO] [customvillagertrades/]: CVT MESSAGE: Loading CVT global config
+[29Mar2025 02:27:30.440] [Server thread/INFO] [customvillagertrades/]: CVT MESSAGE: Loading custom villager trades from file: armorer.json
+[29Mar2025 02:27:30.440] [Server thread/INFO] [customvillagertrades/]: CVT MESSAGE: Loading custom villager trades from file: cleric.json
+[29Mar2025 02:27:30.441] [Server thread/INFO] [customvillagertrades/]: CVT MESSAGE: Loading custom villager trades from file: farmer.json
+[29Mar2025 02:27:30.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [fablex39] Successfully removed trade minecraft:cleric_revive_crystal_for_golden_apple
+[29Mar2025 02:28:17.289] [Server thread/INFO] [customvillagertrades/]: CVT MESSAGE: Loading CVT global config
+[29Mar2025 02:28:17.289] [Server thread/INFO] [customvillagertrades/]: CVT MESSAGE: Loading custom villager trades from file: armorer.json
+[29Mar2025 02:28:17.290] [Server thread/INFO] [customvillagertrades/]: CVT MESSAGE: Loading custom villager trades from file: cleric.json
+[29Mar2025 02:28:17.290] [Server thread/INFO] [customvillagertrades/]: CVT MESSAGE: Loading custom villager trades from file: farmer.json
+[29Mar2025 02:28:17.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [fablex39] Added new trade with UTID: minecraft:cleric_revive_crystal_for_totem_of_undying
+[29Mar2025 02:28:33.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel> que sucede aqui terminaron de areglar el bache
+[29Mar2025 02:29:17.675] [Server thread/INFO] [customvillagertrades/]: CVT MESSAGE: Loading CVT global config
+[29Mar2025 02:29:17.675] [Server thread/INFO] [customvillagertrades/]: CVT MESSAGE: Loading custom villager trades from file: armorer.json
+[29Mar2025 02:29:17.676] [Server thread/INFO] [customvillagertrades/]: CVT MESSAGE: Loading custom villager trades from file: cleric.json
+[29Mar2025 02:29:17.676] [Server thread/INFO] [customvillagertrades/]: CVT MESSAGE: Loading custom villager trades from file: farmer.json
+[29Mar2025 02:29:17.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [fablex39] Reloaded villager trades
+[29Mar2025 02:29:28.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel> escucha benson se q normal mente no tenemos buenas escusas pero esta es buena vez ese caballo de ahi callo del cielo o la tierra va a explotar
+[29Mar2025 02:29:31.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel> queee
+[29Mar2025 02:29:54.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel> kk
+[29Mar2025 02:31:36.470] [Server thread/INFO] [customvillagertrades/]: CVT MESSAGE: Loading CVT global config
+[29Mar2025 02:31:36.470] [Server thread/INFO] [customvillagertrades/]: CVT MESSAGE: Loading custom villager trades from file: armorer.json
+[29Mar2025 02:31:36.471] [Server thread/INFO] [customvillagertrades/]: CVT MESSAGE: Loading custom villager trades from file: cleric.json
+[29Mar2025 02:31:36.471] [Server thread/INFO] [customvillagertrades/]: CVT MESSAGE: Loading custom villager trades from file: farmer.json
+[29Mar2025 02:31:36.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [fablex39] Added new trade with UTID: minecraft:cleric_totem_of_undying_for_golden_apple
+[29Mar2025 02:31:47.469] [Server thread/INFO] [customvillagertrades/]: CVT MESSAGE: Loading CVT global config
+[29Mar2025 02:31:47.470] [Server thread/INFO] [customvillagertrades/]: CVT MESSAGE: Loading custom villager trades from file: armorer.json
+[29Mar2025 02:31:47.470] [Server thread/INFO] [customvillagertrades/]: CVT MESSAGE: Loading custom villager trades from file: cleric.json
+[29Mar2025 02:31:47.470] [Server thread/INFO] [customvillagertrades/]: CVT MESSAGE: Loading custom villager trades from file: farmer.json
+[29Mar2025 02:31:47.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [fablex39] Reloaded villager trades
+[29Mar2025 02:33:04.466] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fablex39 lost connection: Disconnected
+[29Mar2025 02:33:04.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fablex39 left the game
