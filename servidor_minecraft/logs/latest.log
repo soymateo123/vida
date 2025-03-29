@@ -865,3 +865,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [29Mar2025 10:57:06.087] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7147ms or 142 ticks behind
 [29Mar2025 10:58:11.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Creative Mode]
 [29Mar2025 11:02:43.343] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/2498, l='ServerLevel[world]', x=472.29, y=-256.00, z=428.10] died, message: 'Unemployed was killed'
+[29Mar2025 11:27:58.343] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/6705, l='ServerLevel[world]', x=472.23, y=-256.00, z=440.24] died, message: 'Unemployed was killed'
+[29Mar2025 11:34:17.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fablex39 has made the advancement [Fwoomp!]
