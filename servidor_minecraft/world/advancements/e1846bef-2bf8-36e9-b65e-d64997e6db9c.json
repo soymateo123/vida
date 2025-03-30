@@ -1405,6 +1405,18 @@
     },
     "done": true
   },
+  "create:mechanical_arm": {
+    "criteria": {
+      "0": "2025-03-30 18:26:09 +0000"
+    },
+    "done": true
+  },
+  "create:arm_blaze_burner": {
+    "criteria": {
+      "0": "2025-03-30 18:22:03 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/place_campfire": {
     "criteria": {
       "campfire": "2025-03-30 17:33:48 +0000"
@@ -1414,6 +1426,12 @@
   "create:hand_crank_000": {
     "criteria": {
       "0": "2025-03-30 17:57:41 +0000"
+    },
+    "done": true
+  },
+  "create:windmill": {
+    "criteria": {
+      "0": "2025-03-30 18:24:34 +0000"
     },
     "done": true
   },

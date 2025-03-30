@@ -1396,3 +1396,25 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [30Mar2025 18:19:28.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Creative Mode]
 [30Mar2025 18:19:36.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Survival Mode]
 [30Mar2025 18:20:13.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Creative Mode]
+[30Mar2025 18:20:43.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Survival Mode]
+[30Mar2025 18:22:32.366] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[30Mar2025 18:22:45.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Creative Mode]
+[30Mar2025 18:22:50.715] [Server thread/WARN] [tombstone/]: The death event of the player Gabriel was canceled by another mod
+[30Mar2025 18:22:50.737] [Server thread/INFO] [tombstone/]: The player Gabriel has successfully been saved
+[30Mar2025 18:22:59.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabriel was cursed by Maledictus
+[30Mar2025 18:22:59.955] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2040ms or 40 ticks behind
+[30Mar2025 18:23:15.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Survival Mode]
+[30Mar2025 18:23:18.472] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[30Mar2025 18:23:25.948] [Server thread/WARN] [tombstone/]: The death event of the player Andremat2010 was canceled by another mod
+[30Mar2025 18:23:26.040] [Server thread/INFO] [tombstone/]: The player Andremat2010 has successfully been saved
+[30Mar2025 18:24:55.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Creative Mode]
+[30Mar2025 18:25:10.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Survival Mode]
+[30Mar2025 18:25:26.798] [Server thread/WARN] [tombstone/]: The death event of the player Andremat2010 was canceled by another mod
+[30Mar2025 18:25:26.812] [Server thread/INFO] [tombstone/]: The player Andremat2010 has successfully been saved
+[30Mar2025 18:26:09.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fablex39 has made the advancement [Busy Hands]
+[30Mar2025 18:28:48.380] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/97234, l='ServerLevel[world]', x=461.50, y=70.00, z=446.50] died, message: 'Unemployed was killed'
+[30Mar2025 18:29:03.404] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/97928, l='ServerLevel[world]', x=471.53, y=-256.00, z=428.97] died, message: 'Unemployed was killed'
+[30Mar2025 18:29:06.980] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[30Mar2025 18:29:24.625] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2659ms or 53 ticks behind
+[30Mar2025 18:30:54.840] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fablex39 lost connection: Timed out
+[30Mar2025 18:30:54.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fablex39 left the game
