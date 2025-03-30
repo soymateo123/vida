@@ -99,6 +99,7 @@
       "moor": "2025-03-22 03:29:39 +0000",
       "mediterranean_forest": "2025-03-21 01:20:07 +0000",
       "coniferous_forest": "2025-03-21 22:14:02 +0000",
+      "lush_desert": "2025-03-30 01:54:35 +0000",
       "redwood_forest": "2025-03-21 01:18:56 +0000",
       "visceral_heap": "2025-03-22 00:31:45 +0000",
       "dune_beach": "2025-03-22 03:26:06 +0000",
@@ -106,6 +107,7 @@
       "volcano": "2025-03-17 01:40:23 +0000",
       "rocky_rainforest": "2025-03-17 01:39:41 +0000",
       "volcanic_plains": "2025-03-17 01:40:25 +0000",
+      "lavender_field": "2025-03-30 02:06:19 +0000",
       "fir_clearing": "2025-03-21 22:14:03 +0000",
       "pumpkin_patch": "2025-03-21 22:13:29 +0000",
       "prairie": "2025-03-21 00:51:43 +0000",
@@ -265,6 +267,7 @@
       "minecraft:taiga": "2025-03-21 00:56:35 +0000",
       "minecraft:deep_ocean": "2025-03-22 03:24:22 +0000",
       "minecraft:frozen_river": "2025-03-23 20:46:23 +0000",
+      "quark:glimmering_weald": "2025-03-29 22:21:18 +0000",
       "minecraft:birch_forest": "2025-03-21 00:55:24 +0000",
       "minecraft:bamboo_jungle": "2025-03-21 21:44:52 +0000",
       "minecraft:beach": "2025-03-21 00:57:02 +0000",
@@ -338,6 +341,7 @@
       "minecraft:spider": "2025-03-17 00:09:22 +0000",
       "minecraft:piglin_brute": "2025-03-22 00:49:06 +0000",
       "minecraft:creeper": "2025-03-21 22:18:14 +0000",
+      "minecraft:wither": "2025-03-29 20:28:23 +0000",
       "minecraft:slime": "2025-03-21 00:26:53 +0000",
       "minecraft:evoker": "2025-03-23 19:07:23 +0000",
       "minecraft:phantom": "2025-03-22 01:52:20 +0000",
@@ -885,7 +889,13 @@
   },
   "deeperdarker:main/kill_all_sculk_mobs": {
     "criteria": {
-      "phantom": "2025-03-22 01:52:20 +0000"
+      "shattered": "2025-03-29 22:45:48 +0000",
+      "phantom": "2025-03-22 01:52:20 +0000",
+      "shriek_worm": "2025-03-29 22:50:05 +0000",
+      "sculk_centipede": "2025-03-29 22:52:06 +0000",
+      "sculk_leech": "2025-03-29 23:18:02 +0000",
+      "warden": "2025-03-29 22:22:42 +0000",
+      "sculk_snapper": "2025-03-29 22:51:21 +0000"
     },
     "done": false
   },
@@ -1055,7 +1065,9 @@
   },
   "minecraft:adventure/trim_with_all_exclusive_armor_patterns": {
     "criteria": {
+      "armor_trimmed_minecraft:silence_armor_trim_smithing_template_smithing_trim": "2025-03-29 23:03:12 +0000",
       "armor_trimmed_minecraft:vex_armor_trim_smithing_template_smithing_trim": "2025-03-22 23:10:19 +0000",
+      "armor_trimmed_minecraft:ward_armor_trim_smithing_template_smithing_trim": "2025-03-29 23:03:41 +0000",
       "armor_trimmed_minecraft:snout_armor_trim_smithing_template_smithing_trim": "2025-03-22 23:10:29 +0000"
     },
     "done": false
@@ -1532,6 +1544,193 @@
       "entered_end": "2025-03-29 19:53:15 +0000"
     },
     "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2025-03-29 20:27:47 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:rocket_science": {
+    "criteria": {
+      "has_nasa_workbench": "2025-03-29 20:32:54 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_naga": {
+    "criteria": {
+      "naga": "2025-03-29 20:45:08 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/sunbird_blessing": {
+    "criteria": {
+      "all_effects": "2025-03-29 20:46:40 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/enter_otherside": {
+    "criteria": {
+      "otherside": "2025-03-29 22:40:16 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:tier_3_rocket": {
+    "criteria": {
+      "has_tier_3_rocket": "2025-03-30 01:44:26 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/obtain_reinforced_echo_shard": {
+    "criteria": {
+      "reinforced_echo_shard": "2025-03-29 22:58:04 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:twilight_hunter": {
+    "criteria": {
+      "naga": "2025-03-29 21:44:59 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:suns_blessing": {
+    "criteria": {
+      "get_suns_blessing": "2025-03-29 23:36:08 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crocodile_chestplate": {
+    "criteria": {
+      "crocodile_chestplate": "2025-03-30 00:17:14 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/obtain_sculk_transmitter": {
+    "criteria": {
+      "sculk_transmitter": "2025-03-29 22:53:58 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/find_ancient_temple": {
+    "criteria": {
+      "ancient_temple": "2025-03-29 22:50:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2025-03-29 22:22:42 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_unstable_intangibility": {
+    "criteria": {
+      "has_magic_scroll": "2025-03-29 22:34:17 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_revenant": {
+    "criteria": {
+      "endergolem": "2025-03-30 00:20:20 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/kill_warden": {
+    "criteria": {
+      "warden": "2025-03-29 22:22:42 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/explore_otherside": {
+    "criteria": {
+      "deeplands": "2025-03-29 22:40:17 +0000",
+      "blooming_caverns": "2025-03-29 23:16:53 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:progress_yeti": {
+    "criteria": {
+      "was_in_fight": "2025-03-29 22:07:20 +0000"
+    },
+    "done": false
+  },
+  "create:wrench_goggles": {
+    "criteria": {
+      "0": "2025-03-30 01:33:41 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:progress_naga": {
+    "criteria": {
+      "naga": "2025-03-29 21:44:59 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/skreecher": {
+    "criteria": {
+      "killed": "2025-03-29 22:42:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-03-29 22:21:26 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_guard": {
+    "criteria": {
+      "coded_trigger": "2025-03-29 22:39:35 +0000"
+    },
+    "done": true
+  },
+  "create:mechanical_crafter": {
+    "criteria": {
+      "0": "2025-03-30 01:34:27 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_burning_arena": {
+    "criteria": {
+      "arena": "2025-03-30 00:18:32 +0000"
+    },
+    "done": true
+  },
+  "artifacts:adventurous_eater": {
+    "criteria": {
+      "eat_artifact": "2025-03-29 22:25:48 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_ignis": {
+    "criteria": {
+      "ignis": "2025-03-30 01:14:49 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/find_ancient_city": {
+    "criteria": {
+      "ancient_city": "2025-03-29 22:21:09 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:adventure/globe": {
+    "criteria": {
+      "unlock": "2025-03-29 22:59:37 +0000"
+    },
+    "done": true
+  },
+  "create:backtank": {
+    "criteria": {
+      "0": "2025-03-29 22:13:30 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_lich": {
+    "criteria": {
+      "kill_naga": "2025-03-29 21:45:00 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }

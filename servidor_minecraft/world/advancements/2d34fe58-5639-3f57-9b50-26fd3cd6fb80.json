@@ -119,7 +119,9 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "baked_potato": "2025-03-22 19:47:32 +0000",
+      "apple": "2025-03-29 22:32:22 +0000",
       "potato": "2025-03-22 19:11:24 +0000",
+      "bread": "2025-03-29 22:24:01 +0000",
       "cookie": "2025-03-22 19:11:52 +0000",
       "golden_carrot": "2025-03-22 19:12:25 +0000"
     },
@@ -371,6 +373,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-03-29 20:57:00 +0000",
       "minecraft:enderman": "2025-03-22 22:01:11 +0000",
       "minecraft:zombie": "2025-03-22 21:51:43 +0000"
     },
@@ -529,6 +532,79 @@
   "minecraft:adventure/lightning_rod_with_villager_no_fire": {
     "criteria": {
       "lightning_rod_with_villager_no_fire": "2025-03-23 21:22:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-03-29 21:08:58 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-03-29 22:19:44 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/find_ancient_city": {
+    "criteria": {
+      "ancient_city": "2025-03-29 22:22:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-03-29 22:25:42 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/enter_otherside": {
+    "criteria": {
+      "otherside": "2025-03-29 22:41:28 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/explore_otherside": {
+    "criteria": {
+      "deeplands": "2025-03-29 22:41:29 +0000"
+    },
+    "done": false
+  },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "shattered": "2025-03-29 23:12:23 +0000",
+      "sculk_leech": "2025-03-29 23:15:02 +0000"
+    },
+    "done": false
+  },
+  "illageandspillage:kill_all_iands": {
+    "criteria": {
+      "illageandspillage:spiritcaller": "2025-03-29 23:37:43 +0000"
+    },
+    "done": false
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-03-29 23:37:43 +0000"
+    },
+    "done": true
+  },
+  "illageandspillage:kill_spiri": {
+    "criteria": {
+      "requirement": "2025-03-29 23:37:43 +0000"
+    },
+    "done": true
+  },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2025-03-29 23:57:56 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:parry": {
+    "criteria": {
+      "parry_0": "2025-03-30 00:14:42 +0000"
     },
     "done": true
   },

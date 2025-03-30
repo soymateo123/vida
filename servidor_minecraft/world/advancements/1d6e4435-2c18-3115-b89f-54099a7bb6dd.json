@@ -827,5 +827,56 @@
     },
     "done": true
   },
+  "twilightforest:twilight_hunter": {
+    "criteria": {
+      "skeleton_druid": "2025-03-29 21:41:14 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:arborist": {
+    "criteria": {
+      "twilight_oak_log": "2025-03-29 21:40:43 +0000",
+      "twilight_oak_wood": "2025-03-29 21:40:50 +0000",
+      "twilight_oak_sapling": "2025-03-29 21:40:51 +0000",
+      "canopy_slab": "2025-03-29 21:40:03 +0000"
+    },
+    "done": false
+  },
+  "tombstone:adventure/first_pray": {
+    "criteria": {
+      "coded_trigger": "2025-03-29 21:11:28 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_naga": {
+    "criteria": {
+      "was_in_fight": "2025-03-29 21:44:59 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/deepsight": {
+    "criteria": {
+      "all_effects": "2025-03-29 21:11:28 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:root": {
+    "criteria": {
+      "in_tf": "2025-03-29 21:39:24 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_lich": {
+    "criteria": {
+      "kill_naga": "2025-03-29 21:45:00 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:hedge": {
+    "criteria": {
+      "swarm_spider": "2025-03-29 21:42:48 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
