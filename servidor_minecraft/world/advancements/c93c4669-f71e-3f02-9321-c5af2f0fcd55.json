@@ -964,9 +964,9 @@
     },
     "done": true
   },
-  "cataclysm:find_frosted_prison": {
+  "minecraft:adventure/trim_with_any_armor_pattern": {
     "criteria": {
-      "prison": "2025-03-30 02:48:01 +0000"
+      "armor_trimmed_minecraft:eye_armor_trim_smithing_template_smithing_trim": "2025-03-30 02:30:59 +0000"
     },
     "done": true
   },
@@ -976,9 +976,9 @@
     },
     "done": true
   },
-  "minecraft:adventure/trim_with_any_armor_pattern": {
+  "cataclysm:find_frosted_prison": {
     "criteria": {
-      "armor_trimmed_minecraft:eye_armor_trim_smithing_template_smithing_trim": "2025-03-30 02:30:59 +0000"
+      "prison": "2025-03-30 02:48:01 +0000"
     },
     "done": true
   },

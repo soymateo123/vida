@@ -1901,5 +1901,17 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:double_trouble": {
+    "criteria": {
+      "double_trouble_0": "2025-03-30 16:44:12 +0000"
+    },
+    "done": true
+  },
+  "paraglider:all_vessels": {
+    "criteria": {
+      "code_triggered": "2025-03-30 16:38:41 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

@@ -1348,9 +1348,15 @@
     },
     "done": true
   },
-  "minecraft:nether/obtain_crying_obsidian": {
+  "born_in_chaos_v1:chaos_knight": {
     "criteria": {
-      "crying_obsidian": "2025-03-30 05:08:20 +0000"
+      "chaos_knight_0": "2025-03-30 03:53:11 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/obtain_sonorous_staff": {
+    "criteria": {
+      "sonorous_staff": "2025-03-30 03:55:25 +0000"
     },
     "done": true
   },
@@ -1360,21 +1366,21 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/enter_acid_with_armor": {
-    "criteria": {
-      "enter_acid_with_armor": "2025-03-30 05:41:31 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:chaos_knight": {
-    "criteria": {
-      "chaos_knight_0": "2025-03-30 03:53:11 +0000"
-    },
-    "done": true
-  },
   "create:super_glue": {
     "criteria": {
       "0": "2025-03-30 05:00:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-03-30 05:08:20 +0000"
+    },
+    "done": true
+  },
+  "create:spout": {
+    "criteria": {
+      "0": "2025-03-30 05:11:09 +0000"
     },
     "done": true
   },
@@ -1390,15 +1396,9 @@
     },
     "done": true
   },
-  "create:spout": {
+  "alexscaves:alexscaves/enter_acid_with_armor": {
     "criteria": {
-      "0": "2025-03-30 05:11:09 +0000"
-    },
-    "done": true
-  },
-  "deeperdarker:main/obtain_sonorous_staff": {
-    "criteria": {
-      "sonorous_staff": "2025-03-30 03:55:25 +0000"
+      "enter_acid_with_armor": "2025-03-30 05:41:31 +0000"
     },
     "done": true
   },
