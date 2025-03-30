@@ -1405,15 +1405,21 @@
     },
     "done": true
   },
-  "create:mechanical_arm": {
+  "born_in_chaos_v1:hatman": {
     "criteria": {
-      "0": "2025-03-30 18:26:09 +0000"
+      "hatman_0": "2025-03-30 17:07:55 +0000"
+    },
+    "done": false
+  },
+  "create:steam_engine": {
+    "criteria": {
+      "0": "2025-03-30 17:14:45 +0000"
     },
     "done": true
   },
-  "create:arm_blaze_burner": {
+  "create:water_supply": {
     "criteria": {
-      "0": "2025-03-30 18:22:03 +0000"
+      "0": "2025-03-30 17:14:45 +0000"
     },
     "done": true
   },
@@ -1429,29 +1435,29 @@
     },
     "done": true
   },
+  "create:arm_blaze_burner": {
+    "criteria": {
+      "0": "2025-03-30 18:22:03 +0000"
+    },
+    "done": true
+  },
   "create:windmill": {
     "criteria": {
       "0": "2025-03-30 18:24:34 +0000"
     },
     "done": true
   },
-  "create:steam_engine": {
+  "create:mechanical_arm": {
     "criteria": {
-      "0": "2025-03-30 17:14:45 +0000"
+      "0": "2025-03-30 18:26:09 +0000"
     },
     "done": true
   },
-  "create:water_supply": {
+  "create:arm_many_targets": {
     "criteria": {
-      "0": "2025-03-30 17:14:45 +0000"
+      "0": "2025-03-30 18:38:10 +0000"
     },
     "done": true
-  },
-  "born_in_chaos_v1:hatman": {
-    "criteria": {
-      "hatman_0": "2025-03-30 17:07:55 +0000"
-    },
-    "done": false
   },
   "DataVersion": 3465
 }
