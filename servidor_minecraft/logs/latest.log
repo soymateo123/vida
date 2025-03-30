@@ -878,3 +878,74 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [30Mar2025 16:44:23.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fablex39> OE DEJEN DE TOCAR MI FABIRCA
 [30Mar2025 16:44:39.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elchipaxd12> nadie la a tocado
 [30Mar2025 16:45:14.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fablex39> ayuda
+[30Mar2025 16:47:56.983] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/12037, l='ServerLevel[world]', x=471.48, y=-256.00, z=428.92] died, message: 'Unemployed was killed'
+[30Mar2025 16:48:20.036] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[30Mar2025 16:48:37.400] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2384ms or 47 ticks behind
+[30Mar2025 16:48:54.798] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2433ms or 48 ticks behind
+[30Mar2025 16:49:14.516] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[30Mar2025 16:49:15.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabriel has made the advancement [Tunnel Treasures]
+[30Mar2025 16:49:33.824] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[30Mar2025 16:50:05.120] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[30Mar2025 16:50:24.371] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/14214, l='ServerLevel[world]', x=461.50, y=70.00, z=446.50] died, message: 'Unemployed was killed'
+[30Mar2025 16:50:46.158] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cleric'/1378, l='ServerLevel[world]', x=474.28, y=70.00, z=439.54] died, message: 'Cleric was slain by Zombie'
+[30Mar2025 16:50:46.776] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[30Mar2025 16:51:24.967] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[30Mar2025 16:51:31.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Creative Mode]
+[30Mar2025 16:51:40.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabriel has made the advancement [Chest Slayer]
+[30Mar2025 16:51:46.565] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2050ms or 41 ticks behind
+[30Mar2025 16:52:05.370] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[30Mar2025 16:52:16.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Survival Mode]
+[30Mar2025 16:52:23.281] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2915ms or 58 ticks behind
+[30Mar2025 16:52:40.880] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2615ms or 52 ticks behind
+[30Mar2025 16:52:58.009] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2144ms or 42 ticks behind
+[30Mar2025 16:53:15.205] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2239ms or 44 ticks behind
+[30Mar2025 16:53:32.527] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2362ms or 47 ticks behind
+[30Mar2025 16:53:45.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Creative Mode]
+[30Mar2025 16:53:49.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Survival Mode]
+[30Mar2025 16:53:50.382] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2866ms or 57 ticks behind
+[30Mar2025 16:54:08.668] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3302ms or 66 ticks behind
+[30Mar2025 16:54:25.708] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2043ms or 40 ticks behind
+[30Mar2025 16:54:50.225] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=431, y=47, z=1259} BlockPos{x=430, y=46, z=1256}
+[30Mar2025 16:54:50.825] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=431, y=47, z=1261} BlockPos{x=431, y=45, z=1261}
+[30Mar2025 16:55:13.712] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=423, y=47, z=1271} BlockPos{x=422, y=46, z=1270}
+[30Mar2025 16:55:13.962] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=423, y=47, z=1272} BlockPos{x=424, y=47, z=1271}
+[30Mar2025 16:55:14.266] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=424, y=47, z=1271} BlockPos{x=424, y=47, z=1272}
+[30Mar2025 16:55:14.267] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=424, y=47, z=1271} BlockPos{x=423, y=47, z=1272}
+[30Mar2025 16:55:14.311] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=424, y=47, z=1271} BlockPos{x=423, y=47, z=1272}
+[30Mar2025 16:55:14.361] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=424, y=47, z=1271} BlockPos{x=423, y=47, z=1272}
+[30Mar2025 16:55:14.404] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=424, y=47, z=1271} BlockPos{x=423, y=47, z=1272}
+[30Mar2025 16:55:14.459] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=424, y=47, z=1271} BlockPos{x=423, y=47, z=1272}
+[30Mar2025 16:55:22.276] [Server thread/WARN] [tombstone/]: The death event of the player fablex39 was canceled by another mod
+[30Mar2025 16:55:22.313] [Server thread/INFO] [tombstone/]: The player fablex39 has successfully been saved
+[30Mar2025 16:55:28.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fablex39 was slain by Warden
+[30Mar2025 16:55:33.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel> xdd
+[30Mar2025 16:55:35.064] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [0 above bottom--8 absolute]
+[30Mar2025 16:55:43.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel> oe no q mañana noma survival
+[30Mar2025 16:55:45.351] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=438, y=51, z=1303} BlockPos{x=438, y=52, z=1304}
+[30Mar2025 16:55:45.395] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=438, y=51, z=1303} BlockPos{x=435, y=52, z=1303}
+[30Mar2025 16:55:45.456] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=436, y=52, z=1302} BlockPos{x=435, y=52, z=1303}
+[30Mar2025 16:55:45.457] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=436, y=52, z=1302} BlockPos{x=436, y=52, z=1303}
+[30Mar2025 16:55:45.655] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=438, y=52, z=1303} BlockPos{x=438, y=51, z=1304}
+[30Mar2025 16:55:46.088] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=435, y=53, z=1304} BlockPos{x=437, y=51, z=1304}
+[30Mar2025 16:55:50.967] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=456, y=46, z=1306} BlockPos{x=452, y=46, z=1305}
+[30Mar2025 16:55:51.005] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=456, y=46, z=1306} BlockPos{x=452, y=46, z=1305}
+[30Mar2025 16:55:51.070] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=456, y=46, z=1306} BlockPos{x=452, y=46, z=1305}
+[30Mar2025 16:55:51.107] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=456, y=46, z=1306} BlockPos{x=452, y=46, z=1305}
+[30Mar2025 16:55:51.172] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=456, y=46, z=1306} BlockPos{x=452, y=46, z=1305}
+[30Mar2025 16:55:51.208] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=456, y=46, z=1306} BlockPos{x=452, y=46, z=1305}
+[30Mar2025 16:55:51.270] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=456, y=46, z=1306} BlockPos{x=452, y=46, z=1305}
+[30Mar2025 16:55:51.307] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=456, y=46, z=1306} BlockPos{x=452, y=46, z=1305}
+[30Mar2025 16:56:02.971] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=456, y=48, z=1297} BlockPos{x=456, y=47, z=1299}
+[30Mar2025 16:56:03.006] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=456, y=48, z=1297} BlockPos{x=456, y=47, z=1299}
+[30Mar2025 16:56:24.408] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=394, y=52, z=1289} BlockPos{x=395, y=51, z=1288}
+[30Mar2025 16:56:27.876] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=400, y=51, z=1279} BlockPos{x=399, y=51, z=1279}
+[30Mar2025 16:56:30.469] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=407, y=50, z=1276} BlockPos{x=404, y=51, z=1275}
+[30Mar2025 16:56:30.501] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=407, y=50, z=1276} BlockPos{x=404, y=51, z=1275}
+[30Mar2025 16:56:30.565] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=408, y=50, z=1277} BlockPos{x=404, y=51, z=1275}
+[30Mar2025 16:56:35.303] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=425, y=47, z=1274} BlockPos{x=424, y=46, z=1274}
+[30Mar2025 16:56:35.563] [Server thread/WARN] [tombstone/]: The death event of the player fablex39 was canceled by another mod
+[30Mar2025 16:56:35.603] [Server thread/INFO] [tombstone/]: The player fablex39 has successfully been saved
+[30Mar2025 16:56:35.604] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=425, y=47, z=1276} BlockPos{x=425, y=47, z=1275}
+[30Mar2025 16:56:35.670] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=425, y=47, z=1276} BlockPos{x=425, y=47, z=1275}
+[30Mar2025 16:56:43.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fablex39> santii
+[30Mar2025 16:56:49.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fablex39> esatnli

@@ -145,7 +145,8 @@
   "lootr:social": {
     "criteria": {
       "opened_barrel": "2025-03-16 22:26:09 +0000",
-      "opened_chest": "2025-03-16 22:25:22 +0000"
+      "opened_chest": "2025-03-16 22:25:22 +0000",
+      "opened_cart": "2025-03-30 16:49:15 +0000"
     },
     "done": false
   },
@@ -1901,9 +1902,21 @@
     },
     "done": true
   },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2025-03-30 16:51:40 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:double_trouble": {
     "criteria": {
       "double_trouble_0": "2025-03-30 16:44:12 +0000"
+    },
+    "done": true
+  },
+  "lootr:1cart": {
+    "criteria": {
+      "opened_cart": "2025-03-30 16:49:15 +0000"
     },
     "done": true
   },
