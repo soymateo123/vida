@@ -562,33 +562,9 @@
     },
     "done": true
   },
-  "portablemobs:mastercelladvancement": {
-    "criteria": {
-      "mastercell": "2025-03-23 20:57:47 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/discover_abyssal_ruins": {
-    "criteria": {
-      "abyssal_ruins": "2025-03-23 20:33:13 +0000"
-    },
-    "done": true
-  },
   "alexsmobs:alexsmobs/banana": {
     "criteria": {
       "banana": "2025-03-23 20:23:18 +0000"
-    },
-    "done": true
-  },
-  "knightquest:knightquest": {
-    "criteria": {
-      "requirement": "2025-03-23 21:02:19 +0000"
-    },
-    "done": true
-  },
-  "aquamirae:adventure/find_ice_maze": {
-    "criteria": {
-      "deep_frozen_ocean": "2025-03-23 20:39:01 +0000"
     },
     "done": true
   },
@@ -598,9 +574,33 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-03-23 20:26:51 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_abyssal_ruins": {
+    "criteria": {
+      "abyssal_ruins": "2025-03-23 20:33:13 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/discover_abyssal_chasm": {
     "criteria": {
       "discover": "2025-03-23 20:33:13 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/find_ice_maze": {
+    "criteria": {
+      "deep_frozen_ocean": "2025-03-23 20:39:01 +0000"
+    },
+    "done": true
+  },
+  "portablemobs:mastercelladvancement": {
+    "criteria": {
+      "mastercell": "2025-03-23 20:57:47 +0000"
     },
     "done": true
   },
@@ -610,9 +610,9 @@
     },
     "done": true
   },
-  "minecraft:story/enter_the_end": {
+  "knightquest:knightquest": {
     "criteria": {
-      "entered_end": "2025-03-23 20:26:51 +0000"
+      "requirement": "2025-03-23 21:02:19 +0000"
     },
     "done": true
   },

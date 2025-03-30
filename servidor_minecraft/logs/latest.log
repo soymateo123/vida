@@ -1518,3 +1518,78 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [30Mar2025 19:01:37.507] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5042ms or 100 ticks behind
 [30Mar2025 19:01:57.004] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4539ms or 90 ticks behind
 [30Mar2025 19:02:06.390] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-490, y=-41, z=89}
+[30Mar2025 19:02:17.690] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5724ms or 114 ticks behind
+[30Mar2025 19:02:30.491] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-549, y=15, z=105}
+[30Mar2025 19:02:45.214] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12548ms or 250 ticks behind
+[30Mar2025 19:02:52.764] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Andremat2010) moved too quickly! -10.360349506556872,0.0,0.9072167529613182
+[30Mar2025 19:02:52.764] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Andremat2010) moved too quickly! -10.758824644249785,0.0,0.9421089249665613
+[30Mar2025 19:02:52.765] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Andremat2010) moved too quickly! -11.157299785372402,0.0,0.9770010798964961
+[30Mar2025 19:02:52.765] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Andremat2010) moved too quickly! -11.555774929581617,0.0,1.0118932194586705
+[30Mar2025 19:02:52.765] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Andremat2010) moved too quickly! -11.954250076568883,0.0,1.0467853451898463
+[30Mar2025 19:02:52.766] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Andremat2010) moved too quickly! -12.35272522605635,0.0,1.0816774584731377
+[30Mar2025 19:02:52.766] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Andremat2010) moved too quickly! -12.751200377793907,0.0,1.1165695605533301
+[30Mar2025 19:02:52.767] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Andremat2010) moved too quickly! -13.149675531556682,0.0,1.1514616525507222
+[30Mar2025 19:02:52.767] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Andremat2010) moved too quickly! -13.548150687142083,0.0,1.1863537354736025
+[30Mar2025 19:02:52.768] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Andremat2010) moved too quickly! -13.946625844367873,0.0,1.2212458102294192
+[30Mar2025 19:02:52.768] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Andremat2010) moved too quickly! -14.345101003069999,0.0,1.2561378776348988
+[30Mar2025 19:02:52.768] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Andremat2010) moved too quickly! -14.743576163100784,0.0,1.291029938425055
+[30Mar2025 19:02:52.769] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Andremat2010) moved too quickly! -15.14205132432744,0.0,1.325921993261403
+[30Mar2025 19:02:52.769] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Andremat2010) moved too quickly! -15.54052648663037,0.0,1.3608140427393494
+[30Mar2025 19:02:52.770] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Andremat2010) moved too quickly! -15.939001649901911,0.0,1.3957060873947285
+[30Mar2025 19:02:52.770] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Andremat2010) moved too quickly! -16.337476814045203,0.0,1.4305981277097999
+[30Mar2025 19:02:52.770] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Andremat2010) moved too quickly! -16.73595197897305,0.0,1.4654901641185916
+[30Mar2025 19:02:52.771] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Andremat2010) moved too quickly! -17.134427144607002,0.0,1.5003821970117315
+[30Mar2025 19:02:52.771] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Andremat2010) moved too quickly! -17.53290231087658,0.0,1.5352742267407962
+[30Mar2025 19:02:52.771] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Andremat2010) moved too quickly! -17.931377477718115,0.0,1.570166253622176
+[30Mar2025 19:03:02.598] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-666, y=4, z=88}
+[30Mar2025 19:03:02.598] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-668, y=4, z=88}
+[30Mar2025 19:03:02.668] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[30Mar2025 19:03:20.068] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2402ms or 48 ticks behind
+[30Mar2025 19:03:33.451] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fablex39 moved too quickly! 0.0,10.636882978207474,0.0
+[30Mar2025 19:03:35.265] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fablex39 moved too quickly! 0.006363947094143896,10.538214849675882,0.26804366741993135
+[30Mar2025 19:03:38.524] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3458ms or 69 ticks behind
+[30Mar2025 19:04:01.795] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-829, y=-21, z=138}
+[30Mar2025 19:04:03.231] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[30Mar2025 19:04:22.020] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[30Mar2025 19:04:37.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Creative Mode]
+[30Mar2025 19:04:39.618] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2602ms or 52 ticks behind
+[30Mar2025 19:04:40.514] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=-1018, y=-22, z=128}
+[30Mar2025 19:04:46.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Survival Mode]
+[30Mar2025 19:05:05.039] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gabriel moved too quickly! 11.800763614224707,0.6859912202790639,-3.975639588938293
+[30Mar2025 19:05:29.578] [Worker-Main-10/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=4505, y=-29, z=1327}
+[30Mar2025 19:05:30.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Creative Mode]
+[30Mar2025 19:05:42.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fablex39 has completed the challenge [Hero of Hyrule]
+[30Mar2025 19:05:47.665] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2050ms or 41 ticks behind
+[30Mar2025 19:05:48.554] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=4639, y=23, z=1459}
+[30Mar2025 19:05:48.918] [Worker-Main-10/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[30Mar2025 19:06:08.168] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[30Mar2025 19:06:33.016] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[30Mar2025 19:06:37.141] [Worker-Main-31/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=4723, y=29, z=1247}
+[30Mar2025 19:06:38.155] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fablex39 lost connection: Timed out
+[30Mar2025 19:06:38.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fablex39 left the game
+[30Mar2025 19:08:15.374] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: fablex39[/127.104.85.61:46299] logged in with entity id 143968 at (472.1235603681172, 70.0, 426.0982275698281)
+[30Mar2025 19:08:15.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fablex39 joined the game
+[30Mar2025 19:08:15.403] [Server thread/INFO] [Jade/]: Syncing config to fablex39 (e1846bef-2bf8-36e9-b65e-d64997e6db9c)
+[30Mar2025 19:09:07.271] [Worker-Main-1/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/waystone/sand
+[30Mar2025 19:09:07.280] [Worker-Main-1/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/waystone/sand
+[30Mar2025 19:09:19.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fablex39 has made the advancement [Remote Storage]
+[30Mar2025 19:09:35.431] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kiritogamericrac[/127.41.134.222:35143] logged in with entity id 145818 at (469.0679967272231, 73.28995863857207, 458.942173262024)
+[30Mar2025 19:09:35.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiritogamericrac joined the game
+[30Mar2025 19:09:35.485] [Server thread/INFO] [Jade/]: Syncing config to Kiritogamericrac (e9a987dc-9d07-3092-a9c7-544b4fc28a77)
+[30Mar2025 19:09:35.603] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
+[30Mar2025 19:10:48.320] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/146429, l='ServerLevel[world]', x=484.74, y=-256.00, z=410.55] died, message: 'Unemployed was killed'
+[30Mar2025 19:10:51.882] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[30Mar2025 19:10:55.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Survival Mode]
+[30Mar2025 19:11:04.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fablex39 has completed the challenge [Unity with Darkness]
+[30Mar2025 19:11:06.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabriel has reached the goal [Exorcism]
+[30Mar2025 19:11:09.281] [Server thread/WARN] [tombstone/]: The death event of the player Kiritogamericrac was canceled by another mod
+[30Mar2025 19:11:09.300] [Server thread/INFO] [tombstone/]: The player Kiritogamericrac has successfully been saved
+[30Mar2025 19:12:04.554] [Server thread/WARN] [tombstone/]: The death event of the player fablex39 was canceled by another mod
+[30Mar2025 19:12:04.578] [Server thread/INFO] [tombstone/]: The player fablex39 has successfully been saved
+[30Mar2025 19:12:21.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fablex39 was slain by Nightmare Stalker
+[30Mar2025 19:12:42.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Teleported fablex39 to Kiritogamericrac]
+[30Mar2025 19:12:52.846] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=4191, y=7, z=1174}
+[30Mar2025 19:12:53.545] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elchipaxd12[/127.223.203.153:54583] logged in with entity id 149667 at (496.5785631167078, 71.0, 365.14244615411513)
+[30Mar2025 19:12:53.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elchipaxd12 joined the game
+[30Mar2025 19:12:53.564] [Server thread/INFO] [Jade/]: Syncing config to elchipaxd12 (c93c4669-f71e-3f02-9321-c5af2f0fcd55)
+[30Mar2025 19:12:53.599] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1335, y=30, z=33}
