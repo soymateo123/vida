@@ -95,6 +95,7 @@
       "jade_cliffs": "2025-03-23 21:08:00 +0000",
       "old_growth_woodland": "2025-03-23 01:46:45 +0000",
       "maple_woods": "2025-03-30 05:23:20 +0000",
+      "crystalline_chasm": "2025-03-30 17:54:43 +0000",
       "orchard": "2025-03-23 21:13:42 +0000",
       "field": "2025-03-30 05:22:52 +0000",
       "mediterranean_forest": "2025-03-23 01:47:23 +0000",
@@ -403,6 +404,7 @@
     "criteria": {
       "minecraft:blaze": "2025-03-30 03:20:24 +0000",
       "minecraft:skeleton": "2025-03-29 20:57:00 +0000",
+      "minecraft:creeper": "2025-03-30 17:48:33 +0000",
       "minecraft:phantom": "2025-03-30 04:27:39 +0000",
       "minecraft:wither_skeleton": "2025-03-30 05:41:39 +0000",
       "minecraft:enderman": "2025-03-22 22:01:11 +0000",
@@ -746,6 +748,12 @@
   "alexscaves:alexscaves/enter_acid_with_armor": {
     "criteria": {
       "enter_acid_with_armor": "2025-03-30 05:43:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/fast_travel": {
+    "criteria": {
+      "travelled": "2025-03-30 17:56:58 +0000"
     },
     "done": true
   },

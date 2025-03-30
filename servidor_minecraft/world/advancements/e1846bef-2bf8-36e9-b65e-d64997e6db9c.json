@@ -1411,6 +1411,12 @@
     },
     "done": true
   },
+  "create:hand_crank_000": {
+    "criteria": {
+      "0": "2025-03-30 17:57:41 +0000"
+    },
+    "done": true
+  },
   "create:steam_engine": {
     "criteria": {
       "0": "2025-03-30 17:14:45 +0000"

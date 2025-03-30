@@ -1941,5 +1941,11 @@
     },
     "done": true
   },
+  "tombstone:adventure/use_preservation": {
+    "criteria": {
+      "has_magic_scroll": "2025-03-30 17:50:54 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
