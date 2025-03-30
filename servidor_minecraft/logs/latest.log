@@ -1350,3 +1350,49 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [30Mar2025 18:10:08.480] [Server thread/WARN] [tombstone/]: The death event of the player Gabriel was canceled by another mod
 [30Mar2025 18:10:08.508] [Server thread/INFO] [tombstone/]: The player Gabriel has successfully been saved
 [30Mar2025 18:10:15.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabriel was slain by Nightmare Stalker
+[30Mar2025 18:10:22.074] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[30Mar2025 18:10:39.317] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2252ms or 45 ticks behind
+[30Mar2025 18:10:58.619] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LTCBAS2022 moved wrongly!
+[30Mar2025 18:11:01.933] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[30Mar2025 18:11:15.791] [Server thread/INFO] [net.blay09.mods.waystones.core.PlayerWaystoneManager/]: Rejected teleport: MissingWaystone
+[30Mar2025 18:11:22.759] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5844ms or 116 ticks behind
+[30Mar2025 18:11:37.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Creative Mode]
+[30Mar2025 18:11:42.064] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2399ms or 47 ticks behind
+[30Mar2025 18:11:47.814] [Server thread/INFO] [net.blay09.mods.waystones.core.PlayerWaystoneManager/]: Rejected teleport: MissingWaystone
+[30Mar2025 18:11:53.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Survival Mode]
+[30Mar2025 18:12:02.269] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5253ms or 105 ticks behind
+[30Mar2025 18:12:21.649] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4384ms or 87 ticks behind
+[30Mar2025 18:12:28.254] [Server thread/INFO] [net.blay09.mods.waystones.core.PlayerWaystoneManager/]: Rejected teleport: MissingWaystone
+[30Mar2025 18:12:30.413] [Server thread/INFO] [net.blay09.mods.waystones.core.PlayerWaystoneManager/]: Rejected teleport: MissingWaystone
+[30Mar2025 18:12:40.853] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4238ms or 84 ticks behind
+[30Mar2025 18:12:59.213] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3398ms or 67 ticks behind
+[30Mar2025 18:13:05.438] [Server thread/WARN] [tombstone/]: The death event of the player Andremat2010 was canceled by another mod
+[30Mar2025 18:13:05.502] [Server thread/INFO] [tombstone/]: The player Andremat2010 has successfully been saved
+[30Mar2025 18:13:16.383] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2217ms or 44 ticks behind
+[30Mar2025 18:13:33.395] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
+[30Mar2025 18:13:51.159] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2793ms or 55 ticks behind
+[30Mar2025 18:14:08.429] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LTCBAS2022 moved wrongly!
+[30Mar2025 18:14:08.542] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2426ms or 48 ticks behind
+[30Mar2025 18:14:25.812] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2296ms or 45 ticks behind
+[30Mar2025 18:14:43.723] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2958ms or 59 ticks behind
+[30Mar2025 18:15:03.823] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5108ms or 102 ticks behind
+[30Mar2025 18:15:19.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Creative Mode]
+[30Mar2025 18:15:24.613] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5798ms or 115 ticks behind
+[30Mar2025 18:15:42.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Survival Mode]
+[30Mar2025 18:15:45.727] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6161ms or 123 ticks behind
+[30Mar2025 18:16:07.452] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6737ms or 134 ticks behind
+[30Mar2025 18:16:29.400] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6984ms or 139 ticks behind
+[30Mar2025 18:16:52.359] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7994ms or 159 ticks behind
+[30Mar2025 18:17:13.651] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6336ms or 126 ticks behind
+[30Mar2025 18:17:32.360] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3745ms or 74 ticks behind
+[30Mar2025 18:17:54.203] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6887ms or 137 ticks behind
+[30Mar2025 18:18:12.639] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3473ms or 69 ticks behind
+[30Mar2025 18:18:14.719] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gabriel moved too quickly! 9.99262161020755,-3.3384071403958586,0.5285497485913879
+[30Mar2025 18:18:14.886] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fablex39 moved too quickly! -2.29339750792559,10.037410849141807,-0.24857692104603757
+[30Mar2025 18:18:31.254] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3639ms or 72 ticks behind
+[30Mar2025 18:18:48.883] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2667ms or 53 ticks behind
+[30Mar2025 18:19:03.352] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LTCBAS2022 lost connection: Disconnected
+[30Mar2025 18:19:03.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LTCBAS2022 left the game
+[30Mar2025 18:19:28.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Creative Mode]
+[30Mar2025 18:19:36.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Survival Mode]
+[30Mar2025 18:20:13.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Creative Mode]
