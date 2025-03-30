@@ -915,6 +915,7 @@
       "sculk_centipede": "2025-03-29 22:52:06 +0000",
       "sculk_leech": "2025-03-29 23:18:02 +0000",
       "warden": "2025-03-29 22:22:42 +0000",
+      "angler_fish": "2025-03-30 17:03:37 +0000",
       "sculk_snapper": "2025-03-29 22:51:21 +0000"
     },
     "done": false
@@ -1669,10 +1670,12 @@
   },
   "deeperdarker:main/explore_otherside": {
     "criteria": {
+      "overcast_columns": "2025-03-30 17:05:53 +0000",
       "deeplands": "2025-03-29 22:40:17 +0000",
-      "blooming_caverns": "2025-03-29 23:16:53 +0000"
+      "blooming_caverns": "2025-03-29 23:16:53 +0000",
+      "echoing_forest": "2025-03-30 17:05:11 +0000"
     },
-    "done": false
+    "done": true
   },
   "alexsmobs:alexsmobs/skreecher": {
     "criteria": {

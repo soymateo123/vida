@@ -1402,5 +1402,23 @@
     },
     "done": true
   },
+  "create:steam_engine": {
+    "criteria": {
+      "0": "2025-03-30 17:14:45 +0000"
+    },
+    "done": true
+  },
+  "create:water_supply": {
+    "criteria": {
+      "0": "2025-03-30 17:14:45 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:hatman": {
+    "criteria": {
+      "hatman_0": "2025-03-30 17:07:55 +0000"
+    },
+    "done": false
+  },
   "DataVersion": 3465
 }

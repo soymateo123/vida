@@ -641,39 +641,9 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/enderiophage": {
+  "cataclysm:find_frosted_prison": {
     "criteria": {
-      "killed_by": "2025-03-30 04:22:24 +0000"
-    },
-    "done": true
-  },
-  "ad_astra:venus": {
-    "criteria": {
-      "entered_venus": "2025-03-30 02:56:17 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/capsid": {
-    "criteria": {
-      "capsid": "2025-03-30 04:22:28 +0000"
-    },
-    "done": true
-  },
-  "ad_astra:energizer": {
-    "criteria": {
-      "has_energizer": "2025-03-30 03:30:59 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/get_fd_seed": {
-    "criteria": {
-      "cabbage_seeds": "2025-03-30 05:09:12 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/enter_acid_with_armor": {
-    "criteria": {
-      "enter_acid_with_armor": "2025-03-30 05:43:38 +0000"
+      "prison": "2025-03-30 02:48:33 +0000"
     },
     "done": true
   },
@@ -683,51 +653,21 @@
     },
     "done": true
   },
-  "minecraft:story/form_obsidian": {
-    "criteria": {
-      "obsidian": "2025-03-30 04:58:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:end/find_end_city": {
-    "criteria": {
-      "in_city": "2025-03-30 04:12:06 +0000"
-    },
-    "done": true
-  },
   "ad_astra:ti_69": {
     "criteria": {
       "has_ti_69": "2025-03-30 02:51:05 +0000"
     },
     "done": true
   },
-  "minecraft:end/elytra": {
+  "ad_astra:venus": {
     "criteria": {
-      "elytra": "2025-03-30 04:12:14 +0000"
+      "entered_venus": "2025-03-30 02:56:17 +0000"
     },
     "done": true
   },
-  "cataclysm:find_ancient_factory": {
+  "ad_astra:energizer": {
     "criteria": {
-      "factory": "2025-03-30 05:33:05 +0000"
-    },
-    "done": true
-  },
-  "cataclysm:find_frosted_prison": {
-    "criteria": {
-      "prison": "2025-03-30 02:48:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/plant_seed": {
-    "criteria": {
-      "wheat": "2025-03-30 05:10:22 +0000"
-    },
-    "done": true
-  },
-  "lootr:100loot": {
-    "criteria": {
-      "loot_stat": "2025-03-30 05:35:28 +0000"
+      "has_energizer": "2025-03-30 03:30:59 +0000"
     },
     "done": true
   },
@@ -737,15 +677,75 @@
     },
     "done": true
   },
-  "mowziesmobs:kill_frostmaw": {
+  "minecraft:end/find_end_city": {
     "criteria": {
-      "frostmaw": "2025-03-30 05:27:43 +0000"
+      "in_city": "2025-03-30 04:12:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2025-03-30 04:12:14 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/enderiophage": {
+    "criteria": {
+      "killed_by": "2025-03-30 04:22:24 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/capsid": {
+    "criteria": {
+      "capsid": "2025-03-30 04:22:28 +0000"
     },
     "done": true
   },
   "alexsmobs:alexsmobs/ender_flu": {
     "criteria": {
       "all_effects": "2025-03-30 04:22:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-03-30 04:58:54 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "cabbage_seeds": "2025-03-30 05:09:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-03-30 05:10:22 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_frostmaw": {
+    "criteria": {
+      "frostmaw": "2025-03-30 05:27:43 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_ancient_factory": {
+    "criteria": {
+      "factory": "2025-03-30 05:33:05 +0000"
+    },
+    "done": true
+  },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2025-03-30 05:35:28 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/enter_acid_with_armor": {
+    "criteria": {
+      "enter_acid_with_armor": "2025-03-30 05:43:38 +0000"
     },
     "done": true
   },
