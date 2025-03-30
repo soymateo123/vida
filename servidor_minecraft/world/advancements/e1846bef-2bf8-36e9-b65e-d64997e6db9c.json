@@ -95,6 +95,8 @@
       "maple_woods": "2025-03-30 05:22:59 +0000",
       "crystalline_chasm": "2025-03-22 17:20:25 +0000",
       "field": "2025-03-23 04:08:03 +0000",
+      "orchard": "2025-03-30 17:39:27 +0000",
+      "lavender_forest": "2025-03-30 17:40:55 +0000",
       "mediterranean_forest": "2025-03-16 23:13:46 +0000",
       "coniferous_forest": "2025-03-30 05:29:15 +0000",
       "spider_nest": "2025-03-23 04:11:18 +0000",
@@ -204,6 +206,7 @@
       "minecraft:ocean": "2025-03-16 23:45:19 +0000",
       "minecraft:jungle": "2025-03-22 03:26:24 +0000",
       "minecraft:snowy_beach": "2025-03-29 00:14:09 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-03-30 17:41:38 +0000",
       "minecraft:flower_forest": "2025-03-23 04:11:47 +0000",
       "minecraft:deep_dark": "2025-03-23 04:15:53 +0000",
       "minecraft:meadow": "2025-03-21 22:57:50 +0000",
@@ -1399,6 +1402,12 @@
   "alexscaves:alexscaves/enter_acid_with_armor": {
     "criteria": {
       "enter_acid_with_armor": "2025-03-30 05:41:31 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_campfire": {
+    "criteria": {
+      "campfire": "2025-03-30 17:33:48 +0000"
     },
     "done": true
   },
