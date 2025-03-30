@@ -93,6 +93,7 @@
       "lavender_forest": "2025-03-23 19:44:29 +0000",
       "mediterranean_forest": "2025-03-21 22:40:19 +0000",
       "coniferous_forest": "2025-03-22 21:03:07 +0000",
+      "spider_nest": "2025-03-30 02:48:38 +0000",
       "redwood_forest": "2025-03-17 00:47:48 +0000",
       "dune_beach": "2025-03-30 00:35:52 +0000",
       "auroral_garden": "2025-03-29 00:14:01 +0000",
@@ -960,6 +961,24 @@
   "ad_astra:venus": {
     "criteria": {
       "entered_venus": "2025-03-30 02:10:50 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_frosted_prison": {
+    "criteria": {
+      "prison": "2025-03-30 02:48:01 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:rocket_man": {
+    "criteria": {
+      "has_jet_suit": "2025-03-30 02:46:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trim_with_any_armor_pattern": {
+    "criteria": {
+      "armor_trimmed_minecraft:eye_armor_trim_smithing_template_smithing_trim": "2025-03-30 02:30:59 +0000"
     },
     "done": true
   },

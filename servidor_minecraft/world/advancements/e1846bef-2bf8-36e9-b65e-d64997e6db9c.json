@@ -79,28 +79,39 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "muskeg": "2025-03-30 05:30:36 +0000",
       "woodland": "2025-03-16 22:42:00 +0000",
       "shrubland": "2025-03-16 22:24:13 +0000",
+      "snowblossom_grove": "2025-03-30 05:30:27 +0000",
       "rocky_shrubland": "2025-03-16 22:19:07 +0000",
       "scrubland": "2025-03-16 23:10:13 +0000",
       "erupting_inferno": "2025-03-22 00:17:36 +0000",
       "highland": "2025-03-16 22:40:02 +0000",
       "jade_cliffs": "2025-03-16 22:40:11 +0000",
+      "clover_patch": "2025-03-30 05:27:04 +0000",
+      "wetland": "2025-03-30 05:27:48 +0000",
       "cold_desert": "2025-03-29 00:09:20 +0000",
       "old_growth_woodland": "2025-03-29 00:30:15 +0000",
+      "maple_woods": "2025-03-30 05:22:59 +0000",
       "crystalline_chasm": "2025-03-22 17:20:25 +0000",
       "field": "2025-03-23 04:08:03 +0000",
       "mediterranean_forest": "2025-03-16 23:13:46 +0000",
+      "coniferous_forest": "2025-03-30 05:29:15 +0000",
       "spider_nest": "2025-03-23 04:11:18 +0000",
       "lush_desert": "2025-03-30 01:54:35 +0000",
       "redwood_forest": "2025-03-16 22:40:13 +0000",
       "dune_beach": "2025-03-22 18:36:07 +0000",
+      "seasonal_forest": "2025-03-30 05:23:29 +0000",
       "auroral_garden": "2025-03-29 00:13:31 +0000",
       "pasture": "2025-03-23 04:11:11 +0000",
+      "volcanic_plains": "2025-03-30 06:23:53 +0000",
       "lavender_field": "2025-03-16 22:39:58 +0000",
+      "pumpkin_patch": "2025-03-30 05:23:45 +0000",
       "prairie": "2025-03-29 20:08:45 +0000",
+      "grassland": "2025-03-30 05:22:48 +0000",
       "snowy_coniferous_forest": "2025-03-23 04:09:07 +0000",
       "snowy_fir_clearing": "2025-03-29 00:09:24 +0000",
+      "undergrowth": "2025-03-30 03:59:08 +0000",
       "rainforest": "2025-03-16 23:15:23 +0000"
     },
     "done": false
@@ -153,7 +164,9 @@
       "apple": "2025-03-17 00:05:24 +0000",
       "potato": "2025-03-23 03:13:18 +0000",
       "bread": "2025-03-16 22:39:26 +0000",
-      "golden_apple": "2025-03-17 00:35:37 +0000"
+      "golden_apple": "2025-03-17 00:35:37 +0000",
+      "golden_carrot": "2025-03-30 05:03:35 +0000",
+      "enchanted_golden_apple": "2025-03-30 04:26:58 +0000"
     },
     "done": false
   },
@@ -165,11 +178,15 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2025-03-30 05:22:52 +0000",
+      "minecraft:deep_ocean": "2025-03-30 05:26:08 +0000",
       "minecraft:frozen_river": "2025-03-29 00:10:00 +0000",
       "quark:glimmering_weald": "2025-03-29 22:27:58 +0000",
       "minecraft:sunflower_plains": "2025-03-23 04:11:05 +0000",
       "minecraft:birch_forest": "2025-03-22 17:14:53 +0000",
+      "minecraft:windswept_hills": "2025-03-30 05:28:19 +0000",
       "minecraft:bamboo_jungle": "2025-03-22 03:26:35 +0000",
+      "minecraft:beach": "2025-03-30 05:20:41 +0000",
       "minecraft:dark_forest": "2025-03-22 17:25:05 +0000",
       "minecraft:sparse_jungle": "2025-03-22 03:25:49 +0000",
       "minecraft:river": "2025-03-16 23:00:38 +0000",
@@ -178,9 +195,12 @@
       "minecraft:snowy_plains": "2025-03-23 04:02:17 +0000",
       "minecraft:dripstone_caves": "2025-03-22 21:07:21 +0000",
       "minecraft:snowy_taiga": "2025-03-29 00:22:03 +0000",
+      "minecraft:swamp": "2025-03-30 05:28:16 +0000",
+      "minecraft:cold_ocean": "2025-03-30 05:27:26 +0000",
       "minecraft:forest": "2025-03-16 22:42:01 +0000",
       "minecraft:frozen_ocean": "2025-03-28 23:50:16 +0000",
       "minecraft:deep_frozen_ocean": "2025-03-29 00:24:03 +0000",
+      "minecraft:windswept_forest": "2025-03-30 05:24:07 +0000",
       "minecraft:ocean": "2025-03-16 23:45:19 +0000",
       "minecraft:jungle": "2025-03-22 03:26:24 +0000",
       "minecraft:snowy_beach": "2025-03-29 00:14:09 +0000",
@@ -1194,9 +1214,95 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/discover_magnetic_caves": {
+    "criteria": {
+      "discover": "2025-03-29 21:20:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-03-29 21:58:36 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:squireofthe_dark_lord": {
+    "criteria": {
+      "squireofthe_dark_lord_3": "2025-03-30 03:58:35 +0000",
+      "squireofthe_dark_lord_5": "2025-03-30 03:53:05 +0000",
+      "squireofthe_dark_lord_0": "2025-03-29 22:00:07 +0000"
+    },
+    "done": false
+  },
+  "deeperdarker:main/find_ancient_city": {
+    "criteria": {
+      "ancient_city": "2025-03-29 22:20:25 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/obtain_reinforced_echo_shard": {
+    "criteria": {
+      "reinforced_echo_shard": "2025-03-29 22:38:40 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:main/enter_otherside": {
     "criteria": {
       "otherside": "2025-03-29 22:40:16 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/explore_otherside": {
+    "criteria": {
+      "deeplands": "2025-03-29 22:40:16 +0000"
+    },
+    "done": false
+  },
+  "deeperdarker:main/warden_armor": {
+    "criteria": {
+      "warden_armor": "2025-03-29 22:47:35 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/stalked_by_deep_one": {
+    "criteria": {
+      "stalked_by_deep_one": "2025-03-29 22:56:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-03-29 23:06:37 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:mygothgf": {
+    "criteria": {
+      "mygothgf_0": "2025-03-29 23:47:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-03-29 23:50:18 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_burning_arena": {
+    "criteria": {
+      "arena": "2025-03-30 00:54:25 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:mars": {
+    "criteria": {
+      "entered_mars": "2025-03-30 01:16:16 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:tier_3_rocket": {
+    "criteria": {
+      "has_tier_3_rocket": "2025-03-30 01:44:01 +0000"
     },
     "done": true
   },
@@ -1212,93 +1318,87 @@
     },
     "done": true
   },
-  "ad_astra:tier_3_rocket": {
-    "criteria": {
-      "has_tier_3_rocket": "2025-03-30 01:44:01 +0000"
-    },
-    "done": true
-  },
-  "deeperdarker:main/obtain_reinforced_echo_shard": {
-    "criteria": {
-      "reinforced_echo_shard": "2025-03-29 22:38:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/tame_an_animal": {
-    "criteria": {
-      "tamed_animal": "2025-03-29 21:58:36 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/discover_magnetic_caves": {
-    "criteria": {
-      "discover": "2025-03-29 21:20:39 +0000"
-    },
-    "done": true
-  },
   "ad_astra:venus": {
     "criteria": {
       "entered_venus": "2025-03-30 02:09:58 +0000"
     },
     "done": true
   },
-  "deeperdarker:main/warden_armor": {
+  "ad_astra:energizer": {
     "criteria": {
-      "warden_armor": "2025-03-29 22:47:35 +0000"
+      "has_energizer": "2025-03-30 02:34:00 +0000"
     },
     "done": true
   },
-  "born_in_chaos_v1:squireofthe_dark_lord": {
+  "ad_astra:rocket_man": {
     "criteria": {
-      "squireofthe_dark_lord_0": "2025-03-29 22:00:07 +0000"
-    },
-    "done": false
-  },
-  "deeperdarker:main/explore_otherside": {
-    "criteria": {
-      "deeplands": "2025-03-29 22:40:16 +0000"
-    },
-    "done": false
-  },
-  "minecraft:story/enchant_item": {
-    "criteria": {
-      "enchanted_item": "2025-03-29 23:06:37 +0000"
+      "has_jet_suit": "2025-03-30 02:35:05 +0000"
     },
     "done": true
   },
-  "cataclysm:find_burning_arena": {
+  "create:cardboard": {
     "criteria": {
-      "arena": "2025-03-30 00:54:25 +0000"
+      "0": "2025-03-30 03:10:25 +0000"
     },
     "done": true
   },
-  "minecraft:husbandry/plant_seed": {
+  "create:cardboard_armor": {
     "criteria": {
-      "wheat": "2025-03-29 23:50:18 +0000"
+      "0": "2025-03-30 03:11:19 +0000"
     },
     "done": true
   },
-  "undead_revamp2:mygothgf": {
+  "minecraft:nether/obtain_crying_obsidian": {
     "criteria": {
-      "mygothgf_0": "2025-03-29 23:47:01 +0000"
+      "crying_obsidian": "2025-03-30 05:08:20 +0000"
     },
     "done": true
   },
-  "deeperdarker:main/find_ancient_city": {
+  "born_in_chaos_v1:dark_forging": {
     "criteria": {
-      "ancient_city": "2025-03-29 22:20:25 +0000"
+      "dark_forging_0": "2025-03-30 03:59:47 +0000"
     },
     "done": true
   },
-  "alexscaves:alexscaves/stalked_by_deep_one": {
+  "alexscaves:alexscaves/enter_acid_with_armor": {
     "criteria": {
-      "stalked_by_deep_one": "2025-03-29 22:56:01 +0000"
+      "enter_acid_with_armor": "2025-03-30 05:41:31 +0000"
     },
     "done": true
   },
-  "ad_astra:mars": {
+  "born_in_chaos_v1:chaos_knight": {
     "criteria": {
-      "entered_mars": "2025-03-30 01:16:16 +0000"
+      "chaos_knight_0": "2025-03-30 03:53:11 +0000"
+    },
+    "done": true
+  },
+  "create:super_glue": {
+    "criteria": {
+      "0": "2025-03-30 05:00:05 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/large_graveyard": {
+    "criteria": {
+      "large_graveyard": "2025-03-30 05:25:12 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_ancient_factory": {
+    "criteria": {
+      "factory": "2025-03-30 05:32:45 +0000"
+    },
+    "done": true
+  },
+  "create:spout": {
+    "criteria": {
+      "0": "2025-03-30 05:11:09 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/obtain_sonorous_staff": {
+    "criteria": {
+      "sonorous_staff": "2025-03-30 03:55:25 +0000"
     },
     "done": true
   },

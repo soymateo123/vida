@@ -827,30 +827,9 @@
     },
     "done": true
   },
-  "twilightforest:twilight_hunter": {
-    "criteria": {
-      "skeleton_druid": "2025-03-29 21:41:14 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:arborist": {
-    "criteria": {
-      "twilight_oak_log": "2025-03-29 21:40:43 +0000",
-      "twilight_oak_wood": "2025-03-29 21:40:50 +0000",
-      "twilight_oak_sapling": "2025-03-29 21:40:51 +0000",
-      "canopy_slab": "2025-03-29 21:40:03 +0000"
-    },
-    "done": false
-  },
   "tombstone:adventure/first_pray": {
     "criteria": {
       "coded_trigger": "2025-03-29 21:11:28 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:progress_naga": {
-    "criteria": {
-      "was_in_fight": "2025-03-29 21:44:59 +0000"
     },
     "done": true
   },
@@ -866,15 +845,85 @@
     },
     "done": true
   },
+  "twilightforest:arborist": {
+    "criteria": {
+      "twilight_oak_planks": "2025-03-30 02:29:31 +0000",
+      "twilight_oak_log": "2025-03-29 21:40:43 +0000",
+      "twilight_oak_wood": "2025-03-29 21:40:50 +0000",
+      "twilight_oak_sapling": "2025-03-29 21:40:51 +0000",
+      "canopy_slab": "2025-03-29 21:40:03 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:twilight_hunter": {
+    "criteria": {
+      "skeleton_druid": "2025-03-29 21:41:14 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:hedge": {
+    "criteria": {
+      "swarm_spider": "2025-03-29 21:42:48 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_naga": {
+    "criteria": {
+      "was_in_fight": "2025-03-29 21:44:59 +0000"
+    },
+    "done": true
+  },
   "twilightforest:progress_lich": {
     "criteria": {
       "kill_naga": "2025-03-29 21:45:00 +0000"
     },
     "done": false
   },
-  "twilightforest:hedge": {
+  "deeperdarker:main/enter_otherside": {
     "criteria": {
-      "swarm_spider": "2025-03-29 21:42:48 +0000"
+      "otherside": "2025-03-30 02:29:08 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2025-03-30 02:36:50 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/explore_otherside": {
+    "criteria": {
+      "deeplands": "2025-03-30 02:29:10 +0000"
+    },
+    "done": false
+  },
+  "born_in_chaos_v1:horror_underthe_mantle": {
+    "criteria": {
+      "horror_underthe_mantle_0": "2025-03-30 02:56:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-03-30 02:29:13 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_voodoo_poppet": {
+    "criteria": {
+      "has_voodoo_poppet": "2025-03-30 03:28:49 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_voodoo_poppet": {
+    "criteria": {
+      "has_enchanted_voodoo_poppet": "2025-03-30 03:28:49 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_tablet": {
+    "criteria": {
+      "has_magic_tablet": "2025-03-30 03:26:28 +0000"
     },
     "done": true
   },
