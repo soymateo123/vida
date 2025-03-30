@@ -753,6 +753,12 @@
     },
     "done": true
   },
+  "minecraft:nether/fast_travel": {
+    "criteria": {
+      "travelled": "2025-03-30 17:56:58 +0000"
+    },
+    "done": true
+  },
   "artifacts:chest_slayer": {
     "criteria": {
       "kill_mimic": "2025-03-30 18:05:15 +0000"
@@ -765,9 +771,9 @@
     },
     "done": true
   },
-  "minecraft:nether/fast_travel": {
+  "born_in_chaos_v1:junior_summoner": {
     "criteria": {
-      "travelled": "2025-03-30 17:56:58 +0000"
+      "junior_summoner_0": "2025-03-30 19:20:20 +0000"
     },
     "done": true
   },

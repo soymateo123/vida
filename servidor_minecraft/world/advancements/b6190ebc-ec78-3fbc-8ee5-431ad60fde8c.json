@@ -86,6 +86,7 @@
       "scrubland": "2025-03-16 23:13:10 +0000",
       "erupting_inferno": "2025-03-29 23:53:57 +0000",
       "highland": "2025-03-30 02:32:44 +0000",
+      "mystic_grove": "2025-03-30 19:31:37 +0000",
       "cold_desert": "2025-03-29 01:05:42 +0000",
       "old_growth_woodland": "2025-03-28 23:38:15 +0000",
       "crystalline_chasm": "2025-03-29 23:53:10 +0000",
@@ -1136,6 +1137,12 @@
   "tombstone:adventure/chain_death": {
     "criteria": {
       "coded_trigger": "2025-03-30 17:44:27 +0000"
+    },
+    "done": true
+  },
+  "faded_conquest_2:ttslain": {
+    "criteria": {
+      "ttslain_0": "2025-03-30 19:19:44 +0000"
     },
     "done": true
   },
