@@ -133,6 +133,7 @@
       "origin_valley": "2025-03-23 19:47:46 +0000",
       "rainforest": "2025-03-17 01:40:09 +0000",
       "snowy_maple_woods": "2025-03-30 19:53:32 +0000",
+      "crag": "2025-04-05 16:00:40 +0000",
       "ominous_woods": "2025-03-30 02:43:02 +0000"
     },
     "done": false
@@ -2202,6 +2203,72 @@
   "cataclysm:kill_monstrosity": {
     "criteria": {
       "netheritemonstrosity": "2025-04-05 05:21:50 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/licowitch_tower": {
+    "criteria": {
+      "licowitch_tower": "2025-04-05 16:07:33 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_candy_cavity": {
+    "criteria": {
+      "discover": "2025-04-05 16:02:36 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/frostmint_spear": {
+    "criteria": {
+      "deep_sea_sushi_roll": "2025-04-05 16:08:15 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/caramel_apple": {
+    "criteria": {
+      "mussel": "2025-04-05 16:09:07 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/caramel": {
+    "criteria": {
+      "mussel": "2025-04-05 16:11:19 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/conversion_crucible": {
+    "criteria": {
+      "mussel": "2025-04-05 16:07:36 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/eat_block_of_chocolate": {
+    "criteria": {
+      "eat_block_of_chocolate": "2025-04-05 16:11:08 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/eat_candy_cane": {
+    "criteria": {
+      "eat_candy_cane": "2025-04-05 16:06:31 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/walk_on_rock_candy": {
+    "criteria": {
+      "cave_book": "2025-04-05 16:10:50 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/gingerbread_town": {
+    "criteria": {
+      "gingerbread_town": "2025-04-05 16:04:19 +0000"
+    },
+    "done": true
+  },
+  "quark:get_diamond_heart": {
+    "criteria": {
+      "get_diamond_heart": "2025-04-05 16:06:48 +0000"
     },
     "done": true
   },
