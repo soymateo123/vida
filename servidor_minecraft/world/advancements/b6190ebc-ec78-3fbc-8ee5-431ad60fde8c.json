@@ -110,6 +110,8 @@
       "prairie": "2025-03-23 20:15:56 +0000",
       "snowy_coniferous_forest": "2025-03-29 01:06:12 +0000",
       "snowy_fir_clearing": "2025-03-29 01:25:54 +0000",
+      "tundra": "2025-03-30 21:48:56 +0000",
+      "glowing_grotto": "2025-03-30 20:59:46 +0000",
       "undergrowth": "2025-03-29 23:41:15 +0000",
       "origin_valley": "2025-03-30 17:11:55 +0000",
       "tropics": "2025-03-30 17:10:46 +0000",
@@ -251,6 +253,7 @@
       "minecraft:jagged_peaks": "2025-03-21 22:52:42 +0000",
       "minecraft:cold_ocean": "2025-03-30 17:37:43 +0000",
       "minecraft:forest": "2025-03-21 22:25:05 +0000",
+      "minecraft:lush_caves": "2025-03-30 20:19:38 +0000",
       "minecraft:deep_cold_ocean": "2025-03-29 00:38:02 +0000",
       "minecraft:frozen_ocean": "2025-03-29 01:05:00 +0000",
       "minecraft:deep_frozen_ocean": "2025-03-29 00:41:09 +0000",
@@ -316,6 +319,7 @@
       "minecraft:piglin_brute": "2025-03-30 00:01:13 +0000",
       "minecraft:creeper": "2025-03-20 22:48:47 +0000",
       "minecraft:slime": "2025-03-22 00:59:27 +0000",
+      "minecraft:evoker": "2025-03-30 22:59:16 +0000",
       "minecraft:phantom": "2025-03-22 01:51:23 +0000",
       "minecraft:witch": "2025-03-20 22:16:48 +0000",
       "minecraft:wither_skeleton": "2025-03-22 00:24:10 +0000",
@@ -562,9 +566,10 @@
       "charm_collector_1": "2025-03-23 19:12:17 +0000",
       "charm_collector_0": "2025-03-23 19:17:00 +0000",
       "charm_collector_4": "2025-03-21 23:39:57 +0000",
+      "charm_collector_3": "2025-03-30 22:57:35 +0000",
       "charm_collector_2": "2025-03-23 19:12:17 +0000"
     },
-    "done": false
+    "done": true
   },
   "born_in_chaos_v1:dark_metallurgy": {
     "criteria": {
@@ -900,8 +905,11 @@
   "illageandspillage:kill_all_iands": {
     "criteria": {
       "illageandspillage:preserver": "2025-03-23 19:06:24 +0000",
+      "illageandspillage:absorber": "2025-03-30 22:55:00 +0000",
       "illageandspillage:engineer": "2025-03-23 19:11:30 +0000",
-      "illageandspillage:igniter": "2025-03-23 18:53:36 +0000"
+      "illageandspillage:twittollager": "2025-03-30 22:59:40 +0000",
+      "illageandspillage:igniter": "2025-03-23 18:53:36 +0000",
+      "illageandspillage:crocofang": "2025-03-30 22:57:29 +0000"
     },
     "done": false
   },
@@ -1144,6 +1152,30 @@
   "faded_conquest_2:ttslain": {
     "criteria": {
       "ttslain_0": "2025-03-30 19:19:44 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:junior_summoner": {
+    "criteria": {
+      "junior_summoner_0": "2025-03-30 20:15:28 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:lifeturnedouttobeacomedy": {
+    "criteria": {
+      "lifeturnedouttobeacomedy_0": "2025-03-30 20:49:15 +0000"
+    },
+    "done": true
+  },
+  "quark:get_all_corundum": {
+    "criteria": {
+      "violet": "2025-03-30 21:54:43 +0000"
+    },
+    "done": false
+  },
+  "tombstone:adventure/village_defender": {
+    "criteria": {
+      "coded_trigger": "2025-04-05 01:29:47 +0000"
     },
     "done": true
   },

@@ -86,6 +86,7 @@
       "scrubland": "2025-03-17 01:06:09 +0000",
       "cold_desert": "2025-03-23 20:47:51 +0000",
       "moor": "2025-03-22 03:29:39 +0000",
+      "coniferous_forest": "2025-03-30 20:05:25 +0000",
       "spider_nest": "2025-03-17 01:40:55 +0000",
       "redwood_forest": "2025-03-22 03:26:27 +0000",
       "visceral_heap": "2025-03-23 01:47:54 +0000",
@@ -94,11 +95,13 @@
       "volcano": "2025-03-22 03:20:04 +0000",
       "rocky_rainforest": "2025-03-17 01:40:35 +0000",
       "volcanic_plains": "2025-03-17 01:40:32 +0000",
+      "fir_clearing": "2025-03-30 20:01:37 +0000",
       "grassland": "2025-03-22 03:29:48 +0000",
       "snowy_coniferous_forest": "2025-03-23 20:46:31 +0000",
       "snowy_fir_clearing": "2025-03-23 20:45:02 +0000",
       "glowing_grotto": "2025-03-17 01:40:34 +0000",
-      "rainforest": "2025-03-17 01:33:49 +0000"
+      "rainforest": "2025-03-17 01:33:49 +0000",
+      "snowy_maple_woods": "2025-03-30 21:06:48 +0000"
     },
     "done": false
   },
@@ -371,6 +374,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-03-30 20:13:09 +0000",
       "minecraft:skeleton": "2025-03-22 03:16:53 +0000",
       "minecraft:spider": "2025-03-22 03:13:53 +0000",
       "minecraft:creeper": "2025-03-22 03:36:39 +0000",
@@ -627,6 +631,48 @@
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_leggings": "2025-03-30 19:18:15 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/pirate_pouch": {
+    "criteria": {
+      "has_item": "2025-03-30 20:12:42 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-03-30 20:13:09 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/sea_stew": {
+    "criteria": {
+      "has_item": "2025-03-30 20:15:08 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2025-03-30 20:15:58 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_voodoo_poppet": {
+    "criteria": {
+      "has_voodoo_poppet": "2025-03-30 20:17:03 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_voodoo_poppet": {
+    "criteria": {
+      "has_enchanted_voodoo_poppet": "2025-03-30 20:17:03 +0000"
+    },
+    "done": true
+  },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2025-03-30 20:48:41 +0000"
     },
     "done": true
   },
