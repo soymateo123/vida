@@ -86,7 +86,13 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "woodland": "2025-03-23 20:14:07 +0000",
+      "shrubland": "2025-04-05 15:22:46 +0000",
       "rocky_shrubland": "2025-03-23 20:13:20 +0000",
+      "scrubland": "2025-04-05 15:31:12 +0000",
+      "maple_woods": "2025-04-05 15:20:42 +0000",
+      "coniferous_forest": "2025-04-05 15:19:39 +0000",
+      "pasture": "2025-04-05 15:36:56 +0000",
+      "prairie": "2025-04-05 15:36:34 +0000",
       "rainforest": "2025-04-05 14:52:06 +0000"
     },
     "done": false
@@ -132,8 +138,16 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:birch_forest": "2025-04-05 15:27:55 +0000",
       "minecraft:lukewarm_ocean": "2025-03-23 20:52:39 +0000",
-      "minecraft:stony_shore": "2025-03-23 20:24:21 +0000"
+      "minecraft:river": "2025-04-05 15:21:37 +0000",
+      "minecraft:stony_shore": "2025-03-23 20:24:21 +0000",
+      "minecraft:forest": "2025-04-05 15:28:37 +0000",
+      "minecraft:desert": "2025-04-05 15:22:05 +0000",
+      "minecraft:warm_ocean": "2025-04-05 15:21:58 +0000",
+      "minecraft:old_growth_birch_forest": "2025-04-05 15:25:20 +0000",
+      "minecraft:meadow": "2025-04-05 15:26:53 +0000",
+      "minecraft:savanna": "2025-04-05 15:33:16 +0000"
     },
     "done": false
   },
@@ -188,6 +202,7 @@
   },
   "lootr:social": {
     "criteria": {
+      "opened_barrel": "2025-04-05 15:40:38 +0000",
       "opened_chest": "2025-03-23 20:52:07 +0000"
     },
     "done": false
@@ -240,6 +255,24 @@
     },
     "done": true
   },
+  "tombstone:recipes/from_grave_key": {
+    "criteria": {
+      "has_ingredient": "2025-04-05 15:48:26 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_grave": {
+    "criteria": {
+      "coded_trigger": "2025-04-05 15:48:20 +0000"
+    },
+    "done": true
+  },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2025-04-05 15:40:38 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/find_easter_egg": {
     "criteria": {
       "coded_trigger": "2025-04-05 15:16:15 +0000"
@@ -249,6 +282,24 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2025-04-05 15:11:04 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2025-04-05 15:48:20 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-04-05 15:48:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2025-04-05 15:30:25 +0000"
     },
     "done": true
   },

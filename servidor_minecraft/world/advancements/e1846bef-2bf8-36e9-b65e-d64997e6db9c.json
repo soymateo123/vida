@@ -208,8 +208,10 @@
       "minecraft:ocean": "2025-03-16 23:45:19 +0000",
       "minecraft:jungle": "2025-03-22 03:26:24 +0000",
       "minecraft:snowy_beach": "2025-03-29 00:14:09 +0000",
+      "minecraft:warm_ocean": "2025-04-05 15:21:56 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-03-30 17:41:38 +0000",
       "minecraft:flower_forest": "2025-03-23 04:11:47 +0000",
+      "minecraft:old_growth_birch_forest": "2025-04-05 15:25:21 +0000",
       "minecraft:deep_dark": "2025-03-23 04:15:53 +0000",
       "minecraft:meadow": "2025-03-21 22:57:50 +0000",
       "minecraft:savanna": "2025-03-22 18:41:00 +0000",
@@ -1698,6 +1700,18 @@
   "undead_revamp2:cloggeradvance": {
     "criteria": {
       "cloggeradvance_0": "2025-04-05 15:18:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/recruit_guard": {
+    "criteria": {
+      "recruit_guard": "2025-04-05 15:41:03 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:sugarcoat": {
+    "criteria": {
+      "sugarcoat_0": "2025-04-05 15:26:17 +0000"
     },
     "done": true
   },

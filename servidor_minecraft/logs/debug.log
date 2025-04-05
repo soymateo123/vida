@@ -11460,3 +11460,213 @@ java.lang.IllegalArgumentException: sectionPos out of bounds
 [05Apr2025 15:21:22.696] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tayra moved too quickly! 8.671582469111854,-0.2522033402537289,5.45517610065599
 [05Apr2025 15:21:22.719] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fablex39 moved too quickly! 3.6809601517666124,0.0,-9.462278814440651
 [05Apr2025 15:21:47.815] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7581ms or 151 ticks behind
+[05Apr2025 15:22:06.484] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3699ms or 73 ticks behind
+[05Apr2025 15:22:09.436] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:candy_cavity at -8113 -32 -7314 in 10s
+[05Apr2025 15:22:18.113] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gabriel moved too quickly! 9.194081627569801,-1.0013359791121417,-4.089284728990322
+[05Apr2025 15:22:24.237] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2803ms or 56 ticks behind
+[05Apr2025 15:22:27.832] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gabriel moved too quickly! -7.78370819693049,-3.9466550191640835,-5.96026332999304
+[05Apr2025 15:22:42.681] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gabriel moved too quickly! -8.40493162862225,0.2046003784434376,5.870495161666497
+[05Apr2025 15:22:44.941] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5707ms or 114 ticks behind
+[05Apr2025 15:23:23.179] [Server thread/WARN] [tombstone/]: The death event of the player tayra was canceled by another mod
+[05Apr2025 15:23:23.204] [Server thread/INFO] [tombstone/]: The player tayra has successfully been saved
+[05Apr2025 15:23:34.942] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/waystone/normal
+[05Apr2025 15:23:34.942] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/bounty/plains
+[05Apr2025 15:23:34.951] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/vampirism/totem
+[05Apr2025 15:23:37.579] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gabriel moved too quickly! -8.232611707395279,-0.45000000000001705,-6.7010551853958304
+[05Apr2025 15:23:40.041] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gabriel moved too quickly! -8.335835898056985,0.9287911074171404,-6.115961558630374
+[05Apr2025 15:23:40.051] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3317ms or 66 ticks behind
+[05Apr2025 15:23:42.077] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gabriel moved too quickly! -7.71228869203884,1.5187911074171438,-6.277511481988597
+[05Apr2025 15:23:48.937] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gabriel moved too quickly! -8.257059389344022,-0.45000000000001705,-6.720934238052479
+[05Apr2025 15:23:58.036] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gabriel moved too quickly! -7.706642072192608,3.648791107417111,-6.272915346867819
+[05Apr2025 15:24:32.214] [Server thread/WARN] [tombstone/]: The death event of the player tayra was canceled by another mod
+[05Apr2025 15:24:32.229] [Server thread/INFO] [tombstone/]: The player tayra has successfully been saved
+[05Apr2025 15:24:41.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Creative Mode]
+[05Apr2025 15:24:44.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Survival Mode]
+[05Apr2025 15:24:49.185] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Apr2025 15:24:49.207] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Apr2025 15:25:12.759] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4725ms or 94 ticks behind
+[05Apr2025 15:25:12.845] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gabriel moved too quickly! -8.678617127939674,-0.45000000000001705,-6.1671047287237
+[05Apr2025 15:25:12.862] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fablex39 moved too quickly! 10.12520338669816,0.0,1.9356937977825055
+[05Apr2025 15:25:12.871] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tayra moved too quickly! 4.376695617558198,1.0,9.088407316012592
+[05Apr2025 15:25:17.704] [Server thread/WARN] [tombstone/]: The death event of the player tayra was canceled by another mod
+[05Apr2025 15:25:17.785] [Server thread/INFO] [tombstone/]: The player tayra has successfully been saved
+[05Apr2025 15:25:24.699] [Worker-Main-5/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/vampirism/totem
+[05Apr2025 15:25:24.700] [Worker-Main-5/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/bounty/plains
+[05Apr2025 15:25:24.700] [Worker-Main-5/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/waystone/normal
+[05Apr2025 15:25:27.156] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gabriel moved too quickly! -7.52146815692106,4.159999999999911,-5.344824083569847
+[05Apr2025 15:25:54.316] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gabriel moved too quickly! -8.835058484895853,-0.45000000000001705,-5.867298078550448
+[05Apr2025 15:26:00.524] [Server thread/WARN] [tombstone/]: The death event of the player tayra was canceled by another mod
+[05Apr2025 15:26:00.533] [Server thread/INFO] [tombstone/]: The player tayra has successfully been saved
+[05Apr2025 15:26:06.117] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gabriel moved too quickly! -9.477207560132797,1.350841006720728,-3.0209548283149843
+[05Apr2025 15:26:17.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fablex39 has completed the challenge [I'm not sugar coating it]
+[05Apr2025 15:26:25.877] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gabriel moved too quickly! -6.57041364751035,-0.45000000000001705,-8.377367005835026
+[05Apr2025 15:26:33.075] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gabriel moved too quickly! -6.616205043954551,-0.45000000000001705,-8.261409115784659
+[05Apr2025 15:26:38.464] [Server thread/WARN] [tombstone/]: The death event of the player tayra was canceled by another mod
+[05Apr2025 15:26:38.517] [Server thread/INFO] [tombstone/]: The player tayra has successfully been saved
+[05Apr2025 15:26:49.144] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7010ms or 140 ticks behind
+[05Apr2025 15:26:49.305] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gabriel moved too quickly! -5.35917007693206,0.7487911074171336,-8.502823560344837
+[05Apr2025 15:27:02.433] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gabriel moved too quickly! -5.402607836648258,1.3579501006963284,-8.519437165439626
+[05Apr2025 15:27:36.909] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gabriel moved too quickly! -7.194049344530413,-0.45000000000001705,-7.840681877916268
+[05Apr2025 15:27:46.421] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gabriel moved too quickly! -8.08336692117382,-0.45000000000001705,-6.928438890524831
+[05Apr2025 15:27:58.016] [Server thread/WARN] [tombstone/]: The death event of the player tayra was canceled by another mod
+[05Apr2025 15:27:58.025] [Server thread/INFO] [tombstone/]: The player tayra has successfully been saved
+[05Apr2025 15:28:16.075] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gabriel moved too quickly! -8.3495609395045,-0.45000000000001705,-6.704937757120888
+[05Apr2025 15:28:30.949] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5265ms or 105 ticks behind
+[05Apr2025 15:28:31.056] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gabriel moved too quickly! -8.44810719075872,-0.5100000000000193,-6.135282756756169
+[05Apr2025 15:28:31.070] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fablex39 moved too quickly! 5.0,8.725823759495256,1.9043405013508163
+[05Apr2025 15:29:06.973] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gabriel moved too quickly! -7.386129882493151,-0.45000000000001705,-7.660245463138381
+[05Apr2025 15:29:09.254] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gabriel moved too quickly! -6.948747464794906,2.4472960120238696,-7.206630818644726
+[05Apr2025 15:29:31.558] [Server thread/WARN] [tombstone/]: The death event of the player tayra was canceled by another mod
+[05Apr2025 15:29:31.566] [Server thread/INFO] [tombstone/]: The player tayra has successfully been saved
+[05Apr2025 15:29:38.567] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6382ms or 127 ticks behind
+[05Apr2025 15:29:38.639] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gabriel moved too quickly! -7.057266699745924,-1.2491870787446828,-7.220443602045179
+[05Apr2025 15:30:12.556] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Apr2025 15:30:12.582] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Apr2025 15:30:25.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tayra has completed the challenge [Cover Me in Debris]
+[05Apr2025 15:31:18.068] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gabriel moved too quickly! -7.54478850448686,3.968791107417104,-5.625074912987202
+[05Apr2025 15:31:28.637] [Worker-Main-4/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/waystone/sand
+[05Apr2025 15:31:28.716] [Worker-Main-4/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/waystone/sand
+[05Apr2025 15:33:24.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Creative Mode]
+[05Apr2025 15:34:02.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Survival Mode]
+[05Apr2025 15:35:12.546] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Apr2025 15:35:12.565] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Apr2025 15:36:21.126] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.IllegalArgumentException: sectionPos out of bounds
+	at net.minecraft.world.level.chunk.storage.SectionStorage.m_63827_(SectionStorage.java:106) ~[server-1.20.1-20230612.114412-srg.jar%23283!/:?]
+	at net.minecraft.world.entity.ai.village.poi.PoiManager.m_217919_(PoiManager.java:52) ~[server-1.20.1-20230612.114412-srg.jar%23283!/:?]
+	at net.minecraft.server.level.ServerLevel.m_215076_(ServerLevel.java:1217) ~[server-1.20.1-20230612.114412-srg.jar%23283!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23283!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23283!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23283!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23283!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23283!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23283!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23283!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23283!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23283!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23283!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23283!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23283!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[05Apr2025 15:36:21.127] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.IllegalArgumentException: sectionPos out of bounds
+	at net.minecraft.world.level.chunk.storage.SectionStorage.m_63827_(SectionStorage.java:106) ~[server-1.20.1-20230612.114412-srg.jar%23283!/:?]
+	at net.minecraft.world.entity.ai.village.poi.PoiManager.m_217919_(PoiManager.java:52) ~[server-1.20.1-20230612.114412-srg.jar%23283!/:?]
+	at net.minecraft.server.level.ServerLevel.m_215076_(ServerLevel.java:1217) ~[server-1.20.1-20230612.114412-srg.jar%23283!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23283!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23283!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23283!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23283!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23283!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23283!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23283!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23283!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23283!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23283!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23283!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23283!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[05Apr2025 15:36:21.128] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.IllegalArgumentException: sectionPos out of bounds
+	at net.minecraft.world.level.chunk.storage.SectionStorage.m_63827_(SectionStorage.java:106) ~[server-1.20.1-20230612.114412-srg.jar%23283!/:?]
+	at net.minecraft.world.entity.ai.village.poi.PoiManager.m_217919_(PoiManager.java:52) ~[server-1.20.1-20230612.114412-srg.jar%23283!/:?]
+	at net.minecraft.server.level.ServerLevel.m_215076_(ServerLevel.java:1217) ~[server-1.20.1-20230612.114412-srg.jar%23283!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23283!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23283!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23283!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23283!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23283!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23283!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23283!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23283!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23283!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23283!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23283!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23283!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[05Apr2025 15:36:23.614] [Worker-Main-5/WARN] [lithostitched/]: Non-existent template pool reference: kaisyn:village/exclusives/mediterranean/villager_bishop
+[05Apr2025 15:36:25.244] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-7856, y=-65, z=-8346} but found not block entity block Block{minecraft:air} at location
+[05Apr2025 15:36:25.244] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-7856, y=-65, z=-8346}
+[05Apr2025 15:36:25.244] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-7855, y=-65, z=-8345} but found not block entity block Block{minecraft:air} at location
+[05Apr2025 15:36:25.244] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-7855, y=-65, z=-8345}
+[05Apr2025 15:36:25.245] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-7855, y=-65, z=-8346} but found not block entity block Block{minecraft:air} at location
+[05Apr2025 15:36:25.245] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-7855, y=-65, z=-8346}
+[05Apr2025 15:36:25.245] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-7852, y=-65, z=-8346} but found not block entity block Block{minecraft:air} at location
+[05Apr2025 15:36:25.245] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-7852, y=-65, z=-8346}
+[05Apr2025 15:36:25.245] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-7853, y=-65, z=-8346} but found not block entity block Block{minecraft:air} at location
+[05Apr2025 15:36:25.245] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-7853, y=-65, z=-8346}
+[05Apr2025 15:36:56.160] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-7742, y=64, z=-8385} BlockPos{x=-7743, y=63, z=-8384}
+[05Apr2025 15:37:05.714] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-7729, y=69, z=-8356} BlockPos{x=-7729, y=67, z=-8357}
+[05Apr2025 15:37:05.768] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-7728, y=69, z=-8355} BlockPos{x=-7729, y=67, z=-8357}
+[05Apr2025 15:37:06.768] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-7725, y=70, z=-8351} BlockPos{x=-7725, y=68, z=-8351}
+[05Apr2025 15:37:12.619] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gabriel moved too quickly! -7.96443159999626,2.9487911074171222,-5.691316092438683
+[05Apr2025 15:37:19.462] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gabriel moved too quickly! -9.362347903533646,0.11879110741716659,-4.888819094824157
+[05Apr2025 15:37:44.693] [Server thread/DEBUG] [mixin/]: Mixing boat.VanillaInventoryCodeHooksMixin from securitycraft.mixins.json into net.minecraftforge.items.VanillaInventoryCodeHooks
+[05Apr2025 15:37:44.694] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$securitycraft$callGetCapabilityForSecuritySeaBoat$0(Lnet/geforcemods/securitycraft/entity/SecuritySeaBoat;Lnet/minecraftforge/items/IItemHandler;)Lorg/apache/commons/lang3/tuple/Pair; to mdfcb4d9$lambda$securitycraft$callGetCapabilityForSecuritySeaBoat$0$0 in securitycraft.mixins.json:boat.VanillaInventoryCodeHooksMixin
+[05Apr2025 15:37:55.744] [Server thread/WARN] [tombstone/]: The death event of the player tayra was canceled by another mod
+[05Apr2025 15:37:55.784] [Server thread/INFO] [tombstone/]: The player tayra has successfully been saved
+[05Apr2025 15:39:37.310] [Server thread/WARN] [tombstone/]: The death event of the player tayra was canceled by another mod
+[05Apr2025 15:39:37.383] [Server thread/INFO] [tombstone/]: The player tayra has successfully been saved
+[05Apr2025 15:39:40.731] [Worker-Main-5/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/waystone/sand
+[05Apr2025 15:39:40.739] [Worker-Main-5/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/waystone/sand
+[05Apr2025 15:39:45.228] [Server thread/WARN] [tombstone/]: The death event of the player tayra was canceled by another mod
+[05Apr2025 15:39:45.287] [Server thread/INFO] [tombstone/]: The player tayra has successfully been saved
+[05Apr2025 15:40:03.413] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gabriel moved too quickly! -8.342207223069636,-0.8830000000000098,-7.512568582467338
+[05Apr2025 15:40:12.940] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Apr2025 15:40:12.960] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Apr2025 15:40:18.727] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[05Apr2025 15:40:18.728] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[05Apr2025 15:40:25.851] [Server thread/WARN] [tombstone/]: The death event of the player tayra was canceled by another mod
+[05Apr2025 15:40:25.915] [Server thread/INFO] [tombstone/]: The player tayra has successfully been saved
+[05Apr2025 15:40:38.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tayra has made the advancement [Barrel Booty]
+[05Apr2025 15:40:42.176] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gabriel moved too quickly! -7.7781533556180875,-0.45000000000001705,-7.269398368357997
+[05Apr2025 15:40:47.015] [Worker-Main-4/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[05Apr2025 15:40:47.016] [Worker-Main-4/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[05Apr2025 15:41:03.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fablex39 has made the advancement [We Want You, as a New Recruit!]
+[05Apr2025 15:41:22.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fablex39> ala
+[05Apr2025 15:41:36.867] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gabriel moved too quickly! -9.01936711892995,0.8187911074171552,-5.6570832764086845
+[05Apr2025 15:41:58.531] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gabriel moved too quickly! -8.797762425258043,-0.45000000000001705,-5.518089543245424
+[05Apr2025 15:42:04.985] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gabriel moved too quickly! -9.012525575548352,-0.45000000000001705,-5.662616195625105
+[05Apr2025 15:42:29.893] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gabriel moved too quickly! -8.788165060957908,-0.37673561378173304,-5.491092758924879
+[05Apr2025 15:42:29.910] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3476ms or 69 ticks behind
+[05Apr2025 15:42:58.212] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gabriel moved too quickly! -8.156734273110487,-4.100607138297747,-4.5490328807168225
+[05Apr2025 15:43:28.906] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gabriel moved too quickly! -6.890556792105599,3.176759275064242,-6.703150922835448
+[05Apr2025 15:43:33.522] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gabriel moved too quickly! -8.160425610094535,3.364977389882938,-5.55772026276918
+[05Apr2025 15:43:36.372] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gabriel moved too quickly! -6.175075402214134,4.765685945293043,-7.370858969832625
+[05Apr2025 15:43:42.075] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gabriel moved too quickly! -0.9451514035517903,-11.039892688872968,-1.3009037746705872
+[05Apr2025 15:43:53.474] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gabriel moved too quickly! -8.905965728281444,4.106121784768149,-5.60063671953867
+[05Apr2025 15:43:57.271] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gabriel moved too quickly! -9.436156641981142,-0.7737073606075597,-5.405495050442369
+[05Apr2025 15:44:02.024] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gabriel moved too quickly! -7.319470954274948,1.2543250069618495,-8.14438850821989
+[05Apr2025 15:44:07.724] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gabriel moved too quickly! -9.430030781591995,5.414475725212299,-3.3578022610727203
+[05Apr2025 15:44:08.213] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[05Apr2025 15:44:08.213] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[05Apr2025 15:44:12.797] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gabriel moved too quickly! -7.499575097005618,-0.12160004615783748,-6.798612041990054
+[05Apr2025 15:44:12.798] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2064ms or 41 ticks behind
+[05Apr2025 15:44:21.052] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gabriel moved too quickly! -2.5903119238182626,10.19133302921017,-3.298999692623511
+[05Apr2025 15:44:23.218] [Worker-Main-5/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[05Apr2025 15:44:23.218] [Worker-Main-5/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[05Apr2025 15:44:35.471] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gabriel moved too quickly! -9.472364111003117,-0.3900000000000148,-3.8519918083329685
+[05Apr2025 15:44:42.706] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gabriel moved too quickly! -10.2954470732966,-0.45000000000001705,-2.5797631060440835
+[05Apr2025 15:44:45.766] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gabriel moved too quickly! -7.072591459599607,-6.0948552474913384,-4.186445398449905
+[05Apr2025 15:44:46.226] [Worker-Main-4/WARN] [lithostitched/]: Non-existent template pool reference: kaisyn:village/exclusives/mediterranean/villager_bishop
+[05Apr2025 15:44:47.455] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gabriel moved too quickly! -1.7904859412556107,-10.245901352451583,-0.7782435260087368
+[05Apr2025 15:45:04.466] [Worker-Main-5/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[05Apr2025 15:45:04.466] [Worker-Main-5/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[05Apr2025 15:45:18.200] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Apr2025 15:45:18.223] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Apr2025 15:47:37.756] [Server thread/WARN] [tombstone/]: The death event of the player tayra was canceled by another mod
+[05Apr2025 15:47:37.770] [Server thread/INFO] [tombstone/]: The player tayra has successfully been saved
+[05Apr2025 15:47:46.506] [Worker-Main-5/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[05Apr2025 15:48:09.903] [Server thread/WARN] [tombstone/]: The death event of the player tayra was canceled by another mod
+[05Apr2025 15:48:09.918] [Server thread/INFO] [tombstone/]: The player tayra has successfully been saved
+[05Apr2025 15:48:20.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tayra has made the advancement [Knowledge of Death]
+[05Apr2025 15:48:20.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tayra has reached the goal [Strong or Careful]
+[05Apr2025 15:48:20.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tayra withered away
+[05Apr2025 15:48:20.422] [Server thread/DEBUG] [tombstone/]: A new grave of the player tayra was created at position [x:471, y:70, z:429, dim:minecraft:overworld]
+[05Apr2025 15:48:20.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tayra has made the advancement [Your First Grave]
+[05Apr2025 15:48:20.446] [Server thread/INFO] [tombstone/]: The player tayra has successfully been saved
+[05Apr2025 15:48:26.069] [Server thread/DEBUG] [twilightforest/]: Player tayra (bf26690f-3430-33f3-b707-8d7df236fbbf) respawned and received items held in storage
+[05Apr2025 15:48:40.020] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gabriel moved too quickly! -3.556149115062908,-2.38222022418163,-10.403930313825185
+[05Apr2025 15:48:43.686] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/38025, l='ServerLevel[world]', x=464.64, y=-256.00, z=432.27] died, message: 'Unemployed was killed'
+[05Apr2025 15:50:18.055] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Apr2025 15:50:18.078] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
