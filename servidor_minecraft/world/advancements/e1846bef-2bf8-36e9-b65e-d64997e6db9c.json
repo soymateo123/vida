@@ -1612,9 +1612,10 @@
   },
   "twilightforest:progress_lich": {
     "criteria": {
+      "kill_lich": "2025-04-05 14:36:06 +0000",
       "kill_naga": "2025-04-05 05:17:38 +0000"
     },
-    "done": false
+    "done": true
   },
   "twilightforest:naga_armors": {
     "criteria": {
@@ -1625,11 +1626,12 @@
   "twilightforest:progress_yeti": {
     "criteria": {
       "fur": "2025-04-05 05:21:15 +0000",
+      "previous_progression": "2025-04-05 14:36:06 +0000",
       "yeti": "2025-04-05 05:21:03 +0000",
       "trophy": "2025-04-05 05:21:14 +0000",
       "was_in_fight": "2025-04-05 05:21:03 +0000"
     },
-    "done": false
+    "done": true
   },
   "cataclysm:find_soul_black_smith": {
     "criteria": {
@@ -1640,9 +1642,10 @@
   "twilightforest:progress_glacier": {
     "criteria": {
       "queen": "2025-04-05 05:32:40 +0000",
+      "previous_progression": "2025-04-05 14:36:06 +0000",
       "was_in_fight": "2025-04-05 05:32:40 +0000"
     },
-    "done": false
+    "done": true
   },
   "twilightforest:giants": {
     "criteria": {
@@ -1656,15 +1659,39 @@
     },
     "done": false
   },
+  "twilightforest:progress_trophy_pedestal": {
+    "criteria": {
+      "kill_lich": "2025-04-05 14:36:06 +0000"
+    },
+    "done": false
+  },
   "twilightforest:magic_map": {
     "criteria": {
       "magic_map": "2025-04-05 14:30:05 +0000"
     },
     "done": true
   },
+  "twilightforest:progress_merge": {
+    "criteria": {
+      "snow_queen": "2025-04-05 14:36:06 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:progress_labyrinth": {
+    "criteria": {
+      "kill_lich": "2025-04-05 14:36:06 +0000"
+    },
+    "done": false
+  },
   "twilightforest:magic_map_focus": {
     "criteria": {
       "focus": "2025-04-05 14:29:14 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_undead": {
+    "criteria": {
+      "coded_trigger": "2025-04-05 14:36:06 +0000"
     },
     "done": true
   },

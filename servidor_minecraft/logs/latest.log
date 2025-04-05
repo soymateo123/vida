@@ -880,3 +880,18 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [05Apr2025 14:35:00.866] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fablex39 moved wrongly!
 [05Apr2025 14:35:09.135] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/19975, l='ServerLevel[world]', x=474.30, y=-256.00, z=421.90] died, message: 'Unemployed was killed'
 [05Apr2025 14:35:31.027] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2747ms or 54 ticks behind
+[05Apr2025 14:35:59.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Creative Mode]
+[05Apr2025 14:36:06.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fablex39 has reached the goal [Strong Undead]
+[05Apr2025 14:36:06.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fablex39 has reached the goal [Bring Out Your Dead]
+[05Apr2025 14:36:06.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fablex39 has reached the goal [Alpha Fur]
+[05Apr2025 14:36:06.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fablex39 has reached the goal [Clear Skies]
+[05Apr2025 14:36:08.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Survival Mode]
+[05Apr2025 14:36:57.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Creative Mode]
+[05Apr2025 14:37:25.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Survival Mode]
+[05Apr2025 14:37:59.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Creative Mode]
+[05Apr2025 14:39:37.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Survival Mode]
+[05Apr2025 14:41:17.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Creative Mode]
+[05Apr2025 14:42:55.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Survival Mode]
+[05Apr2025 14:43:54.438] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tayra[/127.37.90.99:51389] logged in with entity id 24826 at (462.21537570779503, 31.0, 419.0919802888309)
+[05Apr2025 14:43:54.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tayra joined the game
+[05Apr2025 14:43:54.503] [Server thread/INFO] [Jade/]: Syncing config to tayra (bf26690f-3430-33f3-b707-8d7df236fbbf)
