@@ -1826,6 +1826,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/ride_gum_worm": {
+    "criteria": {
+      "ride_gum_worm": "2025-04-05 19:01:43 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/defuse_nuclear_bomb": {
     "criteria": {
       "interact": "2025-04-05 18:48:03 +0000"
@@ -1841,6 +1847,12 @@
   "alexscaves:alexscaves/frostmint_spear": {
     "criteria": {
       "deep_sea_sushi_roll": "2025-04-05 18:49:34 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/gobthumper": {
+    "criteria": {
+      "gobthumper": "2025-04-05 18:59:57 +0000"
     },
     "done": true
   },

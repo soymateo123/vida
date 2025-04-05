@@ -995,3 +995,25 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [05Apr2025 19:01:38.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel> UFF
 [05Apr2025 19:01:43.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fablex39 has completed the challenge [Dessert Power]
 [05Apr2025 19:01:54.217] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5183ms or 103 ticks behind
+[05Apr2025 19:02:13.351] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4167ms or 83 ticks behind
+[05Apr2025 19:02:33.413] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5079ms or 101 ticks behind
+[05Apr2025 19:02:50.694] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2310ms or 46 ticks behind
+[05Apr2025 19:03:06.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Creative Mode]
+[05Apr2025 19:03:09.442] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3758ms or 75 ticks behind
+[05Apr2025 19:03:19.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Survival Mode]
+[05Apr2025 19:03:29.148] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4714ms or 94 ticks behind
+[05Apr2025 19:03:48.211] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4076ms or 81 ticks behind
+[05Apr2025 19:04:05.841] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2657ms or 53 ticks behind
+[05Apr2025 19:04:18.905] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Andremat2010 moved too quickly! 1.0028253012096684,10.824214505773163,2.699314924579994
+[05Apr2025 19:04:29.036] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[05Apr2025 19:04:58.306] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fablex39 lost connection: Disconnected
+[05Apr2025 19:04:58.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fablex39 left the game
+[05Apr2025 19:08:01.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel> UFFF
+[05Apr2025 19:08:17.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Andremat2010> q paso?
+[05Apr2025 19:08:21.949] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/24788, l='ServerLevel[world]', x=448.07, y=70.00, z=416.24] died, message: 'Librarian was slain by Decaying Zombie'
+[05Apr2025 19:08:41.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Andremat2010> dc
+[05Apr2025 19:09:18.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Andremat2010> duerme
+[05Apr2025 19:10:48.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel> GGS
+[05Apr2025 19:11:07.289] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Andremat2010 moved too quickly! 8.030662799591482,-0.7491870787446828,-6.065101016196877
+[05Apr2025 19:11:07.320] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4286ms or 85 ticks behind
+[05Apr2025 19:12:29.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel> ya ya
