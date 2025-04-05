@@ -2083,5 +2083,11 @@
     },
     "done": true
   },
+  "aquamirae:recipes/spinefish": {
+    "criteria": {
+      "has_item": "2025-04-05 02:17:19 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
