@@ -2218,6 +2218,36 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/radiant_essence": {
+    "criteria": {
+      "mussel": "2025-04-05 16:18:07 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/enter_purple_soda": {
+    "criteria": {
+      "in_purple_soda": "2025-04-05 16:12:02 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_gum_worm": {
+    "criteria": {
+      "killed": "2025-04-05 16:20:10 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_caniac": {
+    "criteria": {
+      "killed": "2025-04-05 16:13:17 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/gelatin": {
+    "criteria": {
+      "gelatin": "2025-04-05 16:14:43 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/frostmint_spear": {
     "criteria": {
       "deep_sea_sushi_roll": "2025-04-05 16:08:15 +0000"

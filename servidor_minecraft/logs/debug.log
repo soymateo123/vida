@@ -11753,3 +11753,46 @@ java.lang.IllegalArgumentException: sectionPos out of bounds
 [05Apr2025 16:13:25.939] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2055ms or 41 ticks behind
 [05Apr2025 16:13:35.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fablex39 has made the advancement [Mine Turtle!]
 [05Apr2025 16:13:43.393] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2459ms or 49 ticks behind
+[05Apr2025 16:14:43.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabriel has made the advancement [Where's Goopy?]
+[05Apr2025 16:15:17.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Creative Mode]
+[05Apr2025 16:15:19.566] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gabriel moved too quickly! -1.2684875725317397,7.685035292573765,6.789082005112505
+[05Apr2025 16:15:24.535] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gabriel moved too quickly! -3.721730895138535,8.277695052981372,6.573199442291298
+[05Apr2025 16:15:33.164] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tayra lost connection: Disconnected
+[05Apr2025 16:15:33.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tayra left the game
+[05Apr2025 16:15:44.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel> ?????
+[05Apr2025 16:16:16.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fablex39 has made the advancement [Where's Goopy?]
+[05Apr2025 16:16:52.171] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Apr2025 16:16:52.189] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Apr2025 16:16:52.272] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fablex39 moved too quickly! -10.207584307268007,-1.7318160308806156,1.2815640910157526
+[05Apr2025 16:17:13.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Survival Mode]
+[05Apr2025 16:17:19.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Creative Mode]
+[05Apr2025 16:18:07.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabriel has made the advancement [The Secret Ingredient]
+[05Apr2025 16:18:17.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel> uff
+[05Apr2025 16:18:40.829] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gabriel moved too quickly! -8.204714473475178,-3.418322516381741,6.064890182830823
+[05Apr2025 16:18:44.471] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2086ms or 41 ticks behind
+[05Apr2025 16:19:14.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Survival Mode]
+[05Apr2025 16:19:29.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel> mrd
+[05Apr2025 16:19:42.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Creative Mode]
+[05Apr2025 16:19:47.900] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fablex39 moved too quickly! -1.6999618496902258,0.003779129703653572,10.279248656786876
+[05Apr2025 16:19:51.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fablex39 has made the advancement [The Dark (Chocolate) Tower]
+[05Apr2025 16:20:10.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabriel has made the advancement [The (Cinnamon) Spice Must Flow]
+[05Apr2025 16:20:49.721] [Worker-Main-5/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/vampirism/totem
+[05Apr2025 16:20:49.721] [Worker-Main-5/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/bounty/plains
+[05Apr2025 16:20:49.731] [Worker-Main-5/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/waystone/normal
+[05Apr2025 16:20:56.431] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gabriel moved too quickly! 2.2776789293275215,7.841569900040824,-6.142929137809915
+[05Apr2025 16:21:01.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Teleported fablex39 to -8411.500000, -13.500000, -7195.500000]
+[05Apr2025 16:21:03.272] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gabriel moved too quickly! -3.0820398878531705,-9.588667243050033,1.0798453659817824
+[05Apr2025 16:21:38.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Teleported fablex39 to -8237.500000, -15.500000, -7629.500000]
+[05Apr2025 16:21:40.323] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gabriel moved too quickly! -0.8254400526457175,9.094388429608117,-6.851419625273593
+[05Apr2025 16:21:41.069] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gabriel moved too quickly! -0.6011436255485023,9.21093297529907,-5.0
+[05Apr2025 16:21:48.866] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gabriel moved too quickly! -2.959006782803044,8.847297862871649,-4.128046150904993
+[05Apr2025 16:21:50.781] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gabriel moved too quickly! -2.35924915128453,5.665290013432502,-8.7977507157957
+[05Apr2025 16:21:53.259] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Apr2025 16:21:53.277] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Apr2025 16:21:53.362] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fablex39 moved too quickly! -3.4850544493147027,-3.3750000897941335,9.061132251811614
+[05Apr2025 16:21:54.581] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gabriel moved too quickly! -2.592698224392734,11.022268528864668,-0.9506076875331928
+[05Apr2025 16:22:09.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Teleported fablex39 to -8374.500000, -13.500000, -7683.500000]
+[05Apr2025 16:23:03.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabriel has made the advancement [You're a Monster]
+[05Apr2025 16:23:16.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fablex39 has made the advancement [Lorem Ipsum]
+[05Apr2025 16:23:22.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Survival Mode]
+[05Apr2025 16:23:44.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fablex39 has made the advancement [A Day at the Fair]
