@@ -11110,3 +11110,31 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [05Apr2025 14:25:24.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Survival Mode]
 [05Apr2025 14:25:30.205] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgeEventHandler@14acfd80 for service interface com.blamejared.clumps.platform.IEventHelper
 [05Apr2025 14:25:30.206] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgePlatformHelper@15d9733b for service interface com.blamejared.clumps.platform.IPlatformHelper
+[05Apr2025 14:25:36.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Creative Mode]
+[05Apr2025 14:27:00.116] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fablex39 moved too quickly! 8.243140611977651,0.0,-6.1691656510188295
+[05Apr2025 14:27:06.319] [Worker-Main-14/DEBUG] [mixin/]: Mixing IMixinStructurePiecesBuilder from witherstormmod.mixins.json into net.minecraft.world.level.levelgen.structure.pieces.StructurePiecesBuilder
+[05Apr2025 14:27:06.625] [Server thread/DEBUG] [mixin/]: Mixing boat.VanillaInventoryCodeHooksMixin from securitycraft.mixins.json into net.minecraftforge.items.VanillaInventoryCodeHooks
+[05Apr2025 14:27:06.626] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$securitycraft$callGetCapabilityForSecuritySeaBoat$0(Lnet/geforcemods/securitycraft/entity/SecuritySeaBoat;Lnet/minecraftforge/items/IItemHandler;)Lorg/apache/commons/lang3/tuple/Pair; to mdb10a87$lambda$securitycraft$callGetCapabilityForSecuritySeaBoat$0$0 in securitycraft.mixins.json:boat.VanillaInventoryCodeHooksMixin
+[05Apr2025 14:27:18.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Survival Mode]
+[05Apr2025 14:27:27.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Creative Mode]
+[05Apr2025 14:27:31.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Survival Mode]
+[05Apr2025 14:27:41.401] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Apr2025 14:27:41.426] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Apr2025 14:29:09.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Creative Mode]
+[05Apr2025 14:29:14.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fablex39 has made the advancement [With Fire It Writes]
+[05Apr2025 14:30:05.213] [Server thread/DEBUG] [mixin/]: Mixing MapDecorationMixin from alexscaves.mixins.json into net.minecraft.world.level.saveddata.maps.MapDecoration
+[05Apr2025 14:30:05.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fablex39 has made the advancement [I Can See Forever]
+[05Apr2025 14:30:05.262] [Server thread/DEBUG] [mixin/]: Mixing HoldingPlayerMixin from moonlight-common.mixins.json into net.minecraft.world.level.saveddata.maps.MapItemSavedData$HoldingPlayer
+[05Apr2025 14:30:57.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Survival Mode]
+[05Apr2025 14:31:20.068] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fablex39 moved too quickly! 12.520507667458332,12.957036922754483,2.4972381062980276
+[05Apr2025 14:32:41.414] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Apr2025 14:32:41.445] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Apr2025 14:33:07.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Creative Mode]
+[05Apr2025 14:33:41.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Survival Mode]
+[05Apr2025 14:35:00.866] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fablex39 moved wrongly!
+[05Apr2025 14:35:09.135] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/19975, l='ServerLevel[world]', x=474.30, y=-256.00, z=421.90] died, message: 'Unemployed was killed'
+[05Apr2025 14:35:29.855] [Worker-Main-21/DEBUG] [mixin/]: Mixing structures.JigsawPlacementUnlimit from integrated_api-common.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement
+[05Apr2025 14:35:29.855] [Worker-Main-21/DEBUG] [mixin/]: Mixing IMixinJigsawPlacement from witherstormmod.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement
+[05Apr2025 14:35:29.856] [Worker-Main-21/DEBUG] [mixin/]: Renaming @Invoker method invokeAddPieces(Lnet/minecraft/world/level/levelgen/RandomState;IZLnet/minecraft/world/level/chunk/ChunkGenerator;Lnet/minecraft/world/level/levelgen/structure/templatesystem/StructureTemplateManager;Lnet/minecraft/world/level/LevelHeightAccessor;Lnet/minecraft/util/RandomSource;Lnet/minecraft/core/Registry;Lnet/minecraft/world/level/levelgen/structure/PoolElementStructurePiece;Ljava/util/List;Lnet/minecraft/world/phys/shapes/VoxelShape;)V to invokeAddPieces_$md$b10a87$0 in witherstormmod.mixins.json:IMixinJigsawPlacement
+[05Apr2025 14:35:29.856] [Worker-Main-21/DEBUG] [mixin/]: Mixing ChunkGeneratorMixin from quark.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement
+[05Apr2025 14:35:31.027] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2747ms or 54 ticks behind

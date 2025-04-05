@@ -1656,5 +1656,17 @@
     },
     "done": false
   },
+  "twilightforest:magic_map": {
+    "criteria": {
+      "magic_map": "2025-04-05 14:30:05 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:magic_map_focus": {
+    "criteria": {
+      "focus": "2025-04-05 14:29:14 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
