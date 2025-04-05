@@ -153,6 +153,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "cabbage": "2025-04-05 15:56:18 +0000",
       "potato": "2025-03-23 20:33:29 +0000",
       "wheat": "2025-03-23 20:58:12 +0000"
     },
@@ -270,6 +271,12 @@
   "lootr:1barrel": {
     "criteria": {
       "opened_barrel": "2025-04-05 15:40:38 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "cabbage_seeds": "2025-04-05 15:56:15 +0000"
     },
     "done": true
   },
