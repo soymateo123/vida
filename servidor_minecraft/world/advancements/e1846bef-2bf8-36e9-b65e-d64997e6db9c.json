@@ -114,6 +114,7 @@
       "snowy_coniferous_forest": "2025-03-23 04:09:07 +0000",
       "snowy_fir_clearing": "2025-03-29 00:09:24 +0000",
       "tundra": "2025-03-30 19:16:59 +0000",
+      "glowing_grotto": "2025-04-05 18:47:32 +0000",
       "undergrowth": "2025-03-30 03:59:08 +0000",
       "rainforest": "2025-03-16 23:15:23 +0000"
     },
@@ -1795,12 +1796,6 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/defeat_caniac": {
-    "criteria": {
-      "killed": "2025-04-05 18:34:16 +0000"
-    },
-    "done": true
-  },
   "alexscaves:alexscaves/eat_candy_cane": {
     "criteria": {
       "eat_candy_cane": "2025-04-05 18:29:28 +0000"
@@ -1810,6 +1805,30 @@
   "alexscaves:alexscaves/candy_cane_hook": {
     "criteria": {
       "candy_cane_hook": "2025-04-05 18:33:55 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_caniac": {
+    "criteria": {
+      "killed": "2025-04-05 18:34:16 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/radiant_essence": {
+    "criteria": {
+      "mussel": "2025-04-05 18:37:19 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/conversion_crucible": {
+    "criteria": {
+      "mussel": "2025-04-05 18:38:21 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defuse_nuclear_bomb": {
+    "criteria": {
+      "interact": "2025-04-05 18:48:03 +0000"
     },
     "done": true
   },
