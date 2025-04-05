@@ -1705,9 +1705,21 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/licowitch_tower": {
+  "undead_revamp2:sugarcoat": {
     "criteria": {
-      "licowitch_tower": "2025-04-05 16:19:51 +0000"
+      "sugarcoat_0": "2025-04-05 15:26:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/recruit_guard": {
+    "criteria": {
+      "recruit_guard": "2025-04-05 15:41:03 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:double_trouble": {
+    "criteria": {
+      "double_trouble_0": "2025-04-05 16:05:32 +0000"
     },
     "done": true
   },
@@ -1717,15 +1729,33 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/gingerbread_town": {
+    "criteria": {
+      "gingerbread_town": "2025-04-05 16:08:17 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/eat_block_of_chocolate": {
+    "criteria": {
+      "eat_block_of_chocolate": "2025-04-05 16:08:18 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/enter_purple_soda": {
     "criteria": {
       "in_purple_soda": "2025-04-05 16:08:51 +0000"
     },
     "done": true
   },
-  "alexscaves:alexscaves/gelatin": {
+  "alexscaves:alexscaves/walk_on_rock_candy": {
     "criteria": {
-      "gelatin": "2025-04-05 16:16:16 +0000"
+      "cave_book": "2025-04-05 16:08:54 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/caramel": {
+    "criteria": {
+      "mussel": "2025-04-05 16:10:58 +0000"
     },
     "done": true
   },
@@ -1735,9 +1765,15 @@
     },
     "done": true
   },
-  "minecraft:adventure/recruit_guard": {
+  "alexscaves:alexscaves/gelatin": {
     "criteria": {
-      "recruit_guard": "2025-04-05 15:41:03 +0000"
+      "gelatin": "2025-04-05 16:16:16 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/licowitch_tower": {
+    "criteria": {
+      "licowitch_tower": "2025-04-05 16:19:51 +0000"
     },
     "done": true
   },
@@ -1753,45 +1789,27 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/caramel": {
-    "criteria": {
-      "mussel": "2025-04-05 16:10:58 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:double_trouble": {
-    "criteria": {
-      "double_trouble_0": "2025-04-05 16:05:32 +0000"
-    },
-    "done": true
-  },
-  "undead_revamp2:sugarcoat": {
-    "criteria": {
-      "sugarcoat_0": "2025-04-05 15:26:17 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/eat_block_of_chocolate": {
-    "criteria": {
-      "eat_block_of_chocolate": "2025-04-05 16:08:18 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/walk_on_rock_candy": {
-    "criteria": {
-      "cave_book": "2025-04-05 16:08:54 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/gingerbread_town": {
-    "criteria": {
-      "gingerbread_town": "2025-04-05 16:08:17 +0000"
-    },
-    "done": true
-  },
   "alexscaves:alexscaves/gingerbread_crumbs": {
     "criteria": {
       "crumbs": "2025-04-05 16:24:33 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_caniac": {
+    "criteria": {
+      "killed": "2025-04-05 18:34:16 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/eat_candy_cane": {
+    "criteria": {
+      "eat_candy_cane": "2025-04-05 18:29:28 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/candy_cane_hook": {
+    "criteria": {
+      "candy_cane_hook": "2025-04-05 18:33:55 +0000"
     },
     "done": true
   },

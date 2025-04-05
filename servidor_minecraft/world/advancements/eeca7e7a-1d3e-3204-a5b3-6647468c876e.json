@@ -2206,45 +2206,39 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/licowitch_tower": {
-    "criteria": {
-      "licowitch_tower": "2025-04-05 16:07:33 +0000"
-    },
-    "done": true
-  },
   "alexscaves:alexscaves/discover_candy_cavity": {
     "criteria": {
       "discover": "2025-04-05 16:02:36 +0000"
     },
     "done": true
   },
-  "alexscaves:alexscaves/radiant_essence": {
+  "alexscaves:alexscaves/gingerbread_town": {
     "criteria": {
-      "mussel": "2025-04-05 16:18:07 +0000"
+      "gingerbread_town": "2025-04-05 16:04:19 +0000"
     },
     "done": true
   },
-  "alexscaves:alexscaves/enter_purple_soda": {
+  "alexscaves:alexscaves/eat_candy_cane": {
     "criteria": {
-      "in_purple_soda": "2025-04-05 16:12:02 +0000"
+      "eat_candy_cane": "2025-04-05 16:06:31 +0000"
     },
     "done": true
   },
-  "alexscaves:alexscaves/defeat_gum_worm": {
+  "quark:get_diamond_heart": {
     "criteria": {
-      "killed": "2025-04-05 16:20:10 +0000"
+      "get_diamond_heart": "2025-04-05 16:06:48 +0000"
     },
     "done": true
   },
-  "alexscaves:alexscaves/defeat_caniac": {
+  "alexscaves:alexscaves/licowitch_tower": {
     "criteria": {
-      "killed": "2025-04-05 16:13:17 +0000"
+      "licowitch_tower": "2025-04-05 16:07:33 +0000"
     },
     "done": true
   },
-  "alexscaves:alexscaves/gelatin": {
+  "alexscaves:alexscaves/conversion_crucible": {
     "criteria": {
-      "gelatin": "2025-04-05 16:14:43 +0000"
+      "mussel": "2025-04-05 16:07:36 +0000"
     },
     "done": true
   },
@@ -2260,21 +2254,9 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/caramel": {
+  "alexscaves:alexscaves/walk_on_rock_candy": {
     "criteria": {
-      "mussel": "2025-04-05 16:11:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/return_to_sender": {
-    "criteria": {
-      "killed_ghast": "2025-04-05 16:46:28 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/conversion_crucible": {
-    "criteria": {
-      "mussel": "2025-04-05 16:07:36 +0000"
+      "cave_book": "2025-04-05 16:10:50 +0000"
     },
     "done": true
   },
@@ -2284,21 +2266,39 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/eat_candy_cane": {
+  "alexscaves:alexscaves/caramel": {
     "criteria": {
-      "eat_candy_cane": "2025-04-05 16:06:31 +0000"
+      "mussel": "2025-04-05 16:11:19 +0000"
     },
     "done": true
   },
-  "alexscaves:alexscaves/walk_on_rock_candy": {
+  "alexscaves:alexscaves/enter_purple_soda": {
     "criteria": {
-      "cave_book": "2025-04-05 16:10:50 +0000"
+      "in_purple_soda": "2025-04-05 16:12:02 +0000"
     },
     "done": true
   },
-  "alexscaves:alexscaves/gingerbread_town": {
+  "alexscaves:alexscaves/defeat_caniac": {
     "criteria": {
-      "gingerbread_town": "2025-04-05 16:04:19 +0000"
+      "killed": "2025-04-05 16:13:17 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/gelatin": {
+    "criteria": {
+      "gelatin": "2025-04-05 16:14:43 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/radiant_essence": {
+    "criteria": {
+      "mussel": "2025-04-05 16:18:07 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_gum_worm": {
+    "criteria": {
+      "killed": "2025-04-05 16:20:10 +0000"
     },
     "done": true
   },
@@ -2308,9 +2308,9 @@
     },
     "done": true
   },
-  "quark:get_diamond_heart": {
+  "minecraft:nether/return_to_sender": {
     "criteria": {
-      "get_diamond_heart": "2025-04-05 16:06:48 +0000"
+      "killed_ghast": "2025-04-05 16:46:28 +0000"
     },
     "done": true
   },
