@@ -1741,6 +1741,18 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/cave_codex": {
+    "criteria": {
+      "cave_codex": "2025-04-05 16:23:16 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/caramel_apple": {
+    "criteria": {
+      "mussel": "2025-04-05 16:23:44 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/caramel": {
     "criteria": {
       "mussel": "2025-04-05 16:10:58 +0000"
@@ -1774,6 +1786,12 @@
   "alexscaves:alexscaves/gingerbread_town": {
     "criteria": {
       "gingerbread_town": "2025-04-05 16:08:17 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/gingerbread_crumbs": {
+    "criteria": {
+      "crumbs": "2025-04-05 16:24:33 +0000"
     },
     "done": true
   },

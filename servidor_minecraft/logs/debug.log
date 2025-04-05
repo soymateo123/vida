@@ -11796,3 +11796,26 @@ java.lang.IllegalArgumentException: sectionPos out of bounds
 [05Apr2025 16:23:16.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fablex39 has made the advancement [Lorem Ipsum]
 [05Apr2025 16:23:22.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Survival Mode]
 [05Apr2025 16:23:44.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fablex39 has made the advancement [A Day at the Fair]
+[05Apr2025 16:24:33.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fablex39 has made the advancement [You're a Monster]
+[05Apr2025 16:25:09.063] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gabriel moved too quickly! -2.588381443238177,10.289097601657359,0.0
+[05Apr2025 16:26:10.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fablex39> ven
+[05Apr2025 16:26:22.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fablex39> hay uno
+[05Apr2025 16:26:53.338] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Apr2025 16:26:53.357] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Apr2025 16:27:30.208] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fablex39 lost connection: Disconnected
+[05Apr2025 16:27:30.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fablex39 left the game
+[05Apr2025 16:27:31.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel> la manzana esta kk
+[05Apr2025 16:28:11.111] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gabriel moved too quickly! 2.212990578427707,5.771650023633292,7.9824010076472405
+[05Apr2025 16:29:38.908] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gabriel moved too quickly! 0.8724470937777369,8.126820025920878,-7.641245522706413
+[05Apr2025 16:31:40.282] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gabriel moved too quickly! 3.4157962969002256,5.321307550489905,-8.182158607763085
+[05Apr2025 16:31:53.080] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Apr2025 16:31:53.099] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Apr2025 16:32:34.355] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gabriel moved too quickly! 7.55709266534177,8.487680023193366,-0.029005642473748594
+[05Apr2025 16:32:35.263] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gabriel moved too quickly! 5.433149176056759,6.667745043969148,5.2596679764310466
+[05Apr2025 16:33:07.188] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gabriel moved too quickly! 8.396059299475382,5.755405037999154,0.2697385486071653
+[05Apr2025 16:33:10.812] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gabriel moved too quickly! 5.959201613486584,9.290150059461595,-2.6485014533027424
+[05Apr2025 16:33:20.288] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gabriel moved too quickly! 1.3587561542053663,3.8944553353282956,-9.493406312370098
+[05Apr2025 16:33:32.456] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gabriel moved too quickly! 7.799835976014037,-0.7531999805212024,-8.471760764869032
+[05Apr2025 16:33:40.828] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gabriel moved too quickly! -3.397702832377945,6.359122515857219,8.222851985889974
+[05Apr2025 16:33:44.629] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gabriel moved too quickly! -4.3179999999974825,10.456500000000002,0.31849999999940337
+[05Apr2025 16:34:12.200] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gabriel moved too quickly! 1.1169207213024492,-10.65547973889549,0.6081020175488447

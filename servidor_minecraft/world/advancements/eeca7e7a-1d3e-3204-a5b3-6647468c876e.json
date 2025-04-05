@@ -2296,6 +2296,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/gingerbread_crumbs": {
+    "criteria": {
+      "crumbs": "2025-04-05 16:23:03 +0000"
+    },
+    "done": true
+  },
   "quark:get_diamond_heart": {
     "criteria": {
       "get_diamond_heart": "2025-04-05 16:06:48 +0000"
