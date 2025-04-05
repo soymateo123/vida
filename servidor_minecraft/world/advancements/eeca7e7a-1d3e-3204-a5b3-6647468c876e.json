@@ -2103,69 +2103,9 @@
     },
     "done": true
   },
-  "cataclysm:find_ruined_citadel": {
-    "criteria": {
-      "citadel": "2025-04-05 04:54:04 +0000"
-    },
-    "done": true
-  },
-  "lootr:1shulker": {
-    "criteria": {
-      "opened_shulker": "2025-04-05 04:58:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:end/kill_dragon": {
-    "criteria": {
-      "killed_dragon": "2025-04-05 04:19:21 +0000"
-    },
-    "done": true
-  },
-  "cataclysm:kill_ender_golem": {
-    "criteria": {
-      "endergolem": "2025-04-05 04:56:20 +0000"
-    },
-    "done": true
-  },
-  "cataclysm:find_soul_black_smith": {
-    "criteria": {
-      "blacksmith": "2025-04-05 05:19:29 +0000"
-    },
-    "done": true
-  },
   "born_in_chaos_v1:pumpkin_sir": {
     "criteria": {
       "pumpkin_sir_0": "2025-04-05 03:30:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:end/dragon_egg": {
-    "criteria": {
-      "dragon_egg": "2025-04-05 04:20:32 +0000"
-    },
-    "done": true
-  },
-  "ad_astra:energizer": {
-    "criteria": {
-      "has_energizer": "2025-04-05 04:00:24 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:squireofthe_dark_lord": {
-    "criteria": {
-      "squireofthe_dark_lord_6": "2025-04-05 03:30:25 +0000"
-    },
-    "done": false
-  },
-  "minecraft:end/find_end_city": {
-    "criteria": {
-      "in_city": "2025-04-05 04:30:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:end/enter_end_gateway": {
-    "criteria": {
-      "entered_end_gateway": "2025-04-05 04:22:40 +0000"
     },
     "done": true
   },
@@ -2180,11 +2120,11 @@
     },
     "done": false
   },
-  "minecraft:end/elytra": {
+  "born_in_chaos_v1:squireofthe_dark_lord": {
     "criteria": {
-      "elytra": "2025-04-05 04:36:27 +0000"
+      "squireofthe_dark_lord_6": "2025-04-05 03:30:25 +0000"
     },
-    "done": true
+    "done": false
   },
   "minecraft:story/follow_ender_eye": {
     "criteria": {
@@ -2192,9 +2132,69 @@
     },
     "done": true
   },
+  "ad_astra:energizer": {
+    "criteria": {
+      "has_energizer": "2025-04-05 04:00:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2025-04-05 04:19:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_egg": {
+    "criteria": {
+      "dragon_egg": "2025-04-05 04:20:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2025-04-05 04:22:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2025-04-05 04:30:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2025-04-05 04:36:27 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_ruined_citadel": {
+    "criteria": {
+      "citadel": "2025-04-05 04:54:04 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_ender_golem": {
+    "criteria": {
+      "endergolem": "2025-04-05 04:56:20 +0000"
+    },
+    "done": true
+  },
+  "lootr:1shulker": {
+    "criteria": {
+      "opened_shulker": "2025-04-05 04:58:00 +0000"
+    },
+    "done": true
+  },
   "cataclysm:kill_ender_guardian": {
     "criteria": {
       "enderguardian": "2025-04-05 05:00:06 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_soul_black_smith": {
+    "criteria": {
+      "blacksmith": "2025-04-05 05:19:29 +0000"
     },
     "done": true
   },
