@@ -2266,6 +2266,12 @@
     },
     "done": true
   },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2025-04-05 16:46:28 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/conversion_crucible": {
     "criteria": {
       "mussel": "2025-04-05 16:07:36 +0000"

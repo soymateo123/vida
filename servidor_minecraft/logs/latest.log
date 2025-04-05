@@ -1309,3 +1309,15 @@ java.lang.IllegalArgumentException: sectionPos out of bounds
 [05Apr2025 16:36:05.603] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gabriel moved too quickly! -3.5133492946624756,8.65904002761841,-5.00104548643958
 [05Apr2025 16:42:53.457] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gabriel moved too quickly! -4.752476686510818,-0.45000000000001705,-9.32515841761574
 [05Apr2025 16:43:01.431] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gabriel moved too quickly! -5.3684345724018385,-0.45000000000001705,-9.188810679057042
+[05Apr2025 16:44:39.507] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gabriel moved too quickly! -8.059387756444266,-0.45000000000001705,6.650413097992214
+[05Apr2025 16:44:41.788] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gabriel moved too quickly! -8.789589193431311,-0.45000000000001705,4.924587798828043
+[05Apr2025 16:44:58.106] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gabriel moved too quickly! -6.471725525068905,-0.45000000000001705,-8.447908754357059
+[05Apr2025 16:45:28.129] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[05Apr2025 16:45:28.130] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[05Apr2025 16:46:28.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabriel has completed the challenge [Return to Sender]
+[05Apr2025 16:46:55.155] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gabriel moved too quickly! -7.023293004436255,2.437386990298549,-7.2187024778449995
+[05Apr2025 16:48:34.550] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gabriel lost connection: Disconnected
+[05Apr2025 16:48:34.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabriel left the game
+[05Apr2025 16:52:22.317] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Gabriel[/127.240.96.124:33239] logged in with entity id 81638 at (-3719.0995576444957, 46.00133597911215, -1852.221268349927)
+[05Apr2025 16:52:22.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabriel joined the game
+[05Apr2025 16:52:22.338] [Server thread/INFO] [Jade/]: Syncing config to Gabriel (eeca7e7a-1d3e-3204-a5b3-6647468c876e)
