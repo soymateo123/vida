@@ -895,3 +895,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [05Apr2025 14:43:54.438] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tayra[/127.37.90.99:51389] logged in with entity id 24826 at (462.21537570779503, 31.0, 419.0919802888309)
 [05Apr2025 14:43:54.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tayra joined the game
 [05Apr2025 14:43:54.503] [Server thread/INFO] [Jade/]: Syncing config to tayra (bf26690f-3430-33f3-b707-8d7df236fbbf)
+[05Apr2025 14:49:23.919] [Server thread/WARN] [tombstone/]: The death event of the player tayra was canceled by another mod
+[05Apr2025 14:49:23.966] [Server thread/INFO] [tombstone/]: The player tayra has successfully been saved
+[05Apr2025 14:54:20.781] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/27084, l='ServerLevel[world]', x=473.17, y=-256.00, z=429.82] died, message: 'Unemployed was killed'
+[05Apr2025 14:54:39.856] [Server thread/WARN] [tombstone/]: The death event of the player tayra was canceled by another mod
+[05Apr2025 14:54:39.866] [Server thread/INFO] [tombstone/]: The player tayra has successfully been saved

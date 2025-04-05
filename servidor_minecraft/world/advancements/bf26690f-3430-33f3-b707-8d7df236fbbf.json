@@ -1,55 +1,7 @@
 {
-  "lootr:1chest": {
-    "criteria": {
-      "opened_chest": "2025-03-23 20:52:07 +0000"
-    },
-    "done": true
-  },
-  "create:brass": {
-    "criteria": {
-      "0": "2025-03-23 20:23:21 +0000"
-    },
-    "done": true
-  },
   "tombstone:adventure/easter": {
     "criteria": {
       "coded_trigger": "2025-03-23 20:13:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/obtain_armor": {
-    "criteria": {
-      "iron_helmet": "2025-03-23 20:49:11 +0000"
-    },
-    "done": true
-  },
-  "lootr:social": {
-    "criteria": {
-      "opened_chest": "2025-03-23 20:52:07 +0000"
-    },
-    "done": false
-  },
-  "paraglider:root": {
-    "criteria": {
-      "crafting_table": "2025-03-23 20:52:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/iron_tools": {
-    "criteria": {
-      "iron_pickaxe": "2025-03-23 20:48:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/explore_nether": {
-    "criteria": {
-      "minecraft:crimson_forest": "2025-03-23 21:01:51 +0000"
-    },
-    "done": false
-  },
-  "minecraft:nether/root": {
-    "criteria": {
-      "entered_nether": "2025-03-23 21:01:50 +0000"
     },
     "done": true
   },
@@ -59,27 +11,9 @@
     },
     "done": true
   },
-  "quark:throw_pickarang": {
-    "criteria": {
-      "throw_pickarang": "2025-03-23 20:41:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/mine_stone": {
-    "criteria": {
-      "get_stone": "2025-03-23 20:49:55 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:main/root": {
     "criteria": {
       "seeds": "2025-03-23 20:13:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/enter_the_nether": {
-    "criteria": {
-      "entered_nether": "2025-03-23 21:01:50 +0000"
     },
     "done": true
   },
@@ -95,21 +29,9 @@
     },
     "done": true
   },
-  "biomesoplenty:biomesoplenty/root": {
-    "criteria": {
-      "rocky_shrubland": "2025-03-23 20:13:20 +0000"
-    },
-    "done": true
-  },
   "faded_conquest_2:faded_2": {
     "criteria": {
       "faded_2_0": "2025-03-23 20:13:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/smelt_iron": {
-    "criteria": {
-      "iron": "2025-03-23 20:45:21 +0000"
     },
     "done": true
   },
@@ -119,28 +41,9 @@
     },
     "done": true
   },
-  "minecraft:story/shiny_gear": {
-    "criteria": {
-      "diamond_chestplate": "2025-03-23 20:14:44 +0000"
-    },
-    "done": true
-  },
   "naturescompass:natures_compass_sapling": {
     "criteria": {
       "has_recipe": "2025-03-23 20:13:18 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:biomesoplenty/all_biomes": {
-    "criteria": {
-      "woodland": "2025-03-23 20:14:07 +0000",
-      "rocky_shrubland": "2025-03-23 20:13:20 +0000"
-    },
-    "done": false
-  },
-  "minecraft:adventure/sleep_in_bed": {
-    "criteria": {
-      "slept_in_bed": "2025-03-23 20:36:08 +0000"
     },
     "done": true
   },
@@ -150,42 +53,9 @@
     },
     "done": true
   },
-  "artifacts:amateur_archaeologist": {
-    "criteria": {
-      "find_artifact": "2025-03-23 20:15:01 +0000"
-    },
-    "done": true
-  },
   "lootr:root": {
     "criteria": {
       "always_true": "2025-03-23 20:13:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:lukewarm_ocean": "2025-03-23 20:52:39 +0000",
-      "minecraft:stony_shore": "2025-03-23 20:24:21 +0000"
-    },
-    "done": false
-  },
-  "minecraft:husbandry/plant_seed": {
-    "criteria": {
-      "wheat": "2025-03-23 20:58:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/balanced_diet": {
-    "criteria": {
-      "apple": "2025-03-23 20:19:31 +0000",
-      "potato": "2025-03-23 20:20:16 +0000",
-      "bread": "2025-03-23 20:44:48 +0000"
-    },
-    "done": false
-  },
-  "minecraft:husbandry/root": {
-    "criteria": {
-      "consumed_item": "2025-03-23 20:19:31 +0000"
     },
     "done": true
   },
@@ -201,18 +71,25 @@
     },
     "done": true
   },
-  "farmersdelight:main/plant_all_crops": {
+  "cataclysm:root": {
     "criteria": {
-      "potato": "2025-03-23 20:33:29 +0000",
-      "wheat": "2025-03-23 20:58:12 +0000"
-    },
-    "done": false
-  },
-  "aquamirae:adventure/root": {
-    "criteria": {
-      "crafting_table": "2025-03-23 20:52:55 +0000"
+      "custom_test_name": "2025-03-23 20:13:18 +0000"
     },
     "done": true
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "rocky_shrubland": "2025-03-23 20:13:20 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "woodland": "2025-03-23 20:14:07 +0000",
+      "rocky_shrubland": "2025-03-23 20:13:20 +0000",
+      "rainforest": "2025-04-05 14:52:06 +0000"
+    },
+    "done": false
   },
   "tombstone:adventure/root": {
     "criteria": {
@@ -220,9 +97,110 @@
     },
     "done": true
   },
-  "cataclysm:root": {
+  "minecraft:story/shiny_gear": {
     "criteria": {
-      "custom_test_name": "2025-03-23 20:13:18 +0000"
+      "diamond_chestplate": "2025-03-23 20:14:44 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-03-23 20:15:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "apple": "2025-03-23 20:19:31 +0000",
+      "potato": "2025-03-23 20:20:16 +0000",
+      "bread": "2025-03-23 20:44:48 +0000",
+      "golden_apple": "2025-04-05 14:49:51 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-03-23 20:19:31 +0000"
+    },
+    "done": true
+  },
+  "create:brass": {
+    "criteria": {
+      "0": "2025-03-23 20:23:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:lukewarm_ocean": "2025-03-23 20:52:39 +0000",
+      "minecraft:stony_shore": "2025-03-23 20:24:21 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "potato": "2025-03-23 20:33:29 +0000",
+      "wheat": "2025-03-23 20:58:12 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-03-23 20:36:08 +0000"
+    },
+    "done": true
+  },
+  "quark:throw_pickarang": {
+    "criteria": {
+      "throw_pickarang": "2025-03-23 20:41:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-03-23 20:45:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-03-23 20:48:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2025-03-23 20:49:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-03-23 20:49:55 +0000"
+    },
+    "done": true
+  },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2025-03-23 20:52:07 +0000"
+    },
+    "done": true
+  },
+  "lootr:social": {
+    "criteria": {
+      "opened_chest": "2025-03-23 20:52:07 +0000"
+    },
+    "done": false
+  },
+  "paraglider:root": {
+    "criteria": {
+      "crafting_table": "2025-03-23 20:52:55 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/root": {
+    "criteria": {
+      "crafting_table": "2025-03-23 20:52:55 +0000"
     },
     "done": true
   },
@@ -231,6 +209,30 @@
       "crafting_table": "2025-03-23 20:52:55 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-03-23 20:58:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-03-23 21:01:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-03-23 21:01:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2025-03-23 21:01:51 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
