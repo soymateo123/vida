@@ -1659,17 +1659,23 @@
     },
     "done": false
   },
-  "twilightforest:progress_trophy_pedestal": {
+  "twilightforest:magic_map_focus": {
     "criteria": {
-      "kill_lich": "2025-04-05 14:36:06 +0000"
+      "focus": "2025-04-05 14:29:14 +0000"
     },
-    "done": false
+    "done": true
   },
   "twilightforest:magic_map": {
     "criteria": {
       "magic_map": "2025-04-05 14:30:05 +0000"
     },
     "done": true
+  },
+  "twilightforest:progress_trophy_pedestal": {
+    "criteria": {
+      "kill_lich": "2025-04-05 14:36:06 +0000"
+    },
+    "done": false
   },
   "twilightforest:progress_merge": {
     "criteria": {
@@ -1683,15 +1689,15 @@
     },
     "done": false
   },
-  "twilightforest:magic_map_focus": {
-    "criteria": {
-      "focus": "2025-04-05 14:29:14 +0000"
-    },
-    "done": true
-  },
   "tombstone:adventure/strong_undead": {
     "criteria": {
       "coded_trigger": "2025-04-05 14:36:06 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:cloggeradvance": {
+    "criteria": {
+      "cloggeradvance_0": "2025-04-05 15:18:39 +0000"
     },
     "done": true
   },
