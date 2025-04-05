@@ -1304,3 +1304,8 @@ java.lang.IllegalArgumentException: sectionPos out of bounds
 [05Apr2025 16:33:40.828] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gabriel moved too quickly! -3.397702832377945,6.359122515857219,8.222851985889974
 [05Apr2025 16:33:44.629] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gabriel moved too quickly! -4.3179999999974825,10.456500000000002,0.31849999999940337
 [05Apr2025 16:34:12.200] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gabriel moved too quickly! 1.1169207213024492,-10.65547973889549,0.6081020175488447
+[05Apr2025 16:35:00.266] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gabriel moved too quickly! -1.7756078392376367,7.044588806633948,-8.727149571089285
+[05Apr2025 16:35:21.558] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gabriel moved too quickly! -3.842710377422918,10.594645067811015,-2.2927041771663426
+[05Apr2025 16:36:05.603] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gabriel moved too quickly! -3.5133492946624756,8.65904002761841,-5.00104548643958
+[05Apr2025 16:42:53.457] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gabriel moved too quickly! -4.752476686510818,-0.45000000000001705,-9.32515841761574
+[05Apr2025 16:43:01.431] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gabriel moved too quickly! -5.3684345724018385,-0.45000000000001705,-9.188810679057042
