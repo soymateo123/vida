@@ -1193,5 +1193,11 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/cooked_dinosaur_chop": {
+    "criteria": {
+      "cooked_dinosaur_chop": "2025-04-05 02:31:33 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

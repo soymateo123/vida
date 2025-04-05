@@ -1511,6 +1511,12 @@
     },
     "done": true
   },
+  "undead_revamp2:daddy": {
+    "criteria": {
+      "daddy_0": "2025-04-05 02:32:01 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/neighborhood_brawl": {
     "criteria": {
       "coded_trigger": "2025-04-05 02:18:21 +0000"
