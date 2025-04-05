@@ -103,6 +103,7 @@
       "mediterranean_forest": "2025-03-23 01:47:23 +0000",
       "coniferous_forest": "2025-03-30 22:27:21 +0000",
       "spider_nest": "2025-03-23 21:07:56 +0000",
+      "lush_desert": "2025-04-05 03:56:57 +0000",
       "redwood_forest": "2025-03-30 05:20:40 +0000",
       "dune_beach": "2025-03-30 05:20:50 +0000",
       "seasonal_forest": "2025-03-30 05:23:28 +0000",
@@ -188,6 +189,7 @@
       "minecraft:windswept_forest": "2025-03-30 05:24:09 +0000",
       "minecraft:deep_frozen_ocean": "2025-03-30 20:24:57 +0000",
       "minecraft:jungle": "2025-03-30 05:05:17 +0000",
+      "minecraft:warm_ocean": "2025-04-05 03:56:24 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-03-22 21:08:52 +0000",
       "minecraft:flower_forest": "2025-03-23 04:27:16 +0000",
       "minecraft:deep_dark": "2025-03-23 04:22:28 +0000",
@@ -213,6 +215,7 @@
   "lootr:social": {
     "criteria": {
       "opened_barrel": "2025-03-22 21:15:34 +0000",
+      "opened_shulker": "2025-04-05 04:03:12 +0000",
       "opened_chest": "2025-03-22 19:13:32 +0000"
     },
     "done": false
@@ -877,15 +880,15 @@
     },
     "done": false
   },
-  "mowziesmobs:kill_umvuthana_raptor": {
+  "minecraft:adventure/hero_of_the_village": {
     "criteria": {
-      "umvuthana_raptor": "2025-03-30 22:48:56 +0000"
+      "hero_of_the_village": "2025-03-30 20:54:29 +0000"
     },
     "done": true
   },
-  "born_in_chaos_v1:lifeturnedouttobeacomedy": {
+  "tombstone:adventure/use_knowledge": {
     "criteria": {
-      "lifeturnedouttobeacomedy_0": "2025-03-30 21:09:06 +0000"
+      "coded_trigger": "2025-03-30 20:56:20 +0000"
     },
     "done": true
   },
@@ -901,27 +904,9 @@
     },
     "done": true
   },
-  "tombstone:adventure/use_knowledge": {
+  "born_in_chaos_v1:lifeturnedouttobeacomedy": {
     "criteria": {
-      "coded_trigger": "2025-03-30 20:56:20 +0000"
-    },
-    "done": true
-  },
-  "mowziesmobs:kill_umvuthi": {
-    "criteria": {
-      "barako": "2025-03-30 22:54:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/hero_of_the_village": {
-    "criteria": {
-      "hero_of_the_village": "2025-03-30 20:54:29 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/create_familiar_receptacle": {
-    "criteria": {
-      "has_receptacle_of_familiar": "2025-03-30 22:50:12 +0000"
+      "lifeturnedouttobeacomedy_0": "2025-03-30 21:09:06 +0000"
     },
     "done": true
   },
@@ -931,9 +916,57 @@
     },
     "done": true
   },
+  "mowziesmobs:kill_umvuthana_raptor": {
+    "criteria": {
+      "umvuthana_raptor": "2025-03-30 22:48:56 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_familiar_receptacle": {
+    "criteria": {
+      "has_receptacle_of_familiar": "2025-03-30 22:50:12 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/funeral_theft": {
     "criteria": {
       "coded_trigger": "2025-03-30 22:50:12 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_umvuthi": {
+    "criteria": {
+      "barako": "2025-03-30 22:54:04 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_ruined_citadel": {
+    "criteria": {
+      "citadel": "2025-04-05 04:02:52 +0000"
+    },
+    "done": true
+  },
+  "lootr:1shulker": {
+    "criteria": {
+      "opened_shulker": "2025-04-05 04:03:12 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_ender_golem": {
+    "criteria": {
+      "endergolem": "2025-04-05 04:11:21 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-04-05 03:36:42 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "diamond_knife": "2025-04-05 04:15:45 +0000"
     },
     "done": true
   },

@@ -93,6 +93,7 @@
       "marsh": "2025-03-21 01:03:19 +0000",
       "jade_cliffs": "2025-03-21 22:01:13 +0000",
       "clover_patch": "2025-03-21 22:00:19 +0000",
+      "wetland": "2025-04-05 03:40:16 +0000",
       "cold_desert": "2025-03-23 20:47:47 +0000",
       "old_growth_woodland": "2025-03-21 00:46:01 +0000",
       "maple_woods": "2025-03-21 22:13:05 +0000",
@@ -103,6 +104,7 @@
       "lavender_forest": "2025-03-21 01:17:51 +0000",
       "moor": "2025-03-22 03:29:39 +0000",
       "mediterranean_forest": "2025-03-21 01:20:07 +0000",
+      "bog": "2025-04-05 03:32:46 +0000",
       "coniferous_forest": "2025-03-21 22:14:02 +0000",
       "spider_nest": "2025-03-30 05:30:53 +0000",
       "dryland": "2025-03-30 03:56:06 +0000",
@@ -110,6 +112,7 @@
       "lush_desert": "2025-03-30 01:54:35 +0000",
       "redwood_forest": "2025-03-21 01:18:56 +0000",
       "visceral_heap": "2025-03-22 00:31:45 +0000",
+      "seasonal_orchard": "2025-04-05 03:33:08 +0000",
       "dune_beach": "2025-03-22 03:26:06 +0000",
       "seasonal_forest": "2025-03-21 22:13:16 +0000",
       "auroral_garden": "2025-03-30 19:28:50 +0000",
@@ -125,6 +128,7 @@
       "snowy_coniferous_forest": "2025-03-23 20:46:29 +0000",
       "snowy_fir_clearing": "2025-03-23 20:44:57 +0000",
       "tundra": "2025-03-29 03:13:49 +0000",
+      "glowing_grotto": "2025-04-05 03:42:47 +0000",
       "undergrowth": "2025-03-22 00:31:57 +0000",
       "origin_valley": "2025-03-23 19:47:46 +0000",
       "rainforest": "2025-03-17 01:40:09 +0000",
@@ -148,10 +152,11 @@
   "lootr:social": {
     "criteria": {
       "opened_barrel": "2025-03-16 22:26:09 +0000",
+      "opened_shulker": "2025-04-05 04:58:00 +0000",
       "opened_chest": "2025-03-16 22:25:22 +0000",
       "opened_cart": "2025-03-30 16:49:15 +0000"
     },
-    "done": false
+    "done": true
   },
   "farmersdelight:main/get_fd_seed": {
     "criteria": {
@@ -361,6 +366,7 @@
       "minecraft:pillager": "2025-03-22 02:45:31 +0000",
       "minecraft:skeleton": "2025-03-16 23:11:24 +0000",
       "minecraft:ravager": "2025-03-23 18:55:02 +0000",
+      "minecraft:ghast": "2025-04-05 05:17:12 +0000",
       "minecraft:hoglin": "2025-03-29 18:23:35 +0000",
       "minecraft:vindicator": "2025-03-16 23:35:44 +0000",
       "minecraft:magma_cube": "2025-03-22 00:15:00 +0000",
@@ -375,6 +381,8 @@
       "minecraft:zombified_piglin": "2025-03-21 23:49:38 +0000",
       "minecraft:witch": "2025-03-21 01:04:02 +0000",
       "minecraft:wither_skeleton": "2025-03-21 23:51:44 +0000",
+      "minecraft:ender_dragon": "2025-04-05 04:19:21 +0000",
+      "minecraft:shulker": "2025-04-05 04:31:06 +0000",
       "minecraft:cave_spider": "2025-03-30 03:24:14 +0000",
       "minecraft:piglin": "2025-03-22 00:20:57 +0000",
       "minecraft:silverfish": "2025-03-21 21:49:33 +0000",
@@ -2071,21 +2079,128 @@
     },
     "done": false
   },
-  "aquamirae:recipes/remnants_saber": {
-    "criteria": {
-      "has_item": "2025-04-05 01:57:28 +0000"
-    },
-    "done": true
-  },
   "illageandspillage:kill_magi": {
     "criteria": {
       "requirement": "2025-04-05 01:40:48 +0000"
     },
     "done": true
   },
+  "aquamirae:recipes/remnants_saber": {
+    "criteria": {
+      "has_item": "2025-04-05 01:57:28 +0000"
+    },
+    "done": true
+  },
   "aquamirae:recipes/spinefish": {
     "criteria": {
       "has_item": "2025-04-05 02:17:19 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/consume_sea_stew": {
+    "criteria": {
+      "sea_stew": "2025-04-05 02:51:46 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_ruined_citadel": {
+    "criteria": {
+      "citadel": "2025-04-05 04:54:04 +0000"
+    },
+    "done": true
+  },
+  "lootr:1shulker": {
+    "criteria": {
+      "opened_shulker": "2025-04-05 04:58:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2025-04-05 04:19:21 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_ender_golem": {
+    "criteria": {
+      "endergolem": "2025-04-05 04:56:20 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_soul_black_smith": {
+    "criteria": {
+      "blacksmith": "2025-04-05 05:19:29 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:pumpkin_sir": {
+    "criteria": {
+      "pumpkin_sir_0": "2025-04-05 03:30:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_egg": {
+    "criteria": {
+      "dragon_egg": "2025-04-05 04:20:32 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:energizer": {
+    "criteria": {
+      "has_energizer": "2025-04-05 04:00:24 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:squireofthe_dark_lord": {
+    "criteria": {
+      "squireofthe_dark_lord_6": "2025-04-05 03:30:25 +0000"
+    },
+    "done": false
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2025-04-05 04:30:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2025-04-05 04:22:40 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:trickor_treat": {
+    "criteria": {
+      "trickor_treat_0": "2025-04-05 03:30:23 +0000",
+      "trickor_treat_2": "2025-04-05 03:34:31 +0000",
+      "trickor_treat_3": "2025-04-05 03:34:16 +0000",
+      "trickor_treat_4": "2025-04-05 03:34:16 +0000",
+      "trickor_treat_5": "2025-04-05 03:34:16 +0000",
+      "trickor_treat_7": "2025-04-05 03:34:24 +0000"
+    },
+    "done": false
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2025-04-05 04:36:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold_betterstrongholds": "2025-04-05 03:42:33 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_ender_guardian": {
+    "criteria": {
+      "enderguardian": "2025-04-05 05:00:06 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_monstrosity": {
+    "criteria": {
+      "netheritemonstrosity": "2025-04-05 05:21:50 +0000"
     },
     "done": true
   },

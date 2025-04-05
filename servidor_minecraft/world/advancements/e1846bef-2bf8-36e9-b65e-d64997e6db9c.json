@@ -958,7 +958,9 @@
   },
   "deeperdarker:main/kill_all_sculk_mobs": {
     "criteria": {
+      "shattered": "2025-04-05 03:31:04 +0000",
       "phantom": "2025-03-22 23:10:21 +0000",
+      "sculk_centipede": "2025-04-05 03:29:02 +0000",
       "sculk_leech": "2025-03-29 23:15:14 +0000"
     },
     "done": false
@@ -1237,7 +1239,8 @@
     "criteria": {
       "squireofthe_dark_lord_3": "2025-03-30 03:58:35 +0000",
       "squireofthe_dark_lord_5": "2025-03-30 03:53:05 +0000",
-      "squireofthe_dark_lord_0": "2025-03-29 22:00:07 +0000"
+      "squireofthe_dark_lord_0": "2025-03-29 22:00:07 +0000",
+      "squireofthe_dark_lord_2": "2025-04-05 03:21:35 +0000"
     },
     "done": false
   },
@@ -1511,17 +1514,147 @@
     },
     "done": true
   },
+  "tombstone:adventure/neighborhood_brawl": {
+    "criteria": {
+      "coded_trigger": "2025-04-05 02:18:21 +0000"
+    },
+    "done": true
+  },
   "undead_revamp2:daddy": {
     "criteria": {
       "daddy_0": "2025-04-05 02:32:01 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/neighborhood_brawl": {
+  "ad_astra:rover": {
     "criteria": {
-      "coded_trigger": "2025-04-05 02:18:21 +0000"
+      "has_rover": "2025-04-05 04:54:58 +0000"
     },
     "done": true
+  },
+  "ad_astra:interstellar": {
+    "criteria": {
+      "entered_glacio": "2025-04-05 04:57:07 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_ruined_citadel": {
+    "criteria": {
+      "citadel": "2025-04-05 03:49:26 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:twilight_hunter": {
+    "criteria": {
+      "naga": "2025-04-05 05:17:38 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:giants": {
+    "criteria": {
+      "giant": "2025-04-05 05:36:22 +0000"
+    },
+    "done": false
+  },
+  "cataclysm:kill_ender_golem": {
+    "criteria": {
+      "endergolem": "2025-04-05 03:51:01 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_soul_black_smith": {
+    "criteria": {
+      "blacksmith": "2025-04-05 05:25:15 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:dj": {
+    "criteria": {
+      "has_radio": "2025-04-05 04:54:19 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:tier_4_rocket": {
+    "criteria": {
+      "has_tier_4_rocket": "2025-04-05 04:54:25 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_yeti": {
+    "criteria": {
+      "fur": "2025-04-05 05:21:15 +0000",
+      "yeti": "2025-04-05 05:21:03 +0000",
+      "trophy": "2025-04-05 05:21:14 +0000",
+      "was_in_fight": "2025-04-05 05:21:03 +0000"
+    },
+    "done": false
+  },
+  "born_in_chaos_v1:horror_underthe_mantle": {
+    "criteria": {
+      "horror_underthe_mantle_0": "2025-04-05 05:07:26 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_naga": {
+    "criteria": {
+      "naga": "2025-04-05 05:17:38 +0000"
+    },
+    "done": true
+  },
+  "quark:overlevel_enchant": {
+    "criteria": {
+      "overlevel_enchant": "2025-04-05 03:37:09 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:naga_armors": {
+    "criteria": {
+      "armor": "2025-04-05 05:19:49 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_glacier": {
+    "criteria": {
+      "queen": "2025-04-05 05:32:40 +0000",
+      "was_in_fight": "2025-04-05 05:32:40 +0000"
+    },
+    "done": false
+  },
+  "cataclysm:kill_ender_guardian": {
+    "criteria": {
+      "enderguardian": "2025-04-05 03:56:14 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:zip_gun": {
+    "criteria": {
+      "using_zip_gun": "2025-04-05 04:54:53 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progression_end": {
+    "criteria": {
+      "plateau": "2025-04-05 05:38:20 +0000"
+    },
+    "done": false
+  },
+  "alexscaves:alexscaves/deep_one_items": {
+    "criteria": {
+      "magic_conch": "2025-04-05 02:51:37 +0000"
+    },
+    "done": false
+  },
+  "alexsmobs:alexsmobs/enderiophage_rocket": {
+    "criteria": {
+      "enderiophage_rocket": "2025-04-05 05:12:28 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_lich": {
+    "criteria": {
+      "kill_naga": "2025-04-05 05:17:38 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
