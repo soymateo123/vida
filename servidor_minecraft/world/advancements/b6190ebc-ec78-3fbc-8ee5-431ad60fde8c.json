@@ -1180,6 +1180,12 @@
     },
     "done": true
   },
+  "undead_revamp2:daddy": {
+    "criteria": {
+      "daddy_0": "2025-04-05 02:07:37 +0000"
+    },
+    "done": true
+  },
   "twilightforest:twilight_hunter": {
     "criteria": {
       "kobold": "2025-04-05 02:03:15 +0000"
