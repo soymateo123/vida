@@ -370,6 +370,7 @@
       "minecraft:wither": "2025-03-29 20:28:23 +0000",
       "minecraft:slime": "2025-03-21 00:26:53 +0000",
       "minecraft:evoker": "2025-03-23 19:07:23 +0000",
+      "quark:forgotten": "2025-04-05 02:00:36 +0000",
       "minecraft:phantom": "2025-03-22 01:52:20 +0000",
       "minecraft:zombified_piglin": "2025-03-21 23:49:38 +0000",
       "minecraft:witch": "2025-03-21 01:04:02 +0000",
@@ -2069,6 +2070,12 @@
       "charm_collector_0": "2025-03-30 23:05:38 +0000"
     },
     "done": false
+  },
+  "aquamirae:recipes/remnants_saber": {
+    "criteria": {
+      "has_item": "2025-04-05 01:57:28 +0000"
+    },
+    "done": true
   },
   "illageandspillage:kill_magi": {
     "criteria": {

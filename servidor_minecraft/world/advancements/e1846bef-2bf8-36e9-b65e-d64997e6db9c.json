@@ -1487,6 +1487,12 @@
     },
     "done": true
   },
+  "aquamirae:recipes/three_bolt_helmet": {
+    "criteria": {
+      "has_item": "2025-03-30 20:24:20 +0000"
+    },
+    "done": true
+  },
   "undead_revamp2:parry": {
     "criteria": {
       "parry_0": "2025-03-30 21:03:57 +0000"
@@ -1496,12 +1502,6 @@
   "cataclysm:find_sunken_city": {
     "criteria": {
       "factory": "2025-03-30 21:48:44 +0000"
-    },
-    "done": true
-  },
-  "aquamirae:recipes/three_bolt_helmet": {
-    "criteria": {
-      "has_item": "2025-03-30 20:24:20 +0000"
     },
     "done": true
   },
