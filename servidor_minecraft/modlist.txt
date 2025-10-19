@@ -1,0 +1,101 @@
+mod_id,mod_name,mod_version,mod_file,mod_url,display_url,issue_tracker_url
+treechop,HT's TreeChop,0.19.0,TreeChop-1.20.1-forge-0.19.0-fixed.jar,,https://github.com/hammertater/treechop,https://github.com/hammertater/treechop/issues
+betterdungeons,YUNG's Better Dungeons,1.20-Forge-4.0.4,YungsBetterDungeons-1.20-Forge-4.0.4.jar,,https://www.curseforge.com/minecraft/mc-mods/yungs-better-dungeons,https://github.com/yungnickyoung/YUNGs-Better-Dungeons/issues
+kuma_api,KumaAPI,20.1.10,kuma-api-forge-20.1.10+1.20.1.jar,,https://mods.twelveiterations.com/mc/kuma,https://github.com/TwelveIterationMods/Kuma/issues
+playeranimator,Player Animator,1.0.2-rc1+1.20,player-animation-lib-forge-1.0.2-rc1+1.20.jar,,,
+the_silence,The Silence,0.2,the_silence-0.2 patch 2.0 Fixed - CENSORED ver.jar,,https://www.youtube.com/channel/UCPizYKjeUleAq466vBX7b7g,
+sophisticatedcore,Sophisticated Core,1.2.53.970,sophisticatedcore-1.20.1-1.2.53.970.jar,,,https://github.com/P3pp3rF1y/SophisticatedCore/issues
+insanelib,InsaneLib,1.19.0,insanelib-1.19.0.jar,,https://github.com/Insane96/InsaneLib,
+create_jetpack,Create Jetpack,4.3.0,create_jetpack-forge-4.3.0.jar,,,https://github.com/pssbletrngle/createjetpack/issues
+prism,Prism,1.0.5,Prism-1.20.1-forge-1.0.5.jar,,https://anthonyhilyard.com/,
+citadel,Citadel,2.6.1,citadel-2.6.1-1.20.1.jar,,https://github.com/Alex-the-666/Citadel,https://github.com/Alex-the-666/Citadel/issues
+alexsmobs,Alex's Mobs,1.22.9,alexsmobs-1.22.9.jar,,https://www.curseforge.com/minecraft/mc-mods/alexs-mobs,https://github.com/Alex-the-666/AlexsMobs/issues
+legendary_additions,Legendary Additions,1.20.1-1.0.10,legendary_additions-1.20.1-1.0.10.jar,,,
+yungsapi,YUNG's API,1.20-Forge-4.0.6,YungsApi-1.20-Forge-4.0.6.jar,,https://www.curseforge.com/minecraft/mc-mods/yungs-api,https://github.com/yungnickyoung/YUNGs-Api/issues
+mixinextras,MixinExtras,0.4.1,mixinextras-forge-0.4.1.jar,,https://github.com/LlamaLad7/MixinExtras,
+sophisticatedbackpacks,Sophisticated Backpacks,3.23.14.1233,sophisticatedbackpacks-1.20.1-3.23.14.1233.jar,,,https://github.com/P3pp3rF1y/SophisticatedBackpacks/issues
+guardvillagers,Guard Villagers,1.20.1-1.6.10,guardvillagers-1.20.1-1.6.10.jar,,https://www.curseforge.com/minecraft/mc-mods/guard-villagers,https://github.com/seymourimadeit/guardvillagers/issues
+psychadelic,Psychadelic,1.0.0,Psychadelic-Chemistry_1.20.1-1.4.5.jar,,https://mcreator.net,
+simpleplanes,Simple Planes,1.20.1-5.3.3,simpleplanes-1.20.1-5.3.3.jar,,,
+balm,Balm,7.3.28,balm-forge-1.20.1-7.3.28-all.jar,,https://mods.twelveiterations.com/,https://github.com/TwelveIterationMods/Balm/issues
+interiors,Create: Interiors,0.5.6,interiors-0.5.6+forge-mc1.20.1-build.104.jar,,https://www.curseforge.com/minecraft/mc-mods/interiors,https://github.com/aesefficio/CreateInteriorsMod/issues
+betterfortresses,YUNG's Better Nether Fortresses,1.20-Forge-2.0.6,YungsBetterNetherFortresses-1.20-Forge-2.0.6.jar,,https://www.curseforge.com/minecraft/mc-mods/yungs-better-nether-fortresses,https://github.com/yungnickyoung/YUNGs-Better-Fortresses/issues
+paraglider,Paraglider,20.1.3,Paraglider-forge-20.1.3.jar,,https://www.curseforge.com/minecraft/mc-mods/paragliders,https://github.com/Tictim/Paraglider/issues
+cloth_config,Cloth Config v10 API,11.1.136,cloth-config-11.1.136-forge.jar,,,https://github.com/architectury/ClothConfig/issues/
+dummmmmmy,MmmMmmMmmmmm,1.20-2.0.6,dummmmmmy-1.20-2.0.6.jar,https://www.curseforge.com/minecraft/mmmmmmmmmmmm/labels,,https://github.com/MehVahdJukaar/DuMmmMmmy/issues
+konkrete,Konkrete,1.8.0,konkrete_forge_1.8.0_MC_1.20-1.20.1.jar,,,
+ricksportalgun,Portal Gun Mod,1.3.6,portalgun-1.20.1-1.3.6-hf.jar,,,
+cuffed,Cuffed,1.3.9,Cuffed-1.20.1-1.3.9.jar,,,
+simpleshops,Simple Shops,1.2.2,simpleshops-1.2.2.jar,,,
+supermartijn642corelib,SuperMartijn642's Core Lib,1.1.18,supermartijn642corelib-1.1.18-forge-mc1.20.1.jar,,https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-core-lib,https://github.com/SuperMartijn642/SuperMartijn642sCoreLib/issues
+lionfishapi,LionfishAPI,2.4-Fix,lionfishapi-2.4-Fix.jar,,,
+portablemobs,Portable Mobs,1.2.0,portablemobs-1.2.0-forge-mc1.20.jar,,https://www.curseforge.com/minecraft/mc-mods/portable-mobs,https://github.com/Dremoline/PortableMobs/issues
+cataclysm,cataclysm,2.65,L_Enders_Cataclysm 1.20.1-2.66.jar,,,
+camera,Camera Mod,1.20.1-1.0.20,camera-forge-1.20.1-1.0.20.jar,,https://www.curseforge.com/minecraft/mc-mods/camera-mod,https://github.com/henkelmax/camera/issues
+betterstrongholds,YUNG's Better Strongholds,1.20-Forge-4.0.3,YungsBetterStrongholds-1.20-Forge-4.0.3.jar,,https://www.curseforge.com/minecraft/mc-mods/yungs-better-strongholds,https://github.com/yungnickyoung/YUNGs-Better-Strongholds/issues
+tombstone,Corail Tombstone,8.9.4,tombstone-1.20.1-8.9.4.jar,,https://www.curseforge.com/minecraft/mc-mods/corail-tombstone/,https://github.com/Corail31/tombstone_lite/issues
+legendarysurvivaloverhaul,Legendary Survival Overhaul,1.20.1-1.20.1-2.3.9,legendarysurvivaloverhaul-1.20.1-2.3.9.jar,,https://github.com/sfiomn/LegendarySurvivalOverhaul,https://github.com/sfiomn/LegendarySurvivalOverhaul/issues
+curios,Curios API,5.14.1+1.20.1,curios-forge-5.14.1+1.20.1.jar,,https://www.curseforge.com/minecraft/mc-mods/curios,https://github.com/TheIllusiveC4/Curios/issues
+rootoffear,The Root of Fear,1.0.10,rootoffear-1.20.1-1.0.10.jar,,,
+deeperdarker,Deeper and Darker,1.3.3,deeperdarker-forge-1.20.1-1.3.3.jar,,,https://github.com/KyaniteMods/DeeperAndDarker/issues
+architectury,Architectury,9.2.14,architectury-9.2.14-forge.jar,,,https://github.com/shedaniel/architectury/issues
+mr_limesplatus_ending,True Ending: Ender Dragon Overhaul,1-v1.1.0c,tru.e-ending-v1.1.0c.jar,,https://modrinth.com/datapack/true-ending,
+betterendisland,YUNG's Better End Island,1.20-Forge-2.0.6,YungsBetterEndIsland-1.20-Forge-2.0.6.jar,,https://www.curseforge.com/minecraft/mc-mods/yungs-better-end-island,https://github.com/yungnickyoung/YUNGs-Better-End-Island/issues
+flightlib,Flight Lib,2.1.0,flightlib-forge-2.1.0.jar,,,https://github.com/pssbletrngle/flightlib/issues
+framework,Framework,0.7.12,framework-forge-1.20.1-0.7.12.jar,,https://mrcrayfish.com/mods?id=framework,
+illageandspillage,Illage and Spillage: Respillaged,1.2.8,illageandspillagerespillaged-1.2.8.jar,,https://www.curseforge.com/minecraft/mc-mods/illage-and-spillage-finally-ported,https://github.com/TheDarkPeasant/Illage-and-Spillage--Respillaged/issues
+fabulousfletching,FabulousFletching,1.0.0,FabulousFletchingV1.jar,,https://mcreator.net,
+bettermineshafts,YUNG's Better Mineshafts,1.20-Forge-4.0.4,YungsBetterMineshafts-1.20-Forge-4.0.4.jar,,https://www.curseforge.com/minecraft/mc-mods/yungs-better-mineshafts-forge,https://github.com/yungnickyoung/YUNGs-Better-Mineshafts/issues
+playerrevive,PlayerRevive,2.0.31,PlayerRevive_FORGE_v2.0.31_mc1.20.1.jar,,https://modrinth.com/mod/playerrevive,https://github.com/CreativeMD/PlayerRevive/issues
+mowziesmobs,Mowzie's Mobs,1.7.2,mowziesmobs-1.7.2.jar,,https://www.curseforge.com/minecraft/mc-mods/mowzies-mobs,https://github.com/BobMowzie/MowziesMobs/issues
+geckolib,GeckoLib 4,4.7.1.2,geckolib-forge-1.20.1-4.7.1.2.jar,,http://geckolib.com/,https://github.com/bernie-g/geckolib/issues
+cave_dweller,cave_dweller,1.6.4,cave_dweller-1.20.1-1.6.4.jar,,,
+trashslot,TrashSlot,15.1.2,trashslot-forge-1.20-15.1.2.jar,,https://mods.twelveiterations.com/mc/trashslot,https://github.com/TwelveIterationMods/TrashSlot/issues
+jei,Just Enough Items,15.20.0.106,jei-1.20.1-forge-15.20.0.106.jar,,https://www.curseforge.com/minecraft/mc-mods/jei,https://github.com/mezz/JustEnoughItems/issues?q=is%3Aissue
+jeg,Just Enough Guns,0.12.0,JustEnoughGuns-0.12.0-1.20.1.jar,,,
+goblintraders,Goblin Traders,1.9.3,goblintraders-forge-1.20.1-1.9.3.jar,,https://mrcrayfish.com/mods/goblintraders,https://github.com/MrCrayfish/GoblinTraders/issues
+caelus,Caelus API,3.2.0+1.20.1,caelus-forge-3.2.0+1.20.1.jar,,https://github.com/TheIllusiveC4/Caelus,https://github.com/TheIllusiveC4/Caelus/issues
+obscure_api,Obscure API,15,obscure_api-15.jar,,,
+waystones,Waystones,14.1.12,waystones-forge-1.20.1-14.1.12.jar,,https://mods.twelveiterations.com/mc/waystones,https://github.com/TwelveIterationMods/Waystones/issues
+integrated_api,Integrated API,1.5.3+1.20.1-forge,integrated_api-1.5.3+1.20.1-forge.jar,,https://www.curseforge.com/minecraft/mc-mods/integrated_api,
+naturescompass,Nature's Compass,1.20.1-1.11.2-forge,NaturesCompass-1.20.1-1.11.2-forge.jar,,https://github.com/MattCzyr/NaturesCompass,https://github.com/MattCzyr/NaturesCompass/issues
+artifacts,Artifacts,9.5.16,artifacts-forge-9.5.16.jar,,https://www.curseforge.com/minecraft/mc-mods/artifacts,https://github.com/ochotonida/artifacts/issues
+simplemissiles,Glaiden's Simple Missiles,1.6.2,simplemissiles-1.6.2-forge-1.20.1.jar,,https://discord.gg/crhq3Fny6v,
+northstar,Northstar,0.1cb-1.20.1,northstar-0.1cb-1.20.1.jar,,https://www.curseforge.com/minecraft/mc-mods/create-northstar,https://github.com/lightning2401/northstar/issues
+betterdeserttemples,YUNG's Better Desert Temples,1.20-Forge-3.0.3,YungsBetterDesertTemples-1.20-Forge-3.0.3.jar,,https://www.curseforge.com/minecraft/mc-mods/yungs-better-desert-temples,https://github.com/yungnickyoung/YUNGs-Better-Desert-Temples/issues
+iceandfire,Ice and Fire,2.1.13-1.20.1,iceandfire-2.1.13-1.20.1-beta-5.jar,,https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-dragons,https://github.com/Alex-the-666/ice-and-fire/issues
+terralith,Terralith,2.5.4,Terralith_1.20.x_v2.5.4.jar,,https://www.stardustlabs.net/,https://github.com/Stardust-Labs-MC/Terralith/issues
+watut,What Are They Up To,1.20.1-1.2.3,watut-forge-1.20.1-1.2.3.jar,,,
+forge,Forge,47.4.0,forge-1.20.1-47.4.0-universal.jar,,https://minecraftforge.net/,https://minecraftforge.net/
+emotecraft,Emotecraft,2.2.7-b.build.50,emotecraft-for-MC1.20.1-2.2.7-b.build.50-forge.jar,,,https://github.com/KosmX/emotes/issues
+minecraft,Minecraft,1.20.1,server-1.20.1-20230612.114412-srg.jar,,,
+born_in_chaos_v1,Born in Chaos ,1.7,born_in_chaos_[Forge]1.20.1_1.7.jar,,https://mcreator.net,
+realisticforgingores,RealisticForging - Ores,4.1.6,realisticforgingores - no tools -4.1.6-forge-1.20.1.jar,,https://www.curseforge.com/members/saltywater/projects,
+undead_revamp2,Undead_revamp2,1.0.0,THEUNDEADREVAMPED_1.7_1.20.1.jar,,https://mcreator.net,
+skyfall,Skyfall,3.0.0,skyfall-3.0.0-forge-1.20.1.jar,,https://mcreator.net,
+moonlight,Moonlight Library,1.20-2.14.1,moonlight-1.20-2.14.1-forge.jar,https://www.curseforge.com/minecraft/mc-mods/selene,,https://github.com/MehVahdJukaar/Moonlight/issues
+creativecore,CreativeCore,2.12.32,CreativeCore_FORGE_v2.12.32_mc1.20.1.jar,,https://modrinth.com/mod/creativecore,https://github.com/CreativeMD/CreativeCore/issues
+moltenmetal,Molten Metal,1.0.0,moltenmetal-1.0.7.jar,,https://www.curseforge.com/minecraft/mc-mods/molten-metal,
+revive_hardcore_players,Revive Hardcore Players,1.1,revive_hardcore_players-1.1-1.20.1.jar,,https://legacy.curseforge.com/project/968115,
+kotlinforforge,Kotlin For Forge,4.11.0,kffmod-4.11.0.jar,,,
+ribbits,Ribbits,1.20.1-Forge-3.0.4,Ribbits-1.20.1-Forge-3.0.4.jar,,https://www.curseforge.com/minecraft/mc-mods/ribbits,https://github.com/yungnickyoung/Ribbits/issues
+iceberg,Iceberg,1.1.25,Iceberg-1.20.1-forge-1.1.25.jar,,https://anthonyhilyard.com/,
+flywheel,Flywheel,0.6.11-13,flywheel-forge-1.20.1-0.6.11-13.jar,,https://www.curseforge.com/minecraft/mc-mods/flywheel,https://github.com/Jozufozu/Flywheel/issues
+create,Create,0.5.1.h,create-1.20.1-0.5.1.h.jar,,https://www.curseforge.com/minecraft/mc-mods/create,https://github.com/Creators-of-Create/Create/issues
+bogos_binted,Bogos_BInted,1.0.0,bogos_binted-1.0.0-forge-1.20.1.jar,,https://mcreator.net,
+securitycraft,SecurityCraft,1.10.0.1,[1.20.1] SecurityCraft v1.10.0.1.jar,,https://discord.gg/U8DvBAW,http://github.com/Geforce132/SecurityCraft/issues
+legendary_monsters,LegendaryMonsters,1.20.1,legendarymonsters-1.9.4 MC 1.20.1.jar,,,
+zeta,Zeta,1.0-30,Zeta-1.0-30.jar,,,https://github.com/VazkiiMods/Zeta
+irons_spellbooks,Iron's Spells 'n Spellbooks,1.20.1-3.4.0.9,irons_spellbooks-1.20.1-3.4.0.9.jar,,https://www.curseforge.com/minecraft/mc-mods/irons-spells-n-spellbooks,https://github.com/iron431/Irons-Spells-n-Spellbooks/issues
+legendarycreatures,Legendary Creatures,1.20.1-1.0.15,legendarycreatures-1.20.1-1.0.15.jar,,,https://github.com/sfiomn/LegendaryCreatures/issues
+coroutil,CoroUtil,1.20.1-1.3.7,coroutil-forge-1.20.1-1.3.7.jar,,,
+lootr,Lootr,0.7.35.91,lootr-forge-1.20-0.7.35.91.jar,,https://minecraft.curseforge.com/projects/lootr,https://github.com/noobanidus/Lootr/issues
+locks,Locks-Unoffical,1.20.1-1.2.4,Locks-Unoffical-forge-1.20.1-1.2.4.jar,,,
+quark,Quark,4.0-462,Quark-4.0-462.jar,,,https://github.com/VazkiiMods/Quark
+enhancedcelestials,Enhanced Celestials,1.20.1-5.0.3.1,Enhanced-Celestials-forge-1.20.1-5.0.3.1.jar,,,https://github.com/CorgiTaco/Enhanced-Celestials/issues
+dataanchor,Data Anchor,1.0.0.19,Data_Anchor-forge-1.20.1-1.0.0.19.jar,,,
+corgilib,CorgiLib,4.0.3.3,Corgilib-Forge-1.20.1-4.0.3.3.jar,,https://github.com/CorgiTaco/CorgiLib,https://github.com/CorgiTaco/CorgiLib/issues
+the_knocker,The Knocker,1.4.0,the_knocker-1.4.0-forge-1.20.1.jar,,https://discord.gg/mproductions,
+expandability,ExpandAbility,9.0.4,expandability-forge-9.0.4.jar,,,https://github.com/florensie/expandability/issues
+lazrslib,Lazr's Lib,1.1.1,Lazr's Lib-1.20-1.1.1.jar,,,
+aquamirae,Aquamirae,6.API15,aquamirae-6.API15.jar,,,

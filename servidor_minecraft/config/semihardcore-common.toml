@@ -1,0 +1,28 @@
+"Enable Max Health" = false
+"Enable Lives" = true
+
+["Max Health"]
+	#How much max health players spawn with
+	#Range: > 1
+	"Starting Health" = 20
+	#Max health lost when the player dies. Negative numbers can be used to give health to players.
+	#Range: > -2147483648
+	"Health Penalty" = 2
+
+	#Min and max max health players can gain/lose
+	["Max Health".Cap]
+		#Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
+		Minimum = -19.0
+		#Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
+		Maximum = 0.0
+
+[Lives]
+	#How many lives players spawn with
+	#Range: > 1
+	"Starting Lives" = 10
+	#Max lives players can gain. 0 for infinite
+	#Range: > 0
+	"Max Lives" = 15
+	#Announce players' life lost to chat
+	"Announce Life Lost to Chat" = true
+

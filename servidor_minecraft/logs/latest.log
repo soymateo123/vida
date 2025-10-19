@@ -1,0 +1,1432 @@
+[18May2025 00:49:59.840] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.4.0, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[18May2025 00:49:59.846] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
+[18May2025 00:50:00.793] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[18May2025 00:50:00.858] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/vida/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[18May2025 00:50:01.401] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/vida/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.4.0/fmlcore-1.20.1-47.4.0.jar is missing mods.toml file
+[18May2025 00:50:01.403] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/vida/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.4.0/javafmllanguage-1.20.1-47.4.0.jar is missing mods.toml file
+[18May2025 00:50:01.404] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/vida/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.4.0/lowcodelanguage-1.20.1-47.4.0.jar is missing mods.toml file
+[18May2025 00:50:01.406] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/vida/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.4.0/mclanguage-1.20.1-47.4.0.jar is missing mods.toml file
+[18May2025 00:50:01.827] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[18May2025 00:50:01.829] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 11 dependencies adding them to mods collection
+[18May2025 00:50:05.485] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[18May2025 00:50:05.749] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[18May2025 00:50:06.059] [main/WARN] [mixin/]: Reference map 'trashslot.refmap.json' for trashslot.mixins.json could not be read. If this is a development environment you can ignore this message
+[18May2025 00:50:06.139] [main/WARN] [mixin/]: Reference map 'coroutil.refmap.json' for coroutil.mixins.json could not be read. If this is a development environment you can ignore this message
+[18May2025 00:50:06.187] [main/WARN] [mixin/]: Reference map 'Aquamirae.refmap.json' for aquamirae.mixins.json could not be read. If this is a development environment you can ignore this message
+[18May2025 00:50:07.581] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/entity/PhantomRenderer (java.lang.ClassNotFoundException: net.minecraft.client.renderer.entity.PhantomRenderer)
+[18May2025 00:50:07.581] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.entity.PhantomRenderer was not found mixins.deeperdarker.json:PhantomRendererMixin
+[18May2025 00:50:08.997] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[18May2025 00:50:12.608] [main/WARN] [mixin/]: @Final field f_153459_:Lnet/minecraft/world/level/block/state/properties/BooleanProperty; in northstar.mixins.json:blockstuff.LanternBlockMixin should be final
+[18May2025 00:50:12.608] [main/WARN] [mixin/]: @Final field f_153460_:Lnet/minecraft/world/level/block/state/properties/BooleanProperty; in northstar.mixins.json:blockstuff.LanternBlockMixin should be final
+[18May2025 00:50:16.156] [main/WARN] [mixin/]: @Final field f_26027_:Lnet/minecraft/world/entity/ai/targeting/TargetingConditions; in guardvillagers.mixins.json:DefendVillageGoalGolemMixin should be final
+[18May2025 00:50:18.175] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.insanelib.module.base.TagsFeature
+[18May2025 00:50:18.197] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.insanelib.module.base.FixesFeature
+[18May2025 00:50:18.212] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.insanelib.module.base.BaseFeature
+[18May2025 00:50:18.224] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.insanelib.module.base.AreaEffectCloud3DFeature
+[18May2025 00:50:18.576] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/vida/servidor_minecraft/config/guardvillagers-common.toml is not correct. Correcting
+[18May2025 00:50:18.982] [modloading-worker-0/INFO] [Create: Interiors/]: Create: Interiors v0.5.6 initializing! Create version: 0.5.1h on platform: Forge
+[18May2025 00:50:19.302] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Successfully initialized!
+[18May2025 00:50:19.302] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Server-side libs ready to use!
+[18May2025 00:50:19.329] [modloading-worker-0/INFO] [lazrslib/]: Built config 'cuffed' Successfully!
+[18May2025 00:50:19.461] [modloading-worker-0/INFO] [cuffed/]: Registered restraints
+[18May2025 00:50:20.131] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[18May2025 00:50:20.411] [modloading-worker-0/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: Could not find parent net/minecraft/client/renderer/entity/layers/RenderLayer for class com/obscuria/obscureapi/client/renderer/PatreonLayer in classloader cpw.mods.modlauncher.TransformingClassLoader@73afe2b7 on thread Thread[modloading-worker-0,5,main]
+[18May2025 00:50:20.412] [modloading-worker-0/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: An error occurred building event handler
+java.lang.ClassNotFoundException: net.minecraft.client.renderer.entity.layers.RenderLayer
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:141) ~[securejarhandler-2.1.10.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at net.minecraftforge.eventbus.EventSubclassTransformer.buildEvents(EventSubclassTransformer.java:97) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventSubclassTransformer.transform(EventSubclassTransformer.java:48) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBusEngine.processClass(EventBusEngine.java:26) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.service.ModLauncherService.processClassWithFlags(ModLauncherService.java:32) ~[eventbus-6.0.5.jar%2352!/:6.0.5+6.0.5+master.eb8e549b]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.10.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at java.lang.ClassLoader.defineClass0(Native Method) ~[?:?]
+	at java.lang.System$2.defineClass(System.java:2324) ~[?:?]
+	at java.lang.invoke.MethodHandles$Lookup$ClassDefiner.defineClass(MethodHandles.java:2439) ~[?:?]
+	at java.lang.invoke.MethodHandles$Lookup$ClassDefiner.defineClassAsLookup(MethodHandles.java:2420) ~[?:?]
+	at java.lang.invoke.MethodHandles$Lookup.defineHiddenClass(MethodHandles.java:2127) ~[?:?]
+	at java.lang.invoke.InnerClassLambdaMetafactory.generateInnerClass(InnerClassLambdaMetafactory.java:407) ~[?:?]
+	at java.lang.invoke.InnerClassLambdaMetafactory.spinInnerClass(InnerClassLambdaMetafactory.java:315) ~[?:?]
+	at java.lang.invoke.InnerClassLambdaMetafactory.buildCallSite(InnerClassLambdaMetafactory.java:228) ~[?:?]
+	at java.lang.invoke.LambdaMetafactory.metafactory(LambdaMetafactory.java:341) ~[?:?]
+	at java.lang.invoke.BootstrapMethodInvoker.invoke(BootstrapMethodInvoker.java:134) ~[?:?]
+	at java.lang.invoke.CallSite.makeSite(CallSite.java:315) ~[?:?]
+	at java.lang.invoke.MethodHandleNatives.linkCallSiteImpl(MethodHandleNatives.java:281) ~[?:?]
+	at java.lang.invoke.MethodHandleNatives.linkCallSite(MethodHandleNatives.java:271) ~[?:?]
+	at com.obscuria.obscureapi.client.renderer.PatreonLayer$Mode.<clinit>(PatreonLayer.java:55) ~[obscure_api-15.jar%23247!/:com.obscuria]
+	at com.obscuria.obscureapi.ObscureAPIConfig$Client.<clinit>(ObscureAPIConfig.java:28) ~[obscure_api-15.jar%23247!/:com.obscuria]
+	at com.obscuria.obscureapi.ObscureAPIConfig.register(ObscureAPIConfig.java:46) ~[obscure_api-15.jar%23247!/:com.obscuria]
+	at com.obscuria.obscureapi.ObscureAPI.<init>(ObscureAPI.java:69) ~[obscure_api-15.jar%23247!/:com.obscuria]
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:?]
+	at java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500) ~[?:?]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:481) ~[?:?]
+	at net.minecraftforge.fml.javafmlmod.FMLModContainer.constructMod(FMLModContainer.java:77) ~[javafmllanguage-1.20.1-47.4.0.jar%23287!/:?]
+	at net.minecraftforge.fml.ModContainer.lambda$buildTransitionHandler$5(ModContainer.java:126) ~[fmlcore-1.20.1-47.4.0.jar%23286!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[18May2025 00:50:20.418] [modloading-worker-0/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class com/obscuria/obscureapi/client/renderer/PatreonLayer for invalid dist DEDICATED_SERVER
+[18May2025 00:50:20.780] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
+[18May2025 00:50:20.784] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
+[18May2025 00:50:20.793] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
+[18May2025 00:50:20.796] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
+[18May2025 00:50:20.797] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
+[18May2025 00:50:20.805] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
+[18May2025 00:50:20.808] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
+[18May2025 00:50:21.075] [modloading-worker-0/INFO] [coroutil/]: forge loader environment detected
+[18May2025 00:50:21.151] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.4.0, for MC 1.20.1 with MCP 20230612.114412
+[18May2025 00:50:21.151] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.4.0 Initialized
+[18May2025 00:50:23.173] [modloading-worker-0/INFO] [thedarkcolour.kotlinforforge.test.KotlinForForge/]: Kotlin For Forge Enabled!
+[18May2025 00:50:23.714] [modloading-worker-0/INFO] [zeta/]: Doing super early config setup for zeta
+[18May2025 00:50:24.321] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
+[18May2025 00:50:24.525] [modloading-worker-0/INFO] [quark-zeta/]: Discovered 164 modules to load.
+[18May2025 00:50:24.526] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Abacus...
+[18May2025 00:50:24.549] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Adjustable Chat...
+[18May2025 00:50:24.552] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Ambient Discs...
+[18May2025 00:50:24.553] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Ancient Tomes...
+[18May2025 00:50:24.573] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Ancient Wood...
+[18May2025 00:50:24.602] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Armed Armor Stands...
+[18May2025 00:50:24.603] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Auto Walk Keybind...
+[18May2025 00:50:24.603] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Automatic Recipe Unlock...
+[18May2025 00:50:24.604] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Automatic Tool Restock...
+[18May2025 00:50:24.609] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Azalea Wood...
+[18May2025 00:50:24.612] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Back Button Keybind...
+[18May2025 00:50:24.613] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Backpack...
+[18May2025 00:50:24.633] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Beacon Redirection...
+[18May2025 00:50:24.633] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Better Elytra Rocket...
+[18May2025 00:50:24.634] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Big Stone Clusters...
+[18May2025 00:50:24.648] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Blossom Trees...
+[18May2025 00:50:24.650] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Bottled Cloud...
+[18May2025 00:50:24.653] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Buckets Show Inhabitants...
+[18May2025 00:50:24.653] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Camera...
+[18May2025 00:50:24.656] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Campfires Boost Elytra...
+[18May2025 00:50:24.656] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Celebratory Lamps...
+[18May2025 00:50:24.657] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Chains Connect Blocks...
+[18May2025 00:50:24.659] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Chest Searching...
+[18May2025 00:50:24.659] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Chorus Vegetation...
+[18May2025 00:50:24.661] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Chute...
+[18May2025 00:50:24.663] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Climate Control Remover...
+[18May2025 00:50:24.664] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Color Runes...
+[18May2025 00:50:24.668] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Compasses Work Everywhere...
+[18May2025 00:50:24.668] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Compressed Blocks...
+[18May2025 00:50:24.669] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Coral On Cactus...
+[18May2025 00:50:24.670] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Corundum...
+[18May2025 00:50:24.701] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Crabs...
+[18May2025 00:50:24.703] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Crafter...
+[18May2025 00:50:24.707] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Crate...
+[18May2025 00:50:24.710] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Diamond Repair...
+[18May2025 00:50:24.710] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Dispensers Place Blocks...
+[18May2025 00:50:24.711] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Double Door Opening...
+[18May2025 00:50:24.715] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Dragon Scales...
+[18May2025 00:50:24.715] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Duskbound Blocks...
+[18May2025 00:50:24.718] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Dyeable Item Frames...
+[18May2025 00:50:24.721] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Easy Transfering...
+[18May2025 00:50:24.722] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Elytra Indicator...
+[18May2025 00:50:24.722] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Emotes...
+[18May2025 00:50:24.725] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Enchantment Predicates...
+[18May2025 00:50:24.726] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Enchantments Begone...
+[18May2025 00:50:24.727] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Ender Watcher...
+[18May2025 00:50:24.729] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Endermosh Music Disc...
+[18May2025 00:50:24.732] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Enhanced Ladders...
+[18May2025 00:50:24.733] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Expanded Item Interactions...
+[18May2025 00:50:24.735] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Fairy Rings...
+[18May2025 00:50:24.736] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Fallen Logs...
+[18May2025 00:50:24.737] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Feeding Trough...
+[18May2025 00:50:24.740] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Forgotten...
+[18May2025 00:50:24.751] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Foxhound...
+[18May2025 00:50:24.757] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Framed Glass...
+[18May2025 00:50:24.757] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Game Nerfs...
+[18May2025 00:50:24.761] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Glass Item Frame...
+[18May2025 00:50:24.764] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Glass Shard...
+[18May2025 00:50:24.765] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Glimmering Weald...
+[18May2025 00:50:24.784] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Gold Bars...
+[18May2025 00:50:24.785] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Gold Tools Have Fortune...
+[18May2025 00:50:24.789] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Grab Chickens...
+[18May2025 00:50:24.789] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Grate...
+[18May2025 00:50:24.792] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Gravisand...
+[18May2025 00:50:24.793] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Greener Grass...
+[18May2025 00:50:24.798] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Hedges...
+[18May2025 00:50:24.801] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Hoe Harvesting...
+[18May2025 00:50:24.804] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Hollow Logs...
+[18May2025 00:50:24.807] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Horses Swim...
+[18May2025 00:50:24.808] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Hotbar Changer...
+[18May2025 00:50:24.808] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Improved Sponges...
+[18May2025 00:50:24.808] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Improved Tooltips...
+[18May2025 00:50:24.810] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Industrial Palette...
+[18May2025 00:50:24.812] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Inventory Sorting...
+[18May2025 00:50:24.813] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Iron Rod...
+[18May2025 00:50:24.823] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Item Sharing...
+[18May2025 00:50:24.824] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Japanese Palette...
+[18May2025 00:50:24.824] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Leaf Carpet...
+[18May2025 00:50:24.825] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Lock Rotation...
+[18May2025 00:50:24.826] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Long Range Pick Block...
+[18May2025 00:50:24.826] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Magma Keeps Concrete Powder...
+[18May2025 00:50:24.826] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Magnets...
+[18May2025 00:50:24.831] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Map Washing...
+[18May2025 00:50:24.832] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Matrix Enchanting...
+[18May2025 00:50:24.840] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Metal Buttons...
+[18May2025 00:50:24.840] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Microcrafting Helper...
+[18May2025 00:50:24.841] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Midori...
+[18May2025 00:50:24.841] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Monster Box...
+[18May2025 00:50:24.842] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module More Banner Layers...
+[18May2025 00:50:24.842] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module More Brick Types...
+[18May2025 00:50:24.843] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module More Mud Blocks...
+[18May2025 00:50:24.843] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module More Note Block Sounds...
+[18May2025 00:50:24.844] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module More Potted Plants...
+[18May2025 00:50:24.844] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module More Villagers...
+[18May2025 00:50:24.845] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Narrator Readout...
+[18May2025 00:50:24.845] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Nether Brick Fence Gate...
+[18May2025 00:50:24.845] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Nether Obsidian Spikes...
+[18May2025 00:50:24.847] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module New Stone Types...
+[18May2025 00:50:24.850] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module No Durability On Cosmetics...
+[18May2025 00:50:24.851] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module No More Lava Pockets...
+[18May2025 00:50:24.854] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Obsidian Plate...
+[18May2025 00:50:24.854] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Overlay Shader...
+[18May2025 00:50:24.855] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Parrot Eggs...
+[18May2025 00:50:24.857] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Pat The Dogs...
+[18May2025 00:50:24.867] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Pathfinder Maps...
+[18May2025 00:50:24.871] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Permafrost...
+[18May2025 00:50:24.873] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Petals On Water...
+[18May2025 00:50:24.875] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Pickarang...
+[18May2025 00:50:24.879] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Pig Litters...
+[18May2025 00:50:24.881] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Pipes...
+[18May2025 00:50:24.888] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Pistons Move Tile Entities...
+[18May2025 00:50:24.890] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Poison Potato Usage...
+[18May2025 00:50:24.891] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Quick Armor Swapping...
+[18May2025 00:50:24.893] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Rainbow Lamps...
+[18May2025 00:50:24.893] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Raw Metal Bricks...
+[18May2025 00:50:24.894] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Reacharound Placing...
+[18May2025 00:50:24.895] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Redstone Randomizer...
+[18May2025 00:50:24.898] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Renewable Spore Blossoms...
+[18May2025 00:50:24.899] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Replace Scaffolding...
+[18May2025 00:50:24.900] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Rope...
+[18May2025 00:50:24.902] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Safer Creatures...
+[18May2025 00:50:24.903] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Seed Pouch...
+[18May2025 00:50:24.908] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Shear Vines...
+[18May2025 00:50:24.921] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Shiba...
+[18May2025 00:50:24.923] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Shingles...
+[18May2025 00:50:24.925] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Shulker Packing...
+[18May2025 00:50:24.925] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Simple Harvest...
+[18May2025 00:50:24.926] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Skull Pikes...
+[18May2025 00:50:24.932] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Slabs To Blocks...
+[18May2025 00:50:24.935] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Slime In A Bucket...
+[18May2025 00:50:24.942] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Slimes To Magma Cubes...
+[18May2025 00:50:24.942] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Snow Golem Player Heads...
+[18May2025 00:50:24.943] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Soul Candles...
+[18May2025 00:50:24.943] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Soul Sandstone...
+[18May2025 00:50:24.943] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Spawner Replacer...
+[18May2025 00:50:24.947] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Spiral Spires...
+[18May2025 00:50:24.954] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Stonelings...
+[18May2025 00:50:24.955] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Stools...
+[18May2025 00:50:24.956] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Sturdy Stone...
+[18May2025 00:50:24.956] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Thatch...
+[18May2025 00:50:24.965] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Tiny Potato...
+[18May2025 00:50:24.967] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Torch Arrow...
+[18May2025 00:50:24.970] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Toretoise...
+[18May2025 00:50:24.973] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Totem Of Holding...
+[18May2025 00:50:24.978] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Trowel...
+[18May2025 00:50:24.980] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Usage Ticker...
+[18May2025 00:50:24.980] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Uses For Curses...
+[18May2025 00:50:24.982] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Utility Recipes...
+[18May2025 00:50:24.982] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Variant Animal Textures...
+[18May2025 00:50:24.983] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Variant Bookshelves...
+[18May2025 00:50:24.984] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Variant Chests...
+[18May2025 00:50:24.999] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Variant Furnaces...
+[18May2025 00:50:25.016] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Variant Ladders...
+[18May2025 00:50:25.016] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Variant Selector...
+[18May2025 00:50:25.022] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Vertical Planks...
+[18May2025 00:50:25.022] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Vertical Slabs...
+[18May2025 00:50:25.037] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Vexes Die With Their Masters...
+[18May2025 00:50:25.038] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Villager Rerolling Rework...
+[18May2025 00:50:25.038] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Villagers Follow Emeralds...
+[18May2025 00:50:25.039] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Wooden Posts...
+[18May2025 00:50:25.040] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Wool Shuts Up Minecarts...
+[18May2025 00:50:25.041] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Wraith...
+[18May2025 00:50:25.042] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Zombie Villagers On Normal...
+[18May2025 00:50:25.045] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module More Stone Variants...
+[18May2025 00:50:25.046] [modloading-worker-0/INFO] [quark-zeta/]: Constructed 164 modules.
+[18May2025 00:50:25.141] [modloading-worker-0/INFO] [quark-zeta/]: Doing super early config setup for quark
+[18May2025 00:50:25.503] [main/INFO] [cuffed/]: Registering Capabilities for Cuffed
+[18May2025 00:50:25.518] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: The object net.minecraft.sounds.SoundEvent@70d444ed has been registered twice for the same name treechop:chop_wood.
+[18May2025 00:50:25.524] [main/INFO] [cuffed/]: Registering sound for Cuffed
+[18May2025 00:50:33.807] [main/INFO] [Moonlight/]: Initialized block sets in 23ms
+[18May2025 00:50:34.846] [main/INFO] [cuffed/]: Cuffed has found a foreign restraint registry, registering with Restraint API
+[18May2025 00:50:35.045] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class com.lazrproductions.cuffed.entity.WeightedAnchorEntity
+[18May2025 00:50:35.100] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.mcreator.borninchaosv.entity.BabySpiderEntity from class net.mcreator.borninchaosv.entity.MotherSpiderEntity
+[18May2025 00:50:35.197] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/vida/servidor_minecraft/config/legendary_additions.toml is not correct. Correcting
+[18May2025 00:50:35.198] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Obelisk. Default Obelisk Xp Values In Creative Tab was corrected from [250, 500, 1000, 1500] to its default, [250, 500, 1000, 1500]. 
+[18May2025 00:50:35.198] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Spawners.SpiderEggs. Mobs spawning when activated. Formatted like 'mob namespace; weight' was corrected from [minecraft:spider;20] to its default, [minecraft:spider;20]. 
+[18May2025 00:50:35.200] [Thread-2/WARN] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Configuration file /workspaces/vida/servidor_minecraft/config/legendary_additions.toml is not correct. Correcting
+[18May2025 00:50:35.202] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/vida/servidor_minecraft/config/guardvillagers-common.toml is not correct. Correcting
+[18May2025 00:50:35.309] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/vida/servidor_minecraft/config/legendarysurvivaloverhaul/legendarysurvivaloverhaul-common.toml is not correct. Correcting
+[18May2025 00:50:35.310] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key body-damage.healing-items.first-aid-supplies.First Aid Supplies Boosted On Effects was corrected from [minecraft:regeneration, farmersdelight:comfort] to its default, [minecraft:regeneration, farmersdelight:comfort]. 
+[18May2025 00:50:35.320] [Thread-2/WARN] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Configuration file /workspaces/vida/servidor_minecraft/config/legendarysurvivaloverhaul/legendarysurvivaloverhaul-common.toml is not correct. Correcting
+[18May2025 00:50:35.377] [Thread-2/INFO] [zeta/]: About to refresh zeta's config, looking for better thread than 'Thread-2'...
+[18May2025 00:50:35.378] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/vida/servidor_minecraft/config/legendarycreatures/legendarycreatures-common.toml is not correct. Correcting
+[18May2025 00:50:35.378] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key MobSpawning.wisp.Wisp Purse Xp Reward Range  was corrected from [30, 30] to its default, [30, 30]. 
+[18May2025 00:50:35.378] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key MobSpawning.nether_wisp.Nether Wisp Purse Xp Reward Range  was corrected from [80, 80] to its default, [80, 80]. 
+[18May2025 00:50:35.378] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key MobSpawning.ender_wisp.Ender Wisp Purse Xp Reward Range  was corrected from [240, 240] to its default, [240, 240]. 
+[18May2025 00:50:35.379] [Thread-2/WARN] [zeta/]: Using thread 'Thread-2' instead of the server thread
+[18May2025 00:50:35.380] [Thread-2/INFO] [zeta/]: zeta's config is 'BEFORE_INIT', ignoring config refresh. Current thread: Thread-2
+[18May2025 00:50:35.382] [Thread-2/WARN] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Configuration file /workspaces/vida/servidor_minecraft/config/legendarycreatures/legendarycreatures-common.toml is not correct. Correcting
+[18May2025 00:50:35.389] [Thread-2/INFO] [zeta/]: About to refresh zeta's config, looking for better thread than 'Thread-2'...
+[18May2025 00:50:35.390] [Thread-2/WARN] [zeta/]: Using thread 'Thread-2' instead of the server thread
+[18May2025 00:50:35.391] [Thread-2/INFO] [zeta/]: zeta's config is 'BEFORE_INIT', ignoring config refresh. Current thread: Thread-2
+[18May2025 00:50:35.410] [Thread-2/INFO] [quark-zeta/]: About to refresh quark's config, looking for better thread than 'Thread-2'...
+[18May2025 00:50:35.411] [Thread-2/WARN] [quark-zeta/]: Using thread 'Thread-2' instead of the server thread
+[18May2025 00:50:35.411] [Thread-2/INFO] [quark-zeta/]: quark's config is 'BEFORE_INIT', ignoring config refresh. Current thread: Thread-2
+[18May2025 00:50:35.415] [Thread-2/INFO] [quark-zeta/]: About to refresh quark's config, looking for better thread than 'Thread-2'...
+[18May2025 00:50:35.416] [Thread-2/WARN] [quark-zeta/]: Using thread 'Thread-2' instead of the server thread
+[18May2025 00:50:35.417] [Thread-2/INFO] [quark-zeta/]: quark's config is 'BEFORE_INIT', ignoring config refresh. Current thread: Thread-2
+[18May2025 00:50:35.505] [modloading-worker-0/INFO] [cuffed/]: Running commmon setup for Cuffed
+[18May2025 00:50:35.734] [modloading-worker-0/INFO] [com.lightning.northstar.Northstar/]: HELLO FROM COMMON SETUP
+[18May2025 00:50:35.734] [modloading-worker-0/INFO] [com.lightning.northstar.Northstar/]: DIRT BLOCK >> minecraft:dirt
+[18May2025 00:50:36.115] [modloading-worker-0/INFO] [CorgiLib/]: Initializing network...
+[18May2025 00:50:36.131] [modloading-worker-0/INFO] [CorgiLib/]: Initialized network!
+[18May2025 00:50:36.149] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [create_jetpack] Starting version check at https://api.modrinth.com/updates/create-jetpack/forge_updates.json
+[18May2025 00:50:36.455] [main/INFO] [ribbits/]: Registering Ribbit umbrella types...
+[18May2025 00:50:36.457] [main/INFO] [ribbits/]: Registering Ribbit professions...
+[18May2025 00:50:36.457] [main/INFO] [ribbits/]: Registering Ribbit instruments...
+[18May2025 00:50:36.459] [main/INFO] [ribbits/]: Registering Ribbit data serializers...
+[18May2025 00:50:36.561] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [create_jetpack] Found status: OUTDATED Current: 4.3.0 Target: 4.4.0
+[18May2025 00:50:36.561] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [prism] Starting version check at https://mc-update-check.anthonyhilyard.com/638111
+[18May2025 00:50:36.648] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key jeg:aiming for minecraft:player
+[18May2025 00:50:36.648] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key jeg:reloading for minecraft:player
+[18May2025 00:50:36.648] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key jeg:shooting for minecraft:player
+[18May2025 00:50:36.649] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key jeg:burst_count for minecraft:player
+[18May2025 00:50:36.789] [main/INFO] [Moonlight/]: Initialized color sets in 73ms
+[18May2025 00:50:36.864] [main/INFO] [zeta/]: Common setup: Performing initial refresh of zeta's config on thread 'main'
+[18May2025 00:50:36.864] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [prism] Found status: UP_TO_DATE Current: 1.0.5 Target: null
+[18May2025 00:50:36.865] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [guardvillagers] Starting version check at https://raw.githubusercontent.com/seymourimadeit/guardvillagers/master/update.json
+[18May2025 00:50:36.866] [main/INFO] [zeta/]: 'zeta' is enabling Zeta's piston structure resolver.
+[18May2025 00:50:36.867] [main/INFO] [zeta/]: Waiting for server start before accepting filewatcher changes to zeta's config
+[18May2025 00:50:36.876] [main/INFO] [quark-zeta/]: Common setup: Performing initial refresh of quark's config on thread 'main'
+[18May2025 00:50:36.903] [main/INFO] [quark-zeta/]: Waiting for server start before accepting filewatcher changes to quark's config
+[18May2025 00:50:36.907] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [guardvillagers] Found status: BETA Current: 1.20.1-1.6.10 Target: 1.20-1.6.5
+[18May2025 00:50:36.908] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[18May2025 00:50:36.925] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: UP_TO_DATE Current: 8.9.4 Target: null
+[18May2025 00:50:36.926] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_limesplatus_ending] Starting version check at https://api.modrinth.com/updates/MCnBYP0b/forge_updates.json
+[18May2025 00:50:36.971] [modloading-worker-0/INFO] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Got IMC []
+[18May2025 00:50:36.999] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_limesplatus_ending] Found status: OUTDATED Current: 1-v1.1.0c Target: 1.1.0c+mod
+[18May2025 00:50:36.999] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
+[18May2025 00:50:37.016] [main/INFO] [sfiomn.legendarysurvivaloverhaul.LegendarySurvivalOverhaul/]: Unknown effect farmersdelight:comfort
+[18May2025 00:50:37.181] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:37.182] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:37.182] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:37.182] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:37.182] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:37.183] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:37.183] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:37.183] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:37.183] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:37.183] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:37.184] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:37.184] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:37.184] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:37.184] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:37.184] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:37.185] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:37.185] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:37.185] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:37.185] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:37.185] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:37.186] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:37.186] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:37.186] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:37.186] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:37.186] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:37.186] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:37.187] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:37.187] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:37.187] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:37.187] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:37.187] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:37.187] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:37.188] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:37.188] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:37.188] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:37.188] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:37.188] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:37.189] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:37.189] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:37.189] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:37.189] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:37.189] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:37.190] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:37.190] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:37.190] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:37.190] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:37.190] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:37.190] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:37.192] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:37.192] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:37.192] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:37.192] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:37.192] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:37.192] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:37.193] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:37.193] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:37.193] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:37.193] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:37.193] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:37.193] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:37.195] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:37.195] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:37.195] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:37.195] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:37.195] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:37.195] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:37.196] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:37.196] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:37.196] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:37.196] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:37.198] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:37.199] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:37.199] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:37.199] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:37.200] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:37.200] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:37.200] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:37.200] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:37.201] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:37.201] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:37.201] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:37.201] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:37.202] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:37.202] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:37.202] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:37.202] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:37.202] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:37.202] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:37.203] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:37.203] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:37.203] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:37.203] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:37.203] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:37.203] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:37.204] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:37.204] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:37.204] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:37.204] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:37.204] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:37.204] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:37.204] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:37.205] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:37.205] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:37.205] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:37.206] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
+	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:969) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:186) ~[fmlcore-1.20.1-47.4.0.jar%23286!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:117) ~[fmlcore-1.20.1-47.4.0.jar%23286!/:?]
+Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
+	at com.google.gson.stream.JsonReader.beginObject(JsonReader.java:393) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:182) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	... 6 more
+[18May2025 00:50:37.208] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Starting version check at https://mrcrayfish.com/modupdatejson?id=goblintraders
+[18May2025 00:50:37.205] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:37.209] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:37.209] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:37.209] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:37.209] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:37.209] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:37.210] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:37.210] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:37.210] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:37.210] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:37.210] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:37.210] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:37.210] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:37.211] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:37.211] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:37.211] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:37.211] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:37.211] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:37.211] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:37.212] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:37.212] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:37.212] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:37.212] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:37.212] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:37.212] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:37.212] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:37.214] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:37.214] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:37.214] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:37.214] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:37.247] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
+	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:969) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:186) ~[fmlcore-1.20.1-47.4.0.jar%23286!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:117) ~[fmlcore-1.20.1-47.4.0.jar%23286!/:?]
+Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
+	at com.google.gson.stream.JsonReader.beginObject(JsonReader.java:393) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:182) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	... 6 more
+[18May2025 00:50:37.249] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [obscure_api] Starting version check at https://raw.githubusercontent.com/ObscuriaLithium/Home/main/obscure_api/versions.json
+[18May2025 00:50:37.259] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER at line 1 column 4 path $
+	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:969) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:186) ~[fmlcore-1.20.1-47.4.0.jar%23286!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:117) ~[fmlcore-1.20.1-47.4.0.jar%23286!/:?]
+Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER at line 1 column 4 path $
+	at com.google.gson.stream.JsonReader.beginObject(JsonReader.java:393) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:182) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	... 6 more
+[18May2025 00:50:37.260] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[18May2025 00:50:37.394] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: UP_TO_DATE Current: 47.4.0 Target: null
+[18May2025 00:50:37.394] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Moonlight/multi-loader/forge/update.json
+[18May2025 00:50:37.404] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Found status: BETA Current: 1.20-2.14.1 Target: null
+[18May2025 00:50:37.405] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iceberg] Starting version check at https://mc-update-check.anthonyhilyard.com/520110
+[18May2025 00:50:37.434] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iceberg] Found status: UP_TO_DATE Current: 1.1.25 Target: null
+[18May2025 00:50:37.434] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Starting version check at https://api.modrinth.com/updates/flywheel/forge_updates.json
+[18May2025 00:50:37.475] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Found status: BETA Current: 0.6.11-13 Target: null
+[18May2025 00:50:37.475] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[18May2025 00:50:37.625] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: AHEAD Current: 1.10.0.1 Target: null
+[18May2025 00:50:37.625] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [aquamirae] Starting version check at https://raw.githubusercontent.com/ObscuriaLithium/Home/main/aquamirae/versions.json
+[18May2025 00:50:37.673] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER at line 1 column 4 path $
+	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:969) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:186) ~[fmlcore-1.20.1-47.4.0.jar%23286!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:117) ~[fmlcore-1.20.1-47.4.0.jar%23286!/:?]
+Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER at line 1 column 4 path $
+	at com.google.gson.stream.JsonReader.beginObject(JsonReader.java:393) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:182) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	... 6 more
+[18May2025 00:50:45.756] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[18May2025 00:50:46.015] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:46.016] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:46.016] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:46.016] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:46.016] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:46.016] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:46.016] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:46.017] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:46.017] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:46.017] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:46.017] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:46.017] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:46.017] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:46.018] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:46.018] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:46.018] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:46.018] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:46.018] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:46.018] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:46.018] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:46.019] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:46.019] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:46.019] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:46.019] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:46.019] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:46.019] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:46.019] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:46.020] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:46.020] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:46.020] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:46.020] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:46.020] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:46.021] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:46.021] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:46.021] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:46.021] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:46.021] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:46.021] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:46.021] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:46.022] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:46.022] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:46.022] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:46.022] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:46.022] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:46.022] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:46.023] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:46.023] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:46.023] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:46.023] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:46.023] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:46.023] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:46.023] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:46.024] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:46.024] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:46.024] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:46.024] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:46.024] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:46.024] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:46.025] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:46.025] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:46.025] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:46.025] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:46.025] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:46.025] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:46.025] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:46.026] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:46.026] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:46.026] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:46.026] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:46.026] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:46.027] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:46.027] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:46.027] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:46.027] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:46.027] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:46.027] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:46.028] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:46.028] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:46.028] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:46.028] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:46.028] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:46.028] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:46.029] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:46.029] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:46.029] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:46.029] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:46.030] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:46.030] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:46.030] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:46.030] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:46.031] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:46.031] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:46.031] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:46.032] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:46.032] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:46.032] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:46.032] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:46.032] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:46.032] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:46.033] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:46.033] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:46.033] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:46.033] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:46.033] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:46.034] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:46.034] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:46.034] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:46.034] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:46.034] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:46.034] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:46.034] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:46.034] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:46.036] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:46.037] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:46.037] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:46.037] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:46.038] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:46.038] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:46.039] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:46.039] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:46.040] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:46.040] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:46.040] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:46.040] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:46.041] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:46.041] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:46.041] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:46.041] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:46.042] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:46.042] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:46.042] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:46.042] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:46.043] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:46.043] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:46.175] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:46.175] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:46.176] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:46.176] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:46.176] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:46.176] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:46.176] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:46.176] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:46.177] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:46.177] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:46.177] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:46.177] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:46.177] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:46.177] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:46.178] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:46.178] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:46.178] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:46.178] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:46.178] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:46.178] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:46.178] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:46.179] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:46.179] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:46.179] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:46.179] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:46.179] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:46.179] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:46.180] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:46.180] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:46.180] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:46.180] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:46.180] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:46.180] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:46.181] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:46.181] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:46.181] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:46.181] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:46.181] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:46.181] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:46.182] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:46.182] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:46.182] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:46.182] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:46.182] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:46.182] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:46.183] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:46.183] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:46.183] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:46.183] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:46.183] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:46.183] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:46.183] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:46.184] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:46.184] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:46.184] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:46.184] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:46.184] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:46.184] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:46.184] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:46.185] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:46.185] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:46.185] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:46.185] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:46.185] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:46.185] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:46.186] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:46.186] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:46.186] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:46.186] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:46.186] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:46.186] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:46.186] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:46.187] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:46.187] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:46.187] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:46.187] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:46.187] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:46.187] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:46.188] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:46.188] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:46.188] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:46.188] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:46.188] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:46.188] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:46.189] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:46.189] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:46.189] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:46.189] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:46.189] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:46.189] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:46.190] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:46.190] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:46.190] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:46.190] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:46.190] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:46.190] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:46.191] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:46.191] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:46.191] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:46.191] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:46.191] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:46.191] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:46.191] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:46.192] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:46.192] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:46.192] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:46.192] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:46.192] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:46.192] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:46.192] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:46.193] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:46.193] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:46.193] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:46.193] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:46.193] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:46.193] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:46.194] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:46.194] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:46.194] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:46.194] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:46.194] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:46.194] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:46.195] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:46.195] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:46.195] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:46.195] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:46.195] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:46.196] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:46.196] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:46.196] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:46.196] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:46.197] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:46.199] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[18May2025 00:50:46.199] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[18May2025 00:50:53.038] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/vida/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23285!/assets/.mcassetsroot' uses unexpected schema
+[18May2025 00:50:53.038] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/vida/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23285!/data/.mcassetsroot' uses unexpected schema
+[18May2025 00:50:56.639] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[18May2025 00:50:56.859] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag legendary_monsters:ancient_stronghold_biomes as it is missing following references: minecraft:spruce_forest (from legendarymonsters-1.9.4 MC 1.20.1.jar)
+[18May2025 00:50:56.860] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag integrated_api:collections/any_taiga as it is missing following references: #repurposed_structures:collections/taigas (from integrated_api-1.5.3+1.20.1-forge.jar)
+[18May2025 00:50:56.894] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't read tag list northstar:diamond_ores from northstar:tags/items/diamond_ores.json in data pack northstar-0.1cb-1.20.1.jar
+com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 15 column 3 path $
+	at com.google.gson.JsonParser.parseReader(JsonParser.java:76) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraft.tags.TagLoader.m_144495_(TagLoader.java:49) ~[server-1.20.1-20230612.114412-srg.jar%23285!/:?]
+	at net.minecraft.tags.TagLoader.m_203900_(TagLoader.java:114) ~[server-1.20.1-20230612.114412-srg.jar%23285!/:?]
+	at net.minecraft.tags.TagManager.m_203920_(TagManager.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23285!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 15 column 3 path $
+	at com.google.gson.stream.JsonReader.syntaxError(JsonReader.java:1657) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.stream.JsonReader.checkLenient(JsonReader.java:1463) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.stream.JsonReader.doPeek(JsonReader.java:551) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.stream.JsonReader.peek(JsonReader.java:433) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.JsonParser.parseReader(JsonParser.java:71) ~[gson-2.10.jar%2372!/:?]
+	... 10 more
+[18May2025 00:50:56.925] [Worker-Main-3/WARN] [artifacts.Artifacts/]: Tag entries for curios:tags/items/magic_book.json cleared by tombstone-1.20.1-8.9.4.jar
+[18May2025 00:50:57.006] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag cuffed:can_reinforce_padlock as it is missing following references: minecraft:diamond_ingot (from Cuffed-1.20.1-1.3.9.jar)
+[18May2025 00:50:57.516] [Worker-Main-1/ERROR] [net.minecraft.server.packs.resources.SimpleJsonResourceReloadListener/]: Couldn't parse data file northstar:engraving/ from northstar:recipes/engraving/.json
+com.google.gson.JsonParseException: java.io.EOFException: End of input at line 1 column 1 path $
+	at net.minecraft.util.GsonHelper.m_13780_(GsonHelper.java:526) ~[server-1.20.1-20230612.114412-srg.jar%23285!/:?]
+	at net.minecraft.util.GsonHelper.m_263475_(GsonHelper.java:531) ~[server-1.20.1-20230612.114412-srg.jar%23285!/:?]
+	at net.minecraft.util.GsonHelper.m_13776_(GsonHelper.java:581) ~[server-1.20.1-20230612.114412-srg.jar%23285!/:?]
+	at net.minecraft.server.packs.resources.SimpleJsonResourceReloadListener.m_278771_(SimpleJsonResourceReloadListener.java:41) ~[server-1.20.1-20230612.114412-srg.jar%23285!/:?]
+	at net.minecraft.server.packs.resources.SimpleJsonResourceReloadListener.m_5944_(SimpleJsonResourceReloadListener.java:29) ~[server-1.20.1-20230612.114412-srg.jar%23285!/:?]
+	at net.minecraft.server.packs.resources.SimpleJsonResourceReloadListener.m_5944_(SimpleJsonResourceReloadListener.java:17) ~[server-1.20.1-20230612.114412-srg.jar%23285!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10786_(SimplePreparableReloadListener.java:11) ~[server-1.20.1-20230612.114412-srg.jar%23285!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+Caused by: java.io.EOFException: End of input at line 1 column 1 path $
+	at com.google.gson.stream.JsonReader.nextNonWhitespace(JsonReader.java:1455) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.stream.JsonReader.doPeek(JsonReader.java:558) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.stream.JsonReader.peek(JsonReader.java:433) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapters$28.read(TypeAdapters.java:769) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapters$28.read(TypeAdapters.java:725) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapters$34$1.read(TypeAdapters.java:1007) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraft.util.GsonHelper.m_13780_(GsonHelper.java:524) ~[server-1.20.1-20230612.114412-srg.jar%23285!/:?]
+	... 13 more
+[18May2025 00:50:57.894] [Worker-Main-3/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:simplemissiles:blocks/burned_repeater
+com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'minecraft:redstone_wire'
+	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23285!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.util.GsonHelper.m_13874_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23285!/:?]
+	at net.minecraft.util.GsonHelper.m_13909_(GsonHelper.java:153) ~[server-1.20.1-20230612.114412-srg.jar%23285!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23285!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:40) ~[server-1.20.1-20230612.114412-srg.jar%23285!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:151) ~[server-1.20.1-20230612.114412-srg.jar%23285!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:129) ~[server-1.20.1-20230612.114412-srg.jar%23285!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:86) ~[server-1.20.1-20230612.114412-srg.jar%23285!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:74) ~[server-1.20.1-20230612.114412-srg.jar%23285!/:?]
+	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23285!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23285!/:?]
+	at net.minecraft.util.GsonHelper.m_13836_(GsonHelper.java:471) ~[server-1.20.1-20230612.114412-srg.jar%23285!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:192) ~[server-1.20.1-20230612.114412-srg.jar%23285!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:189) ~[server-1.20.1-20230612.114412-srg.jar%23285!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23285!/:?]
+	at net.minecraft.util.GsonHelper.m_13845_(GsonHelper.java:481) ~[server-1.20.1-20230612.114412-srg.jar%23285!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:294) ~[server-1.20.1-20230612.114412-srg.jar%23285!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:291) ~[server-1.20.1-20230612.114412-srg.jar%23285!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1261) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraftforge.common.ForgeHooks.loadLootTable(ForgeHooks.java:871) ~[forge-1.20.1-47.4.0-universal.jar%23290!/:?]
+	at net.minecraftforge.common.ForgeHooks.lambda$getLootTableDeserializer$3(ForgeHooks.java:848) ~[forge-1.20.1-47.4.0-universal.jar%23290!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataType.deserialize(LootDataType.java:45) ~[server-1.20.1-20230612.114412-srg.jar%23285!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.lambda$scheduleElementParse$4(LootDataManager.java:56) ~[server-1.20.1-20230612.114412-srg.jar%23285!/:?]
+	at java.util.HashMap.forEach(HashMap.java:1421) ~[?:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.m_278660_(LootDataManager.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23285!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[18May2025 00:50:58.694] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:born_in_chaos_v1:entities/pumpkinhead}.pools[1].entries[2].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[18May2025 00:50:58.694] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:northstar:blocks/lunar_sapphire_cluster}.pools[0].entries[0].entry[1]: Unreachable entry!
+[18May2025 00:50:58.694] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:born_in_chaos_v1:entities/pumpkinhead}.pools[1].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[18May2025 00:50:58.694] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:born_in_chaos_v1:entities/pumpkinhead}.pools[1].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[18May2025 00:50:58.694] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:alexsmobs:gameplay/seal_reward}.pools[0].entries[0]->{minecraft:gameplay/fishing/junk}.pools[1].condition[0]: Parameters [<parameter minecraft:origin>] are not provided in this context
+[18May2025 00:50:58.744] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe realisticforgingores:ironsledgehammerrecipe
+com.google.gson.JsonSyntaxException: Unknown item 'realisticforgingores:deleted_mod_element'
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23285!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_151278_(ShapedRecipe.java:291) ~[server-1.20.1-20230612.114412-srg.jar%23285!/:?]
+	at net.minecraft.world.item.crafting.Ingredient.m_43919_(Ingredient.java:219) ~[server-1.20.1-20230612.114412-srg.jar%23285!/:?]
+	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:27) ~[forge-1.20.1-47.4.0-universal.jar%23290!/:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:148) ~[forge-1.20.1-47.4.0-universal.jar%23290!/:?]
+	at net.minecraft.world.item.crafting.Ingredient.m_288218_(Ingredient.java:194) ~[server-1.20.1-20230612.114412-srg.jar%23285!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_44210_(ShapedRecipe.java:278) ~[server-1.20.1-20230612.114412-srg.jar%23285!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:306) ~[server-1.20.1-20230612.114412-srg.jar%23285!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:301) ~[server-1.20.1-20230612.114412-srg.jar%23285!/:?]
+	at net.minecraftforge.common.extensions.IForgeRecipeSerializer.fromJson(IForgeRecipeSerializer.java:23) ~[forge-1.20.1-47.4.0-universal.jar%23290!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:171) ~[server-1.20.1-20230612.114412-srg.jar%23285!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23285!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23285!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23285!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23285!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23285!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23285!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23285!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.4.0.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.4.0.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.4.0.jar%2369!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[18May2025 00:50:58.760] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe realisticforgingores:sledgehammerrecipe
+com.google.gson.JsonSyntaxException: Unknown item 'realisticforgingores:deleted_mod_element'
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23285!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_151278_(ShapedRecipe.java:291) ~[server-1.20.1-20230612.114412-srg.jar%23285!/:?]
+	at net.minecraft.world.item.crafting.Ingredient.m_43919_(Ingredient.java:219) ~[server-1.20.1-20230612.114412-srg.jar%23285!/:?]
+	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:27) ~[forge-1.20.1-47.4.0-universal.jar%23290!/:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:148) ~[forge-1.20.1-47.4.0-universal.jar%23290!/:?]
+	at net.minecraft.world.item.crafting.Ingredient.m_288218_(Ingredient.java:194) ~[server-1.20.1-20230612.114412-srg.jar%23285!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_44210_(ShapedRecipe.java:278) ~[server-1.20.1-20230612.114412-srg.jar%23285!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:306) ~[server-1.20.1-20230612.114412-srg.jar%23285!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:301) ~[server-1.20.1-20230612.114412-srg.jar%23285!/:?]
+	at net.minecraftforge.common.extensions.IForgeRecipeSerializer.fromJson(IForgeRecipeSerializer.java:23) ~[forge-1.20.1-47.4.0-universal.jar%23290!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:171) ~[server-1.20.1-20230612.114412-srg.jar%23285!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23285!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23285!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23285!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23285!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23285!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23285!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23285!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.4.0.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.4.0.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.4.0.jar%2369!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[18May2025 00:50:58.835] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:ancient_dripstone_brick_stairs_left
+com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:ancient_dripstone_brick'
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23285!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_151278_(ShapedRecipe.java:291) ~[server-1.20.1-20230612.114412-srg.jar%23285!/:?]
+	at net.minecraft.world.item.crafting.Ingredient.m_43919_(Ingredient.java:219) ~[server-1.20.1-20230612.114412-srg.jar%23285!/:?]
+	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:27) ~[forge-1.20.1-47.4.0-universal.jar%23290!/:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:148) ~[forge-1.20.1-47.4.0-universal.jar%23290!/:?]
+	at net.minecraft.world.item.crafting.Ingredient.m_288218_(Ingredient.java:194) ~[server-1.20.1-20230612.114412-srg.jar%23285!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_44210_(ShapedRecipe.java:278) ~[server-1.20.1-20230612.114412-srg.jar%23285!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:306) ~[server-1.20.1-20230612.114412-srg.jar%23285!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:301) ~[server-1.20.1-20230612.114412-srg.jar%23285!/:?]
+	at net.minecraftforge.common.extensions.IForgeRecipeSerializer.fromJson(IForgeRecipeSerializer.java:23) ~[forge-1.20.1-47.4.0-universal.jar%23290!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:171) ~[server-1.20.1-20230612.114412-srg.jar%23285!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23285!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23285!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23285!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23285!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23285!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23285!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23285!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.4.0.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.4.0.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.4.0.jar%2369!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[18May2025 00:50:58.846] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:dinosaur_bone_meal
+com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_bone_meal'
+	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.4.0-universal.jar%23290!/:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.4.0-universal.jar%23290!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_151274_(ShapedRecipe.java:286) ~[server-1.20.1-20230612.114412-srg.jar%23285!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:311) ~[server-1.20.1-20230612.114412-srg.jar%23285!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:301) ~[server-1.20.1-20230612.114412-srg.jar%23285!/:?]
+	at net.minecraftforge.common.extensions.IForgeRecipeSerializer.fromJson(IForgeRecipeSerializer.java:23) ~[forge-1.20.1-47.4.0-universal.jar%23290!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:171) ~[server-1.20.1-20230612.114412-srg.jar%23285!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23285!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23285!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23285!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23285!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23285!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23285!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23285!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.4.0.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.4.0.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.4.0.jar%2369!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[18May2025 00:50:58.876] [main/WARN] [com.simibubi.create.Create/]: Your custom northstar:freezing recipe (northstar:freezing/liquid_oxygen) specified a duration. Durations have no impact on this type of recipe.
+[18May2025 00:50:58.894] [main/WARN] [com.simibubi.create.Create/]: Your custom northstar:freezing recipe (northstar:freezing/methane_ice) specified a duration. Durations have no impact on this type of recipe.
+[18May2025 00:50:58.903] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe minecraft:netherite_ingot
+com.google.gson.JsonSyntaxException: Invalid item: minecraft:air
+	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:164) ~[forge-1.20.1-47.4.0-universal.jar%23290!/:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.4.0-universal.jar%23290!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_151274_(ShapedRecipe.java:286) ~[server-1.20.1-20230612.114412-srg.jar%23285!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:311) ~[server-1.20.1-20230612.114412-srg.jar%23285!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:301) ~[server-1.20.1-20230612.114412-srg.jar%23285!/:?]
+	at net.minecraftforge.common.extensions.IForgeRecipeSerializer.fromJson(IForgeRecipeSerializer.java:23) ~[forge-1.20.1-47.4.0-universal.jar%23290!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:171) ~[server-1.20.1-20230612.114412-srg.jar%23285!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23285!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23285!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23285!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23285!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23285!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23285!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23285!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.4.0.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.4.0.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.4.0.jar%2369!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[18May2025 00:50:58.930] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:purified_soul
+com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:brewing'
+	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23285!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:169) ~[server-1.20.1-20230612.114412-srg.jar%23285!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23285!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23285!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23285!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23285!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23285!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23285!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23285!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.4.0.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.4.0.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.4.0.jar%2369!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[18May2025 00:50:58.948] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe cuffed:information_booklet
+com.google.gson.JsonSyntaxException: Unknown item 'cuffed:information_booklet'
+	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.4.0-universal.jar%23290!/:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.4.0-universal.jar%23290!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_151274_(ShapedRecipe.java:286) ~[server-1.20.1-20230612.114412-srg.jar%23285!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:311) ~[server-1.20.1-20230612.114412-srg.jar%23285!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:301) ~[server-1.20.1-20230612.114412-srg.jar%23285!/:?]
+	at net.minecraftforge.common.extensions.IForgeRecipeSerializer.fromJson(IForgeRecipeSerializer.java:23) ~[forge-1.20.1-47.4.0-universal.jar%23290!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:171) ~[server-1.20.1-20230612.114412-srg.jar%23285!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23285!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23285!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23285!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23285!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23285!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23285!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23285!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.4.0.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.4.0.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.4.0.jar%2369!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[18May2025 00:50:58.960] [main/WARN] [com.simibubi.create.Create/]: Your custom northstar:freezing recipe (northstar:freezing/liquid_hydrogen) specified a duration. Durations have no impact on this type of recipe.
+[18May2025 00:50:58.969] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 35 recipes
+[18May2025 00:50:59.064] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement realisticforgingores:smelting_iron_part_advancement: Expected item to be an item, was unknown string 'realisticforgingores:deleted_mod_element'
+[18May2025 00:50:59.074] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement realisticforgingores:first_drawing: Expected item to be an item, was unknown string 'realisticforgingores:deleted_mod_element'
+[18May2025 00:50:59.092] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement realisticforgingores:three_iron_scraps: Expected item to be an item, was unknown string 'realisticforgingores:deleted_mod_element'
+[18May2025 00:50:59.097] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement realisticforgingores:assembling_iron_for_sword: Expected item to be an item, was unknown string 'realisticforgingores:deleted_mod_element'
+[18May2025 00:50:59.120] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement realisticforgingores:breaking_diamond_advancement: Expected item to be an item, was unknown string 'realisticforgingores:deleted_mod_element'
+[18May2025 00:50:59.135] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement realisticforgingores:assembling_iron_for_armor: Expected item to be an item, was unknown string 'realisticforgingores:deleted_mod_element'
+[18May2025 00:50:59.172] [main/INFO] [quark/]: [Automatic Recipe Unlock] Removed 3676 recipe advancements
+[18May2025 00:50:59.204] [main/ERROR] [net.minecraft.advancements.AdvancementList/]: Couldn't load advancement realisticforgingores:craft_iron_sword: Task Advancement{parentId=realisticforgingores:assembling_iron_for_sword, display=net.minecraft.advancements.DisplayInfo@2cff349, rewards=AdvancementRewards{experience=0, loot=[], recipes=[], function=net.minecraft.commands.CommandFunction$CacheableFunction@2ef41597}, criteria={craft_iron_sword_0=net.minecraft.advancements.Criterion@14bcea2}, requirements=[[craft_iron_sword_0]], sends_telemetry_event=false}
+[18May2025 00:50:59.205] [main/ERROR] [net.minecraft.advancements.AdvancementList/]: Couldn't load advancement realisticforgingores:craft_iron_armor: Task Advancement{parentId=realisticforgingores:first_drawing, display=net.minecraft.advancements.DisplayInfo@4245b803, rewards=AdvancementRewards{experience=0, loot=[], recipes=[], function=net.minecraft.commands.CommandFunction$CacheableFunction@2ef41597}, criteria={craft_iron_armor_0=net.minecraft.advancements.Criterion@593cea2c}, requirements=[[craft_iron_armor_0]], sends_telemetry_event=false}
+[18May2025 00:50:59.205] [main/ERROR] [net.minecraft.advancements.AdvancementList/]: Couldn't load advancement realisticforgingores:crafting_big_pan_advancement: Task Advancement{parentId=realisticforgingores:breaking_diamond_advancement, display=net.minecraft.advancements.DisplayInfo@7f7b1913, rewards=AdvancementRewards{experience=0, loot=[], recipes=[], function=net.minecraft.commands.CommandFunction$CacheableFunction@2ef41597}, criteria={crafting_big_pan_advancement_0=net.minecraft.advancements.Criterion@4128e15a}, requirements=[[crafting_big_pan_advancement_0]], sends_telemetry_event=false}
+[18May2025 00:50:59.205] [main/ERROR] [net.minecraft.advancements.AdvancementList/]: Couldn't load advancement realisticforgingores:crafting_diamond_sword_advancement: Task Advancement{parentId=realisticforgingores:deleted_mod_element, display=net.minecraft.advancements.DisplayInfo@4f791220, rewards=AdvancementRewards{experience=0, loot=[], recipes=[], function=net.minecraft.commands.CommandFunction$CacheableFunction@2ef41597}, criteria={crafting_diamond_sword_advancement_0=net.minecraft.advancements.Criterion@49dd08a4}, requirements=[[crafting_diamond_sword_advancement_0]], sends_telemetry_event=false}
+[18May2025 00:50:59.205] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 910 advancements
+[18May2025 00:50:59.223] [main/INFO] [sfiomn.legendarysurvivaloverhaul.LegendarySurvivalOverhaul/]: Loaded 6 temperature consumables
+[18May2025 00:50:59.226] [main/INFO] [sfiomn.legendarysurvivaloverhaul.LegendarySurvivalOverhaul/]: Loaded 24 temperature blocks
+[18May2025 00:50:59.230] [main/INFO] [sfiomn.legendarysurvivaloverhaul.LegendarySurvivalOverhaul/]: Loaded 207 temperature items
+[18May2025 00:50:59.232] [main/INFO] [sfiomn.legendarysurvivaloverhaul.LegendarySurvivalOverhaul/]: Loaded 7 temperature biomes
+[18May2025 00:50:59.233] [main/INFO] [sfiomn.legendarysurvivaloverhaul.LegendarySurvivalOverhaul/]: Loaded 12 temperature fuel items
+[18May2025 00:50:59.235] [main/INFO] [sfiomn.legendarysurvivaloverhaul.LegendarySurvivalOverhaul/]: Loaded 3 temperature dimensions
+[18May2025 00:50:59.235] [main/INFO] [sfiomn.legendarysurvivaloverhaul.LegendarySurvivalOverhaul/]: Loaded 2 temperature mounts
+[18May2025 00:50:59.236] [main/INFO] [sfiomn.legendarysurvivaloverhaul.LegendarySurvivalOverhaul/]: Loaded 0 temperature origins
+[18May2025 00:50:59.243] [main/INFO] [sfiomn.legendarysurvivaloverhaul.LegendarySurvivalOverhaul/]: Loaded 21 thirst consumables
+[18May2025 00:50:59.246] [main/INFO] [sfiomn.legendarysurvivaloverhaul.LegendarySurvivalOverhaul/]: Loaded 4 thirst blocks
+[18May2025 00:50:59.249] [main/INFO] [sfiomn.legendarysurvivaloverhaul.LegendarySurvivalOverhaul/]: Loaded 22 body parts damage sources
+[18May2025 00:50:59.251] [main/INFO] [sfiomn.legendarysurvivaloverhaul.LegendarySurvivalOverhaul/]: Loaded 6 body healing consumables
+[18May2025 00:50:59.266] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 14 curio slots
+[18May2025 00:50:59.280] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio entities
+[18May2025 00:50:59.302] [main/INFO] [quark-zeta/]: Modified advancement minecraft:husbandry/wax_on with 2 patches
+[18May2025 00:50:59.302] [main/INFO] [quark-zeta/]: Modified advancement minecraft:adventure/kill_a_mob with 3 patches
+[18May2025 00:50:59.303] [main/INFO] [quark-zeta/]: Modified advancement minecraft:husbandry/bred_all_animals with 3 patches
+[18May2025 00:50:59.303] [main/INFO] [quark-zeta/]: Modified advancement minecraft:adventure/kill_all_mobs with 3 patches
+[18May2025 00:50:59.303] [main/INFO] [quark-zeta/]: Modified advancement minecraft:husbandry/balanced_diet with 2 patches
+[18May2025 00:50:59.303] [main/INFO] [quark-zeta/]: Modified advancement minecraft:nether/all_effects with 1 patches
+[18May2025 00:50:59.304] [main/INFO] [quark-zeta/]: Modified advancement minecraft:husbandry/wax_off with 2 patches
+[18May2025 00:50:59.304] [main/INFO] [quark-zeta/]: Modified advancement minecraft:adventure/adventuring_time with 1 patches
+[18May2025 00:50:59.304] [main/INFO] [quark-zeta/]: Modified advancement minecraft:nether/all_potions with 1 patches
+[18May2025 00:50:59.305] [main/INFO] [insane96mcp.insanelib.InsaneLib/]: Reloading InsaneLib JsonFeature Json
+[18May2025 00:50:59.316] [main/WARN] [net.minecraft.core.MappedRegistry/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:worldgen/biome] are present in data pack: legendarycreatures:has_baby_scorpion, legendarycreatures:has_corpse_eater, legendarycreatures:has_desert_mojo, legendarycreatures:has_forest_mojo, legendarycreatures:has_scarecrow, minecraft:is_plains
+[18May2025 00:51:07.062] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[18May2025 00:51:07.062] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[18May2025 00:51:07.062] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[18May2025 00:51:07.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[18May2025 00:51:07.175] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[18May2025 00:51:07.225] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[18May2025 00:51:07.351] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18May2025 00:51:07.352] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[18May2025 00:51:07.352] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18May2025 00:51:07.352] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[18May2025 00:51:07.377] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./world/serverconfig/cuffed-server.toml is not correct. Correcting
+[18May2025 00:51:07.377] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cuffed Config.Anchoring Settings.Max Chain Length was corrected from 5.0 to its default, 5.0. 
+[18May2025 00:51:07.378] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cuffed Config.Anchoring Settings.Suffocation Length was corrected from 12.0 to its default, 12.0. 
+[18May2025 00:51:07.982] [Server thread/INFO] [Framework/]: Loading server configs...
+[18May2025 00:51:08.028] [Server thread/INFO] [zeta/]: Server starting, accepting filewatcher changes for zeta's config
+[18May2025 00:51:08.031] [Server thread/INFO] [quark-zeta/]: Server starting, accepting filewatcher changes for quark's config
+[18May2025 00:51:08.042] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[18May2025 00:51:09.903] [Server thread/INFO] [jeg/]: Registered the following Factions: [night_of_the_undead|1|minecraft:zombie,minecraft:zombie_villager,minecraft:husk|jeg:custom_smg,jeg:waterpipe_shotgun|jeg:revolver|jeg:double_barrel_shotgun, the_rattlers|2|minecraft:skeleton,minecraft:stray|jeg:custom_smg|jeg:semi_auto_rifle|jeg:bolt_action_rifle,jeg:semi_auto_rifle, nosy_business|3|minecraft:pillager,minecraft:vindicator|jeg:pump_shotgun|jeg:semi_auto_rifle,jeg:assault_rifle|jeg:repeating_shotgun,jeg:service_rifle, bad_piggies|2|minecraft:piglin,minecraft:piglin_brute|jeg:double_barrel_shotgun,jeg:waterpipe_shotgun|jeg:assault_rifle,jeg:semi_auto_rifle|jeg:hollenfire_mk2, hell_hogs|3|minecraft:zombified_piglin,minecraft:wither_skeleton|jeg:custom_smg,jeg:waterpipe_shotgun,jeg:double_barrel_shotgun|jeg:assault_rifle,jeg:semi_auto_rifle|jeg:soulhunter_mk2, lost_souls|3|jeg:ghoul|jeg:waterpipe_shotgun,jeg:revolver|jeg:custom_smg|jeg:holy_shotgun,jeg:blossom_rifle]
+[18May2025 00:51:10.722] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.alexander.rootoffear.entities.Wilted from class com.alexander.rootoffear.entities.LightExtinguisher
+[18May2025 00:51:10.723] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.alexander.rootoffear.entities.Wilted from class com.alexander.rootoffear.entities.LightExtinguisher
+[18May2025 00:51:10.724] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.alexander.rootoffear.entities.Wilted from class com.alexander.rootoffear.entities.LightExtinguisher
+[18May2025 00:51:11.466] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[18May2025 00:51:13.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[18May2025 00:51:16.952] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18May2025 00:51:16.953] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18May2025 00:51:16.953] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18May2025 00:51:16.954] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18May2025 00:51:16.955] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18May2025 00:51:16.955] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18May2025 00:51:16.956] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18May2025 00:51:16.957] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18May2025 00:51:17.573] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18May2025 00:51:17.867] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18May2025 00:51:18.475] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18May2025 00:51:18.942] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18May2025 00:51:19.386] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18May2025 00:51:19.898] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 1%
+[18May2025 00:51:20.364] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[18May2025 00:51:20.862] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 4%
+[18May2025 00:51:21.373] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 5%
+[18May2025 00:51:21.859] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 8%
+[18May2025 00:51:22.352] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 9%
+[18May2025 00:51:22.857] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 10%
+[18May2025 00:51:23.352] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 15%
+[18May2025 00:51:23.856] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 15%
+[18May2025 00:51:24.355] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 16%
+[18May2025 00:51:24.858] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 18%
+[18May2025 00:51:25.353] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 23%
+[18May2025 00:51:25.884] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 24%
+[18May2025 00:51:26.639] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 24%
+[18May2025 00:51:26.852] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 25%
+[18May2025 00:51:27.738] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 31%
+[18May2025 00:51:27.876] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 32%
+[18May2025 00:51:28.358] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 33%
+[18May2025 00:51:28.872] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 37%
+[18May2025 00:51:29.564] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 42%
+[18May2025 00:51:29.851] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 43%
+[18May2025 00:51:30.402] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 44%
+[18May2025 00:51:30.863] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 48%
+[18May2025 00:51:31.359] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 54%
+[18May2025 00:51:31.930] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 54%
+[18May2025 00:51:32.369] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 55%
+[18May2025 00:51:32.880] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 55%
+[18May2025 00:51:33.356] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 57%
+[18May2025 00:51:33.859] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 62%
+[18May2025 00:51:34.351] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 68%
+[18May2025 00:51:34.979] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 68%
+[18May2025 00:51:35.351] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 68%
+[18May2025 00:51:35.651] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[18May2025 00:51:35.872] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 68%
+[18May2025 00:51:36.355] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 68%
+[18May2025 00:51:36.893] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 69%
+[18May2025 00:51:37.359] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 69%
+[18May2025 00:51:37.442] [Netty Epoll Server IO #4/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[18May2025 00:51:37.867] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 69%
+[18May2025 00:51:38.365] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 71%
+[18May2025 00:51:38.891] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 71%
+[18May2025 00:51:39.370] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 73%
+[18May2025 00:51:39.859] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 74%
+[18May2025 00:51:40.376] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 77%
+[18May2025 00:51:40.860] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 78%
+[18May2025 00:51:41.372] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 80%
+[18May2025 00:51:41.871] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 82%
+[18May2025 00:51:42.907] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 83%
+[18May2025 00:51:42.907] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 83%
+[18May2025 00:51:43.367] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 83%
+[18May2025 00:51:43.887] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 83%
+[18May2025 00:51:44.490] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 84%
+[18May2025 00:51:44.870] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 84%
+[18May2025 00:51:45.352] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 84%
+[18May2025 00:51:45.881] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 84%
+[18May2025 00:51:46.354] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 85%
+[18May2025 00:51:46.852] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 85%
+[18May2025 00:51:47.368] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 86%
+[18May2025 00:51:47.870] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 87%
+[18May2025 00:51:48.378] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 88%
+[18May2025 00:51:48.929] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 89%
+[18May2025 00:51:49.352] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 90%
+[18May2025 00:51:49.865] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 91%
+[18May2025 00:51:50.018] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-75, y=31, z=-175}
+[18May2025 00:51:50.368] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 92%
+[18May2025 00:51:50.855] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 93%
+[18May2025 00:51:51.373] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 93%
+[18May2025 00:51:51.607] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-176, y=-24, z=47}
+[18May2025 00:51:51.852] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 95%
+[18May2025 00:51:52.383] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 95%
+[18May2025 00:51:52.862] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 96%
+[18May2025 00:51:53.727] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 97%
+[18May2025 00:51:53.855] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 97%
+[18May2025 00:51:54.370] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 98%
+[18May2025 00:51:54.789] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 41439 ms
+[18May2025 00:51:54.790] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (47.418s)! For help, type "help"
+[18May2025 00:51:54.878] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[18May2025 00:51:54.882] [Server thread/INFO] [cuffed/]: Running server setup for Cuffed
+[18May2025 00:51:54.890] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
+[18May2025 00:51:54.890] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
+[18May2025 00:51:55.387] [Server thread/INFO] [dev.corgitaco.enhancedcelestials.EnhancedCelestials/]: Possible lunar events for dimension "minecraft:overworld" are [enhancedcelestials:super_blood_moon, enhancedcelestials:super_harvest_moon, enhancedcelestials:super_moon, enhancedcelestials:blue_moon, enhancedcelestials:super_blue_moon, enhancedcelestials:blood_moon, enhancedcelestials:harvest_moon].
+[18May2025 00:53:10.645] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: fablex39[/127.166.196.199:34045] logged in with entity id 1233 at (3.5, 92.0, -0.5)
+[18May2025 00:53:10.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fablex39 joined the game
+[18May2025 00:53:11.046] [Server thread/INFO] [jeg/]: Player fablex39 has received the first join message.
+[18May2025 00:53:11.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fablex39 has completed the challenge [The Undead]
+[18May2025 00:53:11.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fablex39 has made the advancement [Ice and Fire]
+[18May2025 00:54:41.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Creative Mode]
+[18May2025 00:54:50.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Survival Mode]
+[18May2025 00:54:54.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Creative Mode]
+[18May2025 00:55:02.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Survival Mode]
+[18May2025 00:55:09.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set the time to 1000]
+[18May2025 00:55:18.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Creative Mode]
+[18May2025 00:55:51.700] [Server thread/INFO] [melonslise.locks.Locks/]: Block{minecraft:chest}[facing=north,type=single,waterlogged=false]
+[18May2025 00:55:51.768] [Server thread/INFO] [melonslise.locks.Locks/]: Block{minecraft:barrel}[facing=up,open=false]
+[18May2025 00:55:51.771] [Server thread/INFO] [melonslise.locks.Locks/]: Block{minecraft:barrel}[facing=up,open=false]
+[18May2025 00:55:51.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Survival Mode]
+[18May2025 00:56:26.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Teleported fablex39 to 0.500000, 60.000000, 0.500000]
+[18May2025 00:56:29.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Spectator Mode]
+[18May2025 00:56:34.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Survival Mode]
+[18May2025 00:56:50.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Made Gabriel no longer a server operator]
+[18May2025 00:56:55.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Made fablex39 no longer a server operator]
+[18May2025 00:57:31.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made fablex39 a server operator
+[18May2025 00:57:39.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Spectator Mode]
+[18May2025 00:57:45.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Survival Mode]
+[18May2025 00:58:21.837] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-5, y=83, z=-4} BlockPos{x=8, y=118, z=36}
+[18May2025 00:59:04.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Spectator Mode]
+[18May2025 00:59:07.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Creative Mode]
+[18May2025 00:59:54.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fablex39 has made the advancement [Diamonds!]
+[18May2025 01:00:30.999] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[18May2025 01:01:01.596] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[18May2025 01:01:18.998] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2407ms or 48 ticks behind
+[18May2025 01:01:36.644] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2653ms or 53 ticks behind
+[18May2025 01:01:53.702] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2061ms or 41 ticks behind
+[18May2025 01:02:11.967] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3276ms or 65 ticks behind
+[18May2025 01:02:30.478] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3537ms or 70 ticks behind
+[18May2025 01:02:49.488] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4047ms or 80 ticks behind
+[18May2025 01:02:52.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fablex39 has made the advancement [Stone Age]
+[18May2025 01:03:08.455] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4014ms or 80 ticks behind
+[18May2025 01:03:28.289] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4848ms or 96 ticks behind
+[18May2025 01:03:48.387] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5146ms or 102 ticks behind
+[18May2025 01:04:09.378] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6037ms or 120 ticks behind
+[18May2025 01:04:30.350] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6009ms or 120 ticks behind
+[18May2025 01:04:51.885] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6543ms or 130 ticks behind
+[18May2025 01:05:13.750] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6909ms or 138 ticks behind
+[18May2025 01:05:35.948] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7207ms or 144 ticks behind
+[18May2025 01:05:59.063] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8122ms or 162 ticks behind
+[18May2025 01:06:21.952] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7911ms or 158 ticks behind
+[18May2025 01:06:44.979] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8038ms or 160 ticks behind
+[18May2025 01:07:07.783] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7842ms or 156 ticks behind
+[18May2025 01:07:31.572] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8831ms or 176 ticks behind
+[18May2025 01:07:31.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Teleported fablex39 to 100.500000, 100.000000, 100.500000]
+[18May2025 01:07:36.301] [Server thread/INFO] [melonslise.locks.Locks/]: Block{minecraft:barrel}[facing=south,open=false]
+[18May2025 01:07:41.339] [Server thread/INFO] [melonslise.locks.Locks/]: Block{quark:blossom_chest}[facing=west,type=single,waterlogged=false]
+[18May2025 01:07:41.430] [Server thread/INFO] [melonslise.locks.Locks/]: Block{minecraft:barrel}[facing=up,open=false]
+[18May2025 01:07:42.388] [Server thread/INFO] [melonslise.locks.Locks/]: Block{minecraft:barrel}[facing=up,open=false]
+[18May2025 01:07:42.389] [Server thread/INFO] [melonslise.locks.Locks/]: Block{minecraft:barrel}[facing=south,open=false]
+[18May2025 01:07:42.389] [Server thread/INFO] [melonslise.locks.Locks/]: Block{minecraft:barrel}[facing=north,open=false]
+[18May2025 01:07:42.389] [Server thread/INFO] [melonslise.locks.Locks/]: Block{quark:bamboo_chest}[facing=north,type=single,waterlogged=false]
+[18May2025 01:07:43.170] [Server thread/INFO] [melonslise.locks.Locks/]: Block{minecraft:barrel}[facing=east,open=false]
+[18May2025 01:07:43.170] [Server thread/INFO] [melonslise.locks.Locks/]: Block{minecraft:barrel}[facing=east,open=false]
+[18May2025 01:07:43.171] [Server thread/INFO] [melonslise.locks.Locks/]: Block{minecraft:chest}[facing=east,type=single,waterlogged=false]
+[18May2025 01:07:43.171] [Server thread/INFO] [melonslise.locks.Locks/]: Block{minecraft:barrel}[facing=up,open=false]
+[18May2025 01:07:43.171] [Server thread/INFO] [melonslise.locks.Locks/]: Block{minecraft:barrel}[facing=west,open=false]
+[18May2025 01:07:43.172] [Server thread/INFO] [melonslise.locks.Locks/]: Block{minecraft:barrel}[facing=west,open=false]
+[18May2025 01:07:43.172] [Server thread/INFO] [melonslise.locks.Locks/]: Block{minecraft:barrel}[facing=west,open=false]
+[18May2025 01:07:43.172] [Server thread/INFO] [melonslise.locks.Locks/]: Block{minecraft:chest}[facing=west,type=single,waterlogged=false]
+[18May2025 01:07:43.173] [Server thread/INFO] [melonslise.locks.Locks/]: Block{minecraft:chest}[facing=east,type=single,waterlogged=false]
+[18May2025 01:07:43.173] [Server thread/INFO] [melonslise.locks.Locks/]: Block{minecraft:barrel}[facing=up,open=false]
+[18May2025 01:07:43.173] [Server thread/INFO] [melonslise.locks.Locks/]: Block{minecraft:barrel}[facing=east,open=false]
+[18May2025 01:07:43.174] [Server thread/INFO] [melonslise.locks.Locks/]: Block{minecraft:barrel}[facing=up,open=false]
+[18May2025 01:07:43.174] [Server thread/INFO] [melonslise.locks.Locks/]: Block{minecraft:barrel}[facing=up,open=false]
+[18May2025 01:07:43.174] [Server thread/INFO] [melonslise.locks.Locks/]: Block{quark:crimson_chest}[facing=west,type=single,waterlogged=false]
+[18May2025 01:07:43.175] [Server thread/INFO] [melonslise.locks.Locks/]: Block{minecraft:barrel}[facing=west,open=false]
+[18May2025 01:07:45.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Teleported fablex39 to 25.500000, 100.000000, 25.500000]
+[18May2025 01:07:52.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Spectator Mode]
+[18May2025 01:07:58.165] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11623ms or 232 ticks behind
+[18May2025 01:08:03.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Teleported fablex39 to 1.500000, 100.000000, 1.500000]
+[18May2025 01:08:11.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Creative Mode]
+[18May2025 01:08:23.150] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10009ms or 200 ticks behind
+[18May2025 01:08:49.319] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11178ms or 223 ticks behind
+[18May2025 01:09:15.420] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11129ms or 222 ticks behind
+[18May2025 01:09:22.962] [Server thread/INFO] [melonslise.locks.Locks/]: Block{quark:dark_oak_chest}[facing=south,type=single,waterlogged=false]
+[18May2025 01:09:22.963] [Server thread/INFO] [melonslise.locks.Locks/]: Block{minecraft:barrel}[facing=east,open=false]
+[18May2025 01:09:22.963] [Server thread/INFO] [melonslise.locks.Locks/]: Block{minecraft:barrel}[facing=up,open=false]
+[18May2025 01:09:22.964] [Server thread/INFO] [melonslise.locks.Locks/]: Block{minecraft:barrel}[facing=north,open=false]
+[18May2025 01:09:22.964] [Server thread/INFO] [melonslise.locks.Locks/]: Block{minecraft:barrel}[facing=east,open=false]
+[18May2025 01:09:22.964] [Server thread/INFO] [melonslise.locks.Locks/]: Block{minecraft:barrel}[facing=up,open=false]
+[18May2025 01:09:22.965] [Server thread/INFO] [melonslise.locks.Locks/]: Block{minecraft:barrel}[facing=north,open=false]
+[18May2025 01:09:42.202] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11811ms or 236 ticks behind
+[18May2025 01:10:08.818] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11627ms or 232 ticks behind
+[18May2025 01:10:34.585] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10794ms or 215 ticks behind
+[18May2025 01:11:00.470] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10929ms or 218 ticks behind
+[18May2025 01:11:13.452] [Server thread/INFO] [melonslise.locks.Locks/]: Block{minecraft:barrel}[facing=up,open=false]
+[18May2025 01:11:13.452] [Server thread/INFO] [melonslise.locks.Locks/]: Block{minecraft:trapped_chest}[facing=east,type=single,waterlogged=false]
+[18May2025 01:11:14.802] [Server thread/INFO] [melonslise.locks.Locks/]: Block{minecraft:trapped_chest}[facing=east,type=single,waterlogged=false]
+[18May2025 01:11:14.912] [Server thread/INFO] [melonslise.locks.Locks/]: Block{minecraft:barrel}[facing=up,open=false]
+[18May2025 01:11:14.912] [Server thread/INFO] [melonslise.locks.Locks/]: Block{minecraft:barrel}[facing=up,open=false]
+[18May2025 01:11:14.913] [Server thread/INFO] [melonslise.locks.Locks/]: Block{minecraft:barrel}[facing=west,open=false]
+[18May2025 01:11:14.913] [Server thread/INFO] [melonslise.locks.Locks/]: Block{minecraft:barrel}[facing=up,open=false]
+[18May2025 01:11:14.913] [Server thread/INFO] [melonslise.locks.Locks/]: Block{quark:mangrove_chest}[facing=west,type=single,waterlogged=false]
+[18May2025 01:11:28.025] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12584ms or 251 ticks behind
+[18May2025 01:11:54.525] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11534ms or 230 ticks behind
+[18May2025 01:12:20.757] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11266ms or 225 ticks behind
+[18May2025 01:12:47.046] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11305ms or 226 ticks behind
+[18May2025 01:13:13.093] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11052ms or 221 ticks behind
+[18May2025 01:13:39.496] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11405ms or 228 ticks behind
+[18May2025 01:14:05.316] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10825ms or 216 ticks behind
+[18May2025 01:14:31.140] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10849ms or 216 ticks behind
+[18May2025 01:14:57.848] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11757ms or 235 ticks behind
+[18May2025 01:15:16.397] [Server thread/INFO] [melonslise.locks.Locks/]: Block{minecraft:barrel}[facing=up,open=false]
+[18May2025 01:15:25.295] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12454ms or 249 ticks behind
+[18May2025 01:15:52.469] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12178ms or 243 ticks behind
+[18May2025 01:16:19.748] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12307ms or 246 ticks behind
+[18May2025 01:16:48.662] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13921ms or 278 ticks behind
+[18May2025 01:17:18.058] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14417ms or 288 ticks behind
+[18May2025 01:17:47.703] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14662ms or 293 ticks behind
+[18May2025 01:18:17.581] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14890ms or 297 ticks behind
+[18May2025 01:18:46.431] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13890ms or 277 ticks behind
+[18May2025 01:19:13.205] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fablex39 lost connection: Disconnected
+[18May2025 01:19:13.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fablex39 left the game
+[18May2025 01:19:15.246] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13855ms or 277 ticks behind
+[18May2025 01:19:38.774] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8533ms or 170 ticks behind
